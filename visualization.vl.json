@@ -1,0 +1,43 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "British Inflation",
+    "anchor": "start",
+    "subtitle": "All items, % | Source: ONS through ECO API",
+    "fontSize": "22",
+    "subtitleFontSize": "12",
+    "color": "#000000",
+    "subtitleColor": "#000000"
+  },
+  "height": "300",
+  "width": "container",
+  "autosize": {"type": "fit", "contains": "padding"},
+  "background": "#ffffff",
+  "view": {"fill": "#ffffff", "strokeOpacity": 0},
+  "data": {
+    "url": "https://api.economicsobservatory.com/gbr/infl?vega",
+    "format": {"type": "json"}
+  },
+  "mark": {"type": "bar", "color": "#092e0a", "strokeWidth": "2"},
+  "encoding": {
+    "x": {
+      "field": "date",
+      "type": "temporal",
+      "axis": {
+        "title": "which bad year for Britain",
+        "titleColor": "#122B39",
+        "grid": true
+      }
+    },
+    "y": {
+      "field": "value",
+      "type": "quantitative",
+      "axis": {
+        "title": "Crushing inflation level",
+        "titleColor": "#122B39",
+        "grid": true
+      }
+    }
+  },
+  "config": {}
+}
