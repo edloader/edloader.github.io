@@ -1,0 +1,226 @@
+﻿Year,Income,Region
+1997,9101,North East
+1998,9146,North East
+1999,9487,North East
+2000,9976,North East
+2001,10435,North East
+2002,10617,North East
+2003,10952,North East
+2004,11453,North East
+2005,11679,North East
+2006,12101,North East
+2007,12419,North East
+2008,12693,North East
+2009,13258,North East
+2010,13508,North East
+2011,13659,North East
+2012,14197,North East
+2013,14537,North East
+2014,14898,North East
+2015,15442,North East
+2016,15606,North East
+2017,15933,North East
+2018,16346,North East
+2019,16866,North East
+2020,16935,North East
+2021,17663,North East
+1997,9602,North West
+1998,9748,North West
+1999,10254,North West
+2000,10699,North West
+2001,11079,North West
+2002,11371,North West
+2003,11761,North West
+2004,12200,North West
+2005,12583,North West
+2006,12997,North West
+2007,13520,North West
+2008,13733,North West
+2009,14233,North West
+2010,14383,North West
+2011,14516,North West
+2012,14948,North West
+2013,15439,North West
+2014,15835,North West
+2015,16589,North West
+2016,16692,North West
+2017,17164,North West
+2018,17746,North West
+2019,18371,North West
+2020,18418,North West
+2021,18864,North West
+1997,9475,Yorkshire
+1998,9725,Yorkshire
+1999,10192,Yorkshire
+2000,10617,Yorkshire
+2001,10970,Yorkshire
+2002,11249,Yorkshire
+2003,11611,Yorkshire
+2004,11988,Yorkshire
+2005,12285,Yorkshire
+2006,12710,Yorkshire
+2007,13236,Yorkshire
+2008,13393,Yorkshire
+2009,13754,Yorkshire
+2010,13844,Yorkshire
+2011,14075,Yorkshire
+2012,14453,Yorkshire
+2013,14887,Yorkshire
+2014,15284,Yorkshire
+2015,15991,Yorkshire
+2016,16058,Yorkshire
+2017,16517,Yorkshire
+2018,17134,Yorkshire
+2019,17673,Yorkshire
+2020,17669,Yorkshire
+2021,18363,Yorkshire
+1997,9664,East Midlands
+1998,9845,East Midlands
+1999,10278,East Midlands
+2000,10660,East Midlands
+2001,11103,East Midlands
+2002,11371,East Midlands
+2003,11849,East Midlands
+2004,12294,East Midlands
+2005,12626,East Midlands
+2006,13034,East Midlands
+2007,13793,East Midlands
+2008,13945,East Midlands
+2009,14166,East Midlands
+2010,14226,East Midlands
+2011,14508,East Midlands
+2012,14971,East Midlands
+2013,15463,East Midlands
+2014,15918,East Midlands
+2015,16717,East Midlands
+2016,16724,East Midlands
+2017,17187,East Midlands
+2018,17729,East Midlands
+2019,18345,East Midlands
+2020,18394,East Midlands
+2021,18956,East Midlands
+1997,9675,West Midlands
+1998,9971,West Midlands
+1999,10344,West Midlands
+2000,10798,West Midlands
+2001,11215,West Midlands
+2002,11472,West Midlands
+2003,11775,West Midlands
+2004,12177,West Midlands
+2005,12376,West Midlands
+2006,12835,West Midlands
+2007,13191,West Midlands
+2008,13527,West Midlands
+2009,13846,West Midlands
+2010,14019,West Midlands
+2011,14200,West Midlands
+2012,14553,West Midlands
+2013,15080,West Midlands
+2014,15603,West Midlands
+2015,16423,West Midlands
+2016,16688,West Midlands
+2017,16912,West Midlands
+2018,17476,West Midlands
+2019,17966,West Midlands
+2020,17929,West Midlands
+2021,18566,West Midlands
+1997,11160,East of England
+1998,11339,East of England
+1999,11815,East of England
+2000,12432,East of England
+2001,12996,East of England
+2002,13327,East of England
+2003,13603,East of England
+2004,14023,East of England
+2005,14529,East of England
+2006,14973,East of England
+2007,15612,East of England
+2008,16112,East of England
+2009,16527,East of England
+2010,16684,East of England
+2011,16807,East of England
+2012,17396,East of England
+2013,18067,East of England
+2014,18607,East of England
+2015,19697,East of England
+2016,20021,East of England
+2017,20595,East of England
+2018,21392,East of England
+2019,22062,East of England
+2020,21711,East of England
+2021,22337,East of England
+1997,12902,London
+1998,13333,London
+1999,14170,London
+2000,15204,London
+2001,15761,London
+2002,15979,London
+2003,16678,London
+2004,17579,London
+2005,18602,London
+2006,19535,London
+2007,20959,London
+2008,21572,London
+2009,21477,London
+2010,21651,London
+2011,21474,London
+2012,22775,London
+2013,24052,London
+2014,24979,London
+2015,26761,London
+2016,27146,London
+2017,27572,London
+2018,29015,London
+2019,29809,London
+2020,29202,London
+2021,31094,London
+1997,12682,South East
+1998,12908,South East
+1999,13337,South East
+2000,14032,South East
+2001,14496,South East
+2002,14836,South East
+2003,15057,South East
+2004,15629,South East
+2005,16188,South East
+2006,16920,South East
+2007,17739,South East
+2008,18086,South East
+2009,18445,South East
+2010,18520,South East
+2011,18703,South East
+2012,19333,South East
+2013,20164,South East
+2014,20641,South East
+2015,21909,South East
+2016,22202,South East
+2017,22750,South East
+2018,23558,South East
+2019,24335,South East
+2020,23911,South East
+2021,24623,South East
+1997,10907,South West
+1998,11124,South West
+1999,11518,South West
+2000,11948,South West
+2001,12409,South West
+2002,12587,South West
+2003,12928,South West
+2004,13385,South West
+2005,13890,South West
+2006,14601,South West
+2007,15128,South West
+2008,15594,South West
+2009,15679,South West
+2010,16079,South West
+2011,16330,South West
+2012,16663,South West
+2013,17313,South West
+2014,17874,South West
+2015,18711,South West
+2016,18905,South West
+2017,19343,South West
+2018,20101,South West
+2019,20920,South West
+2020,20579,South West
+2021,21221,South West
