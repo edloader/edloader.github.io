@@ -1,0 +1,14 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Stock prices of 5 Tech Companies over Time.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/Regional%20Productivity%20(1).csv"
+  },
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "Year", "type": "temporal"},
+    "y": {"field": "Productivity", "type": "quantitative"},
+    "color": {"field": "Region", "type": "nominal"}
+  },
+  "config": {}
+}
