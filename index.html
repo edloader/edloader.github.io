@@ -86,7 +86,7 @@
                 Inflation
             </p>
         </div>
-        <figure id="Location3"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+        <figure id="Location3"style="width: 100%; height 400px;"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
     </section>
 
     <section></section>
@@ -108,6 +108,21 @@
         </div>
         <figure id="Location5" style="width: 100%; height 400px;"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
     </section>
+
+    <section></section>
+        <div class="chart-description">
+            <h2>Economics Observatory Week 3</h2>
+            <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
+                AN argument I found interetsing was that the, regional inequality within the Uk has been growing year after year. This is particulary 
+            </p>
+        </div>
+        <figure id="Location6" style="width: 100%; height 400px;"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+    </section>
+    
+   
+    
+    
+    
     <!-- Do you want to add more sections? -->
         <!-- Try copying pasting the section above -->
         <!-- You'll need to change the id of the figure "<figure id="Location3"... -->
@@ -139,6 +154,9 @@
 
         vegaEmbed('#Location5', figure_5_spec)
         
+        let figure_6_spec = "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/visualization.vl%20(1)%20region.json";
+
+        vegaEmbed('#Location6', figure_6_spec)
         // Do you want to add more graphs?
         // try defining a new variable for figure_3_spec, adding VegaEmbed for Location3, and adding a new section in the HTML
         // e.g. 
