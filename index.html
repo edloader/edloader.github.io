@@ -119,6 +119,18 @@
         <figure id="Location6" style="width: 100%; height 400px;"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
         <figure id="Location7" style="width: 100%; height 400px;"></figure>
     </section>
+    
+    <section></section>
+    <h2>
+    Chart Replication
+    </h2>
+    <h3>
+        <img src="https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/Oil%20chart%20(1).PNG"
+        alt="Chart Image" width="600" height="400">
+    </h3>
+</div>
+<figure id="Location8" style="width: 100%; height 300px;"></figure>
+</section>
 
     
    
@@ -163,6 +175,9 @@
         let figure_7_spec = "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/visualization.vl%20(1)%20Region%20Productivity.json";
 
         vegaEmbed('#Location7', figure_7_spec)
+
+        let figure_8_spec = "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/visualization.vl%20(1)%20oil%20price%20newest.json";
+        vegaEmbed('#Location8', figure_8_spec)
         // Do you want to add more graphs?
         // try defining a new variable for figure_3_spec, adding VegaEmbed for Location3, and adding a new section in the HTML
         // e.g. 
