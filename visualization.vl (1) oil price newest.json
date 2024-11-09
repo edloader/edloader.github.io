@@ -1,0 +1,67 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Worldwide oil",
+    "subtitle": "Oil prices compared to their level of production. Source BP",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start"
+  },
+  "width": 510,
+  "height": 250,
+  "data": {
+    "name": "myData",
+    "url": "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/Oil%20price.csv"
+  },
+  "layer": [
+    {
+      "mark": {"type": "line", "point": false, "strokeWidth": 3, "width": 1},
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "title": null,
+          "type": "temporal",
+          "axis": {"grid": false}
+        },
+        "y": {
+          "field": "Price ($/barrel, 2011 prices)",
+          "type": "quantitative",
+          "title": "",
+          "scale": {"domain": [0, 120]},
+          "axis": {"grid": true, "labelColor": "skyblue", "format": ",.5"}
+        },
+        "color": {
+          "datum": "Price ($/barrel, 2011 prices)",
+          "scale": {"range": ["skyblue", "darkred"]},
+          "legend": {"orient": "top"}
+        }
+      }
+    },
+    {
+      "mark": {"type": "line", "point": false, "strokeWidth": 3},
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "title": null,
+          "type": "temporal",
+          "axis": {"grid": false}
+        },
+        "y": {
+          "field": "Production (m b/d)",
+          "type": "quantitative",
+          "title": "",
+          "scale": {"domain": [0, 90]},
+          "axis": {"grid": false, "labelColor": "darkred", "format": ",.5"},
+          "tickMinStep": 10
+        },
+        "color": {
+          "datum": "Production (millions, barrels/day)",
+          "scale": {"range": ["orange", "hotpink"]},
+          "legend": {"orient": "top"}
+        }
+      }
+    }
+  ],
+  "resolve": {"scale": {"y": "independent"}},
+  "config": {}
+}
