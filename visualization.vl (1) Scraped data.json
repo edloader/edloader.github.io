@@ -1,0 +1,36 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "GDP by Country ",
+    "subtitle": "10 largest Economies in $ Millions",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/gdp_data.csv"
+  },
+  "transform": [
+    {"sort": [{"field": "value", "order": "descending"}]},
+    {"window": [{"op": "rank", "as": "rank"}]},
+    {"filter": "datum.rank > 1 && datum.rank <= 11"}
+  ],
+  "height": 300,
+  "width": 260,
+  "mark": {"type": "bar", "color": "#873912"},
+  "encoding": {
+    "x": {
+      "field": "Country/Territory",
+      "type": "nominal",
+      "axis": {"title": null, "grid": false, "ticks": false, "labelAngle": 45}
+    },
+    "y": {
+      "field": "value",
+      "type": "quantitative",
+      "title": "",
+      "axis": {"grid": false}
+    }
+  },
+  "config": {}
+}
