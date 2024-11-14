@@ -80,7 +80,7 @@
                 Chart 1
             </p>
         </div>
-        <figure id="Location4" style="width: 100%; height 400px;"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+        <figure id="Location4" style="width: 100%; height: 300px;"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
     </section>
 
     <section></section>
@@ -90,7 +90,7 @@
                 Chart 2
             </p>
         </div>
-        <figure id="Location5" style="width: 100%; height 400px;"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+        <figure id="Location5" style="width: 100%; height: 300px;"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
     </section>
 
     <section></section>
@@ -100,8 +100,8 @@
                 An argument I found interesting is that a significant factor behind the the decline of British economics performance, is due to an increase in regional inequality within the Uk. Supposedly, this has been growing year after year, particulary since the 1980s and 90s. The charts particulary emphasise this when showing the income growth in London compared to other regions of England.
     
         </div>
-        <figure id="Location6" style="width: 100%; height 400px;"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
-        <figure id="Location7" style="width: 100%; height 400px;"></figure>
+        <figure id="Location6" style="width: 100%; height: 300px;"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+        <figure id="Location7" style="width: 100%; height: 300px;"></figure>
     </section>
     
     <section></section>
@@ -113,13 +113,57 @@
         alt="Chart Image" width="600" height="400">
     </h3>
 </div>
-<figure id="Location8" style="width: 160; height 300px;"></figure>
+<figure id="Location8" style="width: 160%; height: 300px;"></figure>
 <p>
     I have recreated a double axis chart showing the difference between oil prices and the production level worldwide. To improve the chart I have altered the title to be more descriptive and ensure the graph can be understood. I have also chnged the axis increments to be more consistent acroos the whole graph.
 
 </p
 </section>
 
+<section></section>
+    <h2>
+    Task 5: Web Scraping
+    </h2>
+    <a href="https://colab.research.google.com/drive/1up0-DH5fhlEfc3kaAh3G0FQZTQx-eXl5?authuser=0#scrollTo=KRdPXoILpmyH">Google Colab Notebook</a>
+<p>
+
+</p>
+</div>
+
+<figure id="Location9" style="width: 100%; height: 300px;"></figure>
+</section>
+
+<section>
+    <H3>
+        Task 6: 
+    </H3>
+
+    <p>
+        <a href="https://colab.research.google.com/drive/1fYeBsMNhNXdewV5fHio9s8VtAYAhDjc6#scrollTo=mDaYWjLFdOT4"
+            target="_blank">Click here for Google Collab python notebook </a>
+
+
+    </p>
+
+
+
+
+
+<h3>
+    <div class="grid-container">
+        <div class="grid-item" id="chart-Poland"></div>
+        <div class="grid-item" id="chart-USA"></div>
+        <div class="grid-item" id="chart-Spain"></div>
+        <div class="grid-item" id="chart-Germany"></div>
+        <div class="grid-item" id="chart-Japan"></div>
+        <div class="grid-item" id="chart-UK"></div>
+        <div class="grid-item" id="chart-Italy"></div>
+        <div class="grid-item" id="chart-France"></div>
+        <div class="grid-item" id="chart-Canada"></div>
+    </div>
+</h3>
+
+</section>
 
     
    
@@ -167,6 +211,9 @@
 
         let figure_8_spec = "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/visualization.vl%20(1)%20oil%20price%20newest.json";
         vegaEmbed('#Location8', figure_8_spec)
+
+        let figure_9_spec = "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/visualization.vl%20(1)%20Scraped%20data.json";
+        vegaEmbed('#Location9', figure_9_spec)
         // Do you want to add more graphs?
         // try defining a new variable for figure_3_spec, adding VegaEmbed for Location3, and adding a new section in the HTML
         // e.g. 
@@ -178,6 +225,106 @@
 
 
     </script>
+ <script>
+    const charts = [
+        {
+            id: 'chart-Poland',
+            url: 'https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/API/unemployment_rate_Poland.json',
+            subtitle: 'Poland'
+        },
+        {
+            id: 'chart-USA',
+            url: 'https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/API/unemployment_rate_USA.json',
+            subtitle: 'USA'
+        },
+        {
+            id: 'chart-Spain',
+            url: 'https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/API/unemployment_rate_Spain.json',
+            subtitle: 'Spain'
+        },
+        {
+            id: 'chart-Germany',
+            url: 'https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/API/unemployment_rate_Germany.json',
+            subtitle: 'Germany'
+        },
+        {
+            id: 'chart-Japan',
+            url: 'https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/API/unemployment_rate_Japan.json',
+            subtitle: 'Japan'
+        },
+        {
+            id: 'chart-UK',
+            url: 'https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/API/unemployment_rate_UK.json',
+            subtitle: 'UK'
+        },
+        {
+            id: 'chart-Italy',
+            url: 'https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/API/unemployment_rate_Italy.json',
+            subtitle: 'Italy'
+        },
+        {
+            id: 'chart-France',
+            url: 'https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/API/unemployment_rate_France.json',
+            subtitle: 'France'
+        },
+        {
+            id: 'chart-Canada',
+            url: 'https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/API/unemployment_rate_Canada.json',
+            subtitle: 'Canada'
+        }
+    ];
+
+
+    charts.forEach(chart => {
+        const spec = {
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "title": {
+                "text": "Unemployment rate",
+                "subtitle": chart.subtitle
+            },
+            "width": 159,
+            "height": 150,
+            "data": {
+                "url": chart.url
+            },
+            "transform": [
+                {
+                    "filter": "datum.date <= '2020-12-31'"
+                }
+            ],
+            "mark": {
+                "type": "line",
+                "color": "red"
+            },
+            "encoding": {
+                "x": {
+                    "field": "date",
+                    "type": "nominal",
+                    "axis": {
+                        "title": "Date",  // Add custom title for x-axis
+                        "labelOverlap": "greedy",
+                        "labelAngle": -45
+                    }
+                },
+                "y": {
+                    "field": "value",
+                    "type": "quantitative",
+                    "axis": {
+                        "title": "Unemployment Rate (%)"   // Add custom title for y-axis
+                    }
+                }
+            }
+        };
+
+        vegaEmbed(`#${chart.id}`, spec);
+    });
+
+
+
+
+
+
+</script>
 
 </body>
     
