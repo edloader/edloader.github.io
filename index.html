@@ -2,23 +2,8 @@
 <!-- It works with the three css files in this folder: example1.css, example2.css and example3.css. -->
 <!-- The HTML file defines the structure of the page, and the CSS files define how it looks. -->
 <!-- The CSS examples are all designed to work with this page. Try swapping them out on line 29 and see what happens. -->
-
-<!-- Take a look around and make your own copy to adapt for your own use. -->
-
-<!-- This is a comment -->
-<!-- Comments are not displayed in the browser -->
-<!-- They can be used to leave notes in the code -->
-
 <!DOCTYPE html>
 <html> 
-    <!-- HTML is heirarchial: tags like this define elements on the page. 
-    Each tag does something different. For example:
-        - The <html> tag defines the whole document.
-        - The <h1> tag defines a large heading
-        - The <p> tag defines a paragraph
-        - Tags appear as an opening <div> and closing </div> pair
-    -->
-
 <head>    
     <!-- The head tag links to resources our page needs and defines information about it. Tags in the <head> aren't displayed on the page. -->
 
@@ -117,7 +102,7 @@
 <p>
     I have recreated a double axis chart showing the difference between oil prices and the production level worldwide. To improve the chart I have altered the title to be more descriptive and ensure the graph can be understood. I have also chnged the axis increments to be more consistent acroos the whole graph.
 
-</p
+</p>
 </section>
 
 <section></section>
@@ -126,7 +111,7 @@
     </h2>
     <a href="https://colab.research.google.com/drive/1up0-DH5fhlEfc3kaAh3G0FQZTQx-eXl5?authuser=0#scrollTo=KRdPXoILpmyH">Google Colab Notebook</a>
 <p>
-
+This chart shows the 10 largest economies in the world. I used the pd.read_HTML function to extract data from Wikipedia. Wikipedia is a good source to use for HTML data as the tables are usually written directly as HTML files.
 </p>
 </div>
 
@@ -134,20 +119,14 @@
 </section>
 
 <section>
-    <H3>
-        Task 6: 
-    </H3>
-
-    <p>
+    <h2>
+        Task 6: Lopping with API's
+    </h2>
         <a href="https://colab.research.google.com/drive/1fYeBsMNhNXdewV5fHio9s8VtAYAhDjc6#scrollTo=mDaYWjLFdOT4"
-            target="_blank">Click here for Google Collab python notebook </a>
-
-
+            target="_blank">Google Collab Notebook </a>
+    <p>
+I used the ONS API in order to download data on unemployment in various countries around the world. This used loops in order to download all the information simultaneously. I then used loops again to covert the files into json format so I could represent them graphically. 
     </p>
-
-
-
-
 
 <h3>
     <div class="grid-container">
@@ -164,17 +143,6 @@
 </h3>
 
 </section>
-
-    
-   
-    
-    
-    
-    <!-- Do you want to add more sections? -->
-        <!-- Try copying pasting the section above -->
-        <!-- You'll need to change the id of the figure "<figure id="Location3"... -->
-        <!-- ... and add a new variable for the graph spec in the script at the bottom of the page -->
-
 
     <!-- This is a script, it's a way to run JavaScript code on the page -->
     <script>
@@ -214,17 +182,9 @@
 
         let figure_9_spec = "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/visualization.vl%20(1)%20Scraped%20data.json";
         vegaEmbed('#Location9', figure_9_spec)
-        // Do you want to add more graphs?
-        // try defining a new variable for figure_3_spec, adding VegaEmbed for Location3, and adding a new section in the HTML
-        // e.g. 
-        // let figure_3_spec = ...
-        // vegaEmbed('#Location3', figure_3_spec)
-
-        // let figure_4_spec = "visuali...
-        // vegaEmbed("#Location4", "visualization.vl.json")
-
-
-    </script>
+        
+        </script>
+ 
  <script>
     const charts = [
         {
@@ -289,7 +249,7 @@
             },
             "transform": [
                 {
-                    "filter": "datum.date <= '2020-12-31'"
+                    "filter": "datum.date <= '2019-12-31'"
                 }
             ],
             "mark": {
