@@ -1,0 +1,295 @@
+Name,Value
+Hartlepool,591.687088
+Middlesbrough,528.181676
+Redcar and Cleveland,535.261636
+Stockton-on-Tees,564.63924
+Darlington,596.00614
+Halton,634.07016
+Warrington,639.596872
+Blackburn with Darwen,547.52448
+Blackpool,499.145228
+Kingston upon Hull,541.70336
+East Riding of Yorkshire,614.160096
+North East Lincolnshire,607.548496
+North Lincolnshire,610.925664
+York,589.993252
+Derby,589.45344
+Leicester,491.38704
+Rutland,829.88832
+Nottingham,494.4986
+Herefordshire,571.615608
+Telford and Wrekin,621.098964
+Stoke-on-Trent,539.53614
+Bath and North East Somerset,620.487436
+Bristol,629.438816
+North Somerset,652.582216
+South Gloucestershire,635.253596
+Plymouth,557.077824
+Torbay,546.055328
+Swindon,668.007904
+Peterborough,589.431472
+Luton,584.979856
+Southend-on-Sea,674.5349
+Thurrock,694.5906
+Medway,643.845464
+Bracknell Forest,756.445328
+West Berkshire,740.476984
+Reading,657.417484
+Slough,730.0602
+Windsor and Maidenhead,719.288064
+Wokingham,834.602868
+Milton Keynes,664.772068
+Brighton and Hove,611.55978
+Portsmouth,588.8598
+Southampton,616.164776
+Isle of Wight,586.02252
+County Durham,560.048148
+Cheshire East,608.99514
+Cheshire West and Chester,626.108736
+Shropshire,583.238752
+Cornwall,536.557668
+Wiltshire,592.041768
+Bedford,681.677048
+Central Bedfordshire,721.873984
+Northumberland,578.760048
+"Bournemouth, Christchurch and Poole",583.34874
+Dorset,596.52792
+Buckinghamshire,678.1614
+North Northamptonshire,604.631772
+West Northamptonshire,611.382816
+Cumberland,625.364496
+Westmorland and Furness,630.234936
+North Yorkshire,569.305032
+Somerset,544.817664
+Cambridge,785.76254
+East Cambridgeshire,690.942448
+Fenland,650.84802
+Huntingdonshire,664.40224
+South Cambridgeshire,758.368128
+Amber Valley,637.14376
+Bolsover,536.2305
+Chesterfield,579.92264
+Derbyshire Dales,709.783344
+Erewash,644.399872
+High Peak,652.1022
+North East Derbyshire,625.420848
+South Derbyshire,699.478648
+East Devon,592.342008
+Exeter,591.958584
+Mid Devon,593.552736
+North Devon,575.648616
+South Hams,577.073548
+Teignbridge,576.774872
+Torridge,594.5952
+West Devon,549.10048
+Eastbourne,699.94584
+Hastings,569.084504
+Lewes,635.405068
+Rother,575.787844
+Wealden,614.48504
+Basildon,650.353184
+Braintree,666.441216
+Brentwood,916.004
+Castle Point,676.276896
+Chelmsford,645.069568
+Colchester,616.741708
+Epping Forest,794.02992
+Harlow,597.789488
+Maldon,617.179308
+Rochford,796.8258
+Tendring,567.264816
+Uttlesford,794.743464
+Cheltenham,639.602856
+Cotswold,655.053912
+Forest of Dean,693.48142
+Gloucester,592.898064
+Stroud,668.10128
+Tewkesbury,625.39884
+Basingstoke and Deane,720.693792
+East Hampshire,719.82344
+Eastleigh,656.537208
+Fareham,733.561792
+Gosport,643.938784
+Hart,787.375728
+Havant,631.5382
+New Forest,617.837748
+Rushmoor,672.19892
+Test Valley,691.664168
+Winchester,732.935544
+Broxbourne,748.276736
+Dacorum,696.642336
+Hertsmere,723.707296
+North Hertfordshire,789.963096
+Three Rivers,792.08496
+Watford,736.718736
+Ashford,631.1304
+Canterbury,546.704752
+Dartford,724.01628
+Dover,628.53044
+Gravesham,732.615672
+Maidstone,657.185584
+Sevenoaks,730.794504
+Folkestone and Hythe,642.383536
+Swale,645.448056
+Thanet,582.199424
+Tonbridge and Malling,696.105328
+Tunbridge Wells,754.93214
+Burnley,569.535952
+Chorley,670.392528
+Fylde,773.68912
+Hyndburn,598.626912
+Lancaster,588.62194
+Pendle,530.840696
+Preston,574.597428
+Ribble Valley,738.27904
+Rossendale,585.012636
+South Ribble,616.376464
+West Lancashire,637.9692
+Wyre,619.500468
+Blaby,662.299016
+Charnwood,642.0183
+Harborough,669.592704
+Hinckley and Bosworth,636.689376
+Melton,601.91296
+North West Leicestershire,646.72564
+Oadby and Wigston,587.433132
+Boston,544.9397
+East Lindsey,555.22368
+Lincoln,604.238012
+North Kesteven,638.027272
+South Holland,605.58054
+South Kesteven,639.127828
+West Lindsey,624.268476
+Breckland,572.161616
+Broadland,663.5214
+Great Yarmouth,574.594896
+King's Lynn and West Norfolk,575.532816
+North Norfolk,562.220208
+Norwich,592.78378
+South Norfolk,607.819072
+Ashfield,572.552032
+Bassetlaw,559.11522
+Broxtowe,654.204096
+Gedling,597.71232
+Mansfield,569.184304
+Newark and Sherwood,608.45778
+Rushcliffe,726.345612
+Cherwell,665.118912
+Oxford,678.895312
+South Oxfordshire,783.94944
+Vale of White Horse,725.1192
+West Oxfordshire,669.823416
+Cannock Chase,616.725792
+East Staffordshire,645.214564
+Lichfield,705.86514
+Newcastle-under-Lyme,582.430108
+South Staffordshire,682.503872
+Stafford,723.446528
+Staffordshire Moorlands,685.090824
+Tamworth,648.14226
+Babergh,599.267024
+Ipswich,630.27708
+Mid Suffolk,616.138752
+Elmbridge,783.546088
+Epsom and Ewell,847.092048
+Guildford,750.781024
+Mole Valley,767.18272
+Reigate and Banstead,828.5928
+Runnymede,822.3534
+Spelthorne,749.15226
+Surrey Heath,869.199864
+Tandridge,712.658368
+Waverley,832.48894
+Woking,816.50672
+North Warwickshire,732.530392
+Nuneaton and Bedworth,580.772912
+Rugby,684.046896
+Stratford-on-Avon,652.86652
+Warwick,766.320832
+Adur,611.220876
+Arun,534.66608
+Chichester,573.82616
+Crawley,640.664448
+Horsham,703.299456
+Mid Sussex,762.656808
+Worthing,639.239
+Bromsgrove,742.443936
+Malvern Hills,698.84844
+Redditch,614.691072
+Worcester,649.36008
+Wychavon,606.471672
+Wyre Forest,571.547392
+St Albans,855.662
+Welwyn Hatfield,689.16238
+East Hertfordshire,849.834584
+Stevenage,667.215796
+East Suffolk,577.725348
+West Suffolk,624.938496
+Bolton,581.96936
+Bury,621.098964
+Manchester,562.7885
+Oldham,564.513616
+Rochdale,597.115944
+Salford,571.932368
+Stockport,638.64092
+Tameside,574.763468
+Trafford,672.611968
+Wigan,579.068884
+Knowsley,639.003408
+Liverpool,574.9569
+St. Helens,634.23074
+Sefton,556.09944
+Wirral,627.88344
+Barnsley,572.912736
+Doncaster,583.66932
+Rotherham,539.752984
+Sheffield,573.12844
+Newcastle upon Tyne,581.824648
+North Tyneside,611.91636
+South Tyneside,561.32298
+Sunderland,538.441776
+Birmingham,549.72424
+Coventry,623.135716
+Dudley,554.81712
+Sandwell,550.546028
+Solihull,713.5876
+Walsall,559.80408
+Wolverhampton,567.32544
+Bradford,542.52912
+Calderdale,600.10288
+Kirklees,566.233688
+Leeds,600.3427
+Wakefield,557.040576
+Gateshead,552.712512
+Barking and Dagenham,602.959452
+Barnet,674.718288
+Bexley,748.485716
+Brent,671.471328
+Bromley,817.726624
+Camden,816.354408
+Croydon,716.81688
+Ealing,669.186144
+Enfield,631.2402
+Greenwich,773.534104
+Hackney,718.28152
+Hammersmith and Fulham,859.757232
+Haringey,740.53952
+Harrow,704.586096
+Havering,735.749044
+Hillingdon,770.310788
+Hounslow,682.138152
+Islington,840.11466
+Kensington and Chelsea,997.8228
+Kingston upon Thames,770.68044
+Lambeth,815.338496
+Lewisham,712.855624
+Merton,781.424388
+Newham,679.41374
+Redbridge,687.827628
+Richmond upon Thames,861.233436
+Southwark,788.403712
+Sutton,689.160992
+Tower Hamlets,836.936144
+Waltham Forest,728.604888
+Wandsworth,929.7864
+Westminster,876.299112
