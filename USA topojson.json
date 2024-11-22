@@ -1,0 +1,23 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Map of the States in UK",
+  "width": 600,
+  "height": 600,
+  "data": {
+    "url": "https://raw.githubusercontent.com/kthotav/TopoJSON-Maps/refs/heads/master/usa/usa-states.json",
+    "format": {"type": "topojson", "feature": "states-unfiltered"}
+  },
+  "projection": {"type": "mercator"},
+  "mark": {
+    "type": "geoshape",
+    "stroke": "black",
+    "strokeWidth": 0.5,
+    "color": "#8fa1a3 "
+  },
+  "encoding": {
+    "tooltip": [
+      {"field": "properties.STATE", "type": "nominal", "title": "region"}
+    ]
+  },
+  "config": {}
+}
