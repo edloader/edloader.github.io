@@ -82,7 +82,7 @@
         <div class="chart-description">
             <h2> Task 3: Economics Observatory</h2>
             <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
-                An argument I found interesting is that a significant factor behind the the decline of British economics performance, is due to an increase in regional inequality within the Uk. Supposedly, this has been growing year after year, particulary since the 1980s and 90s. The charts particulary emphasise this when showing the income growth in London compared to other regions of England.
+                An argument I found interesting is that a significant factor behind the the decline of British economic performance, is due to an increase in regional inequality within the Uk. Supposedly, this has been growing year after year, particulary since the 1980s and 90s. The charts particulary emphasise this when showing the income growth in London compared to other regions of England.
     
         </div>
         <figure id="Location6" style="width: 100%; height: 300px;"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
@@ -100,7 +100,7 @@
 </div>
 <figure id="Location8" style="width: 160%; height: 300px;"></figure>
 <p>
-    I have recreated a double axis chart showing the difference between oil prices and the production level worldwide. To improve the chart I have altered the title to be more descriptive and ensure the graph can be understood. I have also chnged the axis increments to be more consistent acroos the whole graph.
+    I have recreated a double axis chart showing the difference between oil prices and the production level worldwide. To improve the chart I have altered the title to be more descriptive and ensure the graph can be understood. I have also changed the axis increments to be more consistent across the whole graph.
 
 </p>
 </section>
@@ -120,7 +120,7 @@ This chart shows the 10 largest economies in the world. I used the pd.read_HTML 
 
 <section>
     <h2>
-        Task 6: Lopping with API's
+        Task 6: Looping with API's
     </h2>
         <a href="https://colab.research.google.com/drive/1fYeBsMNhNXdewV5fHio9s8VtAYAhDjc6#scrollTo=mDaYWjLFdOT4"
             target="_blank">Google Collab Notebook </a>
@@ -143,6 +143,23 @@ I used the ONS API in order to download data on unemployment in various countrie
 </h3>
 
 </section>
+<section>
+    <h3>
+        Task 7:
+    </h3>
+    <p>
+        
+    </p>
+    <h3>
+        <figure id="Location10" style="width: 100%; height: 500px;"></figure>
+    </h3>
+
+    <h3>
+        <figure id="Location11" style="width: 100%; height: 500px;"></figure>
+    </h3>
+
+</section>
+
 
     <!-- This is a script, it's a way to run JavaScript code on the page -->
     <script>
@@ -183,6 +200,12 @@ I used the ONS API in order to download data on unemployment in various countrie
         let figure_9_spec = "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/visualization.vl%20(1)%20Scraped%20data.json";
         vegaEmbed('#Location9', figure_9_spec)
         
+        let figure_10_spec = "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/visualization.vl%20(1)%20Germany%20original%20map.json";
+        vegaEmbed('#Location10', figure_10_spec)
+
+        let figure_11_spec = "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/visualization.vl%20(1)%20mapping%20final.json";
+        vegaEmbed('#Location11', figure_11_spec)
+
         </script>
  
  <script>
