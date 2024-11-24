@@ -1,0 +1,23 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "German States Map",
+  "width": 500,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/AliceWi/TopoJSON-Germany/refs/heads/master/germany.json",
+    "format": {"type": "topojson", "feature": "states"}
+  },
+  "projection": {"type": "mercator"},
+  "mark": {
+    "type": "geoshape",
+    "stroke": "black",
+    "strokeWidth": 0.5,
+    "color": "#8fa38f "
+  },
+  "encoding": {
+    "tooltip": [
+      {"field": "properties.name", "type": "nominal", "title": "region"}
+    ]
+  },
+  "config": {}
+}
