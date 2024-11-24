@@ -34,8 +34,8 @@
       "scale": {"scheme": "tealblues"}
     },
     "tooltip": [
-      {"field": "properties.name", "type": "nominal", "title": "region"},
-      {"field": "GDP", "type": "quantitative", "title": "Number"}
+      {"field": "properties.name", "type": "nominal", "title": "State"},
+      {"field": "GDP", "type": "quantitative", "title": "GDP"}
     ]
   },
   "config": {}
