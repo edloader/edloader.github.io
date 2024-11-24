@@ -1,11 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Number of Water Extraction Plants 2019 - Germany",
-    "subtitle": [
-      "Per State in Germany",
-      "Source: German Federal Statistical Office - Statistisches Bundesamt"
-    ],
+    "text": "GDP ",
+    "subtitle": ["By State in Germany Billions ($)", "Source: Wikipedia"],
     "subtitleFontSize": 10,
     "anchor": "start"
   },
@@ -34,7 +31,7 @@
     "color": {
       "field": "GDP",
       "type": "quantitative",
-      "scale": {"scheme": "blues"}
+      "scale": {"scheme": "tealblues"}
     },
     "tooltip": [
       {"field": "properties.name", "type": "nominal", "title": "region"},
