@@ -1,0 +1,45 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Number of Water Extraction Plants 2019 - Germany",
+    "subtitle": [
+      "Per State in Germany",
+      "Source: German Federal Statistical Office - Statistisches Bundesamt"
+    ],
+    "subtitleFontSize": 10,
+    "anchor": "start"
+  },
+  "width": 500,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/AliceWi/TopoJSON-Germany/refs/heads/master/germany.json",
+    "format": {"type": "topojson", "feature": "states"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.name",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/output(1).csv",
+          "format": {"type": "csv"}
+        },
+        "key": "States",
+        "fields": ["GDP"]
+      }
+    }
+  ],
+  "projection": {"type": "mercator"},
+  "mark": {"type": "geoshape", "stroke": "black", "strokeWidth": 0.5},
+  "encoding": {
+    "color": {
+      "field": "GDP",
+      "type": "quantitative",
+      "scale": {"scheme": "blues"}
+    },
+    "tooltip": [
+      {"field": "properties.name", "type": "nominal", "title": "region"},
+      {"field": "GDP", "type": "quantitative", "title": "Number"}
+    ]
+  },
+  "config": {}
+}
