@@ -16,7 +16,7 @@
   },
   "encoding": {
     "tooltip": [
-      {"field": "properties.name", "type": "nominal", "title": "region"}
+      {"field": "properties.name", "type": "nominal", "title": "State"}
     ]
   },
   "config": {}
