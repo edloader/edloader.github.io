@@ -1,0 +1,42 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "GDP per Capita ",
+    "subtitle": ["European Countries 1900", "Source: Gapminder"],
+    "subtitleFontSize": 10,
+    "anchor": "start"
+  },
+  "width": 500,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/leakyMirror/map-of-europe/refs/heads/master/TopoJSON/europe.topojson",
+    "format": {"type": "topojson", "feature": "europe"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.NAME",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/gdp_per_capita.csv",
+          "format": {"type": "csv"}
+        },
+        "key": "country",
+        "fields": ["GDP per Capita"]
+      }
+    }
+  ],
+  "projection": {"type": "mercator"},
+  "mark": {"type": "geoshape", "stroke": "black", "strokeWidth": 0.8},
+  "encoding": {
+    "color": {
+      "field": "GDP per Capita",
+      "type": "quantitative",
+      "scale": {"scheme": "tealblues"}
+    },
+    "tooltip": [
+      {"field": "properties.NAME", "type": "nominal", "title": "State"},
+      {"field": "GDP per Capita", "type": "quantitative", "title": "GDP"}
+    ]
+  },
+  "config": {}
+}
