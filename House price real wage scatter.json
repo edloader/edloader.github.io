@@ -1,0 +1,42 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Various US measures state by state",
+  "title": {
+    "text": "House Price v Real Wage - Britain",
+    "subtitle": [
+      "Real Weekely Wage(£) (x), and House Price Index (y) 2011-2024",
+      "Source: ONS"
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/modified_real_wage.csv",
+    "format": {"type": "csv"}
+  },
+  "mark": {
+    "type": "circle",
+    "size": 400,
+    "color": "rgb(0,128,128)",
+    "opacity": 0.4
+  },
+  "height": 300,
+  "width": 300,
+  "encoding": {
+    "x": {
+      "field": "Real Wage",
+      "type": "quantitative",
+      "scale": {"domain": [440, 560]},
+      "title": null
+    },
+    "y": {
+      "field": "House Price",
+      "type": "quantitative",
+      "scale": {"domain": [90, 130]},
+      "title": null
+    }
+  },
+  "config": {}
+}
