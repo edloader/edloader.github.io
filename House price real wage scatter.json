@@ -5,7 +5,7 @@
     "text": "House Price v Real Wage - Britain",
     "subtitle": [
       "Real Weekly Wage(£) (x), and House Price Index (y) 2011-2024",
-      "Source: ONS"
+      "Source: ONS, ONS through ECO API"
     ],
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 10,
