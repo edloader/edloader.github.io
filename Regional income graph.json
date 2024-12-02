@@ -1,0 +1,24 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Regional Income ",
+    "subtitle": [
+      "Average income per person after taxes and direct benefits (£)",
+      "Source: ONS"
+    ],
+    "subtitleFontSize": 10,
+    "anchor": "start"
+  },
+  "width": 500,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/Final%20income%20data.csv"
+  },
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "Year", "type": "temporal"},
+    "y": {"field": "Income", "type": "quantitative"},
+    "color": {"field": "Region", "type": "nominal"}
+  },
+  "config": {}
+}
