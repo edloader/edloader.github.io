@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
     "text": "GDP per Capita ",
-    "subtitle": ["European Countries 1900", "Source: Gapminder"],
+    "subtitle": ["European Countries 2024 ($)", "Source: Gapminder"],
     "subtitleFontSize": 10,
     "anchor": "start"
   },
