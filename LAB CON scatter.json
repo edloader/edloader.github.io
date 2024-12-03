@@ -1,0 +1,55 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Various US measures state by state",
+  "title": {
+    "text": "Government Spending and GDP Growth",
+    "subtitle": [
+      "Government Spending % GDP (x), GDP Growth % (y)",
+      "Source: ONS, Statista"
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/growth%20spend%20scatter.csv",
+    "format": {"type": "csv"}
+  },
+  "mark": {
+    "type": "circle",
+    "size": 300,
+    "color": "rgb(0,67,167)",
+    "opacity": 0.6
+  },
+  "height": 300,
+  "width": 300,
+  "encoding": {
+    "x": {
+      "field": "Spend",
+      "type": "quantitative",
+      "scale": {"domain": [30, 55]},
+      "title": null
+    },
+    "y": {
+      "field": "Growth",
+      "type": "quantitative",
+      "scale": {"domain": [-15, 10]},
+      "title": null
+    },
+    "color": {
+      "field": "Party",
+      "type": "ordinal",
+      "scale": {"domain": ["Conservative", "Labour"], "range": ["blue", "red"]},
+      "legend": {"orient": "bottom"},
+      "title": null
+    },
+    "tooltip": [
+      {"field": "Party", "type": "ordinal", "title": "Party"},
+      {"field": "Year", "type": "quantitative", "title": "Year"},
+      {"field": "Spend", "type": "quantitative", "title": "Government Spend"},
+      {"field": "Growth", "type": "quantitative", "title": "GDP Growth"}
+    ]
+  },
+  "config": {}
+}
