@@ -9,8 +9,8 @@
     "subtitleFontSize": 10,
     "anchor": "start"
   },
-  "width": 500,
-  "height": 500,
+  "width": 400,
+  "height": 350,
   "data": {
     "url": "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/Final%20income%20data.csv"
   },
@@ -18,7 +18,44 @@
   "encoding": {
     "x": {"field": "Year", "type": "temporal"},
     "y": {"field": "Income", "type": "quantitative"},
-    "color": {"field": "Region", "type": "nominal"}
+    "color": {
+      "field": "Region",
+      "type": "nominal",
+      "scale": {"scheme": "viridis"}
+    },
+    "tooltip": [
+      {"field": "Year", "type": "temporal", "title": "Date"},
+      {"field": "Income", "title": "Income (£)"},
+      {"field": "Region", "type": "nominal", "title": "Region"}
+    ],
+    "opacity": {"condition": {"param": "hover", "value": 1}, "value": 0.2}
   },
+  "params": [
+    {
+      "name": "hover",
+      "select": {"type": "point", "fields": ["Region"], "on": "mouseover"}
+    }
+  ],
+  "layer": [
+    {
+      "description": "transparent layer to make it easier to trigger selection",
+      "params": [
+        {
+          "name": "hover",
+          "value": [{"Region": "England"}],
+          "select": {"type": "point", "fields": ["Region"], "on": "mouseover"}
+        }
+      ],
+      "mark": {"type": "line", "strokeWidth": 8, "stroke": "transparent"}
+    },
+    {"mark": "line"},
+    {
+      "encoding": {
+        "x": {"aggregate": "max", "field": "Year"},
+        "y": {"aggregate": {"argmax": "Year"}, "field": "Income"}
+      },
+      "layer": [{"mark": {"type": "circle", "color": "black"}}]
+    }
+  ],
   "config": {}
 }
