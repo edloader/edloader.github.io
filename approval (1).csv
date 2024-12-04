@@ -1,0 +1,5005 @@
+Approval,Date,Value,Variable
+Approve,09/02/2011,0.3,All Adults
+Disapprove,09/02/2011,0.55,All Adults
+Don't know,09/02/2011,0.15,All Adults
+Approve,16/02/2011,0.3,All Adults
+Disapprove,16/02/2011,0.55,All Adults
+Don't know,16/02/2011,0.15,All Adults
+Approve,23/02/2011,0.3,All Adults
+Disapprove,23/02/2011,0.54,All Adults
+Don't know,23/02/2011,0.15,All Adults
+Approve,02/03/2011,0.3,All Adults
+Disapprove,02/03/2011,0.55,All Adults
+Don't know,02/03/2011,0.15,All Adults
+Approve,09/03/2011,0.29,All Adults
+Disapprove,09/03/2011,0.57,All Adults
+Don't know,09/03/2011,0.14,All Adults
+Approve,16/03/2011,0.29,All Adults
+Disapprove,16/03/2011,0.57,All Adults
+Don't know,16/03/2011,0.15,All Adults
+Approve,23/03/2011,0.31,All Adults
+Disapprove,23/03/2011,0.55,All Adults
+Don't know,23/03/2011,0.15,All Adults
+Approve,30/03/2011,0.32,All Adults
+Disapprove,30/03/2011,0.54,All Adults
+Don't know,30/03/2011,0.14,All Adults
+Approve,06/04/2011,0.31,All Adults
+Disapprove,06/04/2011,0.55,All Adults
+Don't know,06/04/2011,0.14,All Adults
+Approve,13/04/2011,0.31,All Adults
+Disapprove,13/04/2011,0.55,All Adults
+Don't know,13/04/2011,0.14,All Adults
+Approve,20/04/2011,0.3,All Adults
+Disapprove,20/04/2011,0.54,All Adults
+Don't know,20/04/2011,0.15,All Adults
+Approve,27/04/2011,0.32,All Adults
+Disapprove,27/04/2011,0.55,All Adults
+Don't know,27/04/2011,0.14,All Adults
+Approve,03/05/2011,0.32,All Adults
+Disapprove,03/05/2011,0.53,All Adults
+Don't know,03/05/2011,0.15,All Adults
+Approve,11/05/2011,0.33,All Adults
+Disapprove,11/05/2011,0.54,All Adults
+Don't know,11/05/2011,0.13,All Adults
+Approve,18/05/2011,0.33,All Adults
+Disapprove,18/05/2011,0.54,All Adults
+Don't know,18/05/2011,0.13,All Adults
+Approve,25/05/2011,0.32,All Adults
+Disapprove,25/05/2011,0.54,All Adults
+Don't know,25/05/2011,0.15,All Adults
+Approve,01/06/2011,0.33,All Adults
+Disapprove,01/06/2011,0.53,All Adults
+Don't know,01/06/2011,0.15,All Adults
+Approve,08/06/2011,0.31,All Adults
+Disapprove,08/06/2011,0.54,All Adults
+Don't know,08/06/2011,0.15,All Adults
+Approve,15/06/2011,0.3,All Adults
+Disapprove,15/06/2011,0.55,All Adults
+Don't know,15/06/2011,0.14,All Adults
+Approve,22/06/2011,0.3,All Adults
+Disapprove,22/06/2011,0.55,All Adults
+Don't know,22/06/2011,0.15,All Adults
+Approve,29/06/2011,0.3,All Adults
+Disapprove,29/06/2011,0.56,All Adults
+Don't know,29/06/2011,0.14,All Adults
+Approve,06/07/2011,0.29,All Adults
+Disapprove,06/07/2011,0.57,All Adults
+Don't know,06/07/2011,0.14,All Adults
+Approve,12/07/2011,0.29,All Adults
+Disapprove,12/07/2011,0.57,All Adults
+Don't know,12/07/2011,0.15,All Adults
+Approve,20/07/2011,0.29,All Adults
+Disapprove,20/07/2011,0.56,All Adults
+Don't know,20/07/2011,0.15,All Adults
+Approve,27/07/2011,0.29,All Adults
+Disapprove,27/07/2011,0.56,All Adults
+Don't know,27/07/2011,0.15,All Adults
+Approve,03/08/2011,0.3,All Adults
+Disapprove,03/08/2011,0.56,All Adults
+Don't know,03/08/2011,0.15,All Adults
+Approve,10/08/2011,0.29,All Adults
+Disapprove,10/08/2011,0.56,All Adults
+Don't know,10/08/2011,0.15,All Adults
+Approve,17/08/2011,0.29,All Adults
+Disapprove,17/08/2011,0.57,All Adults
+Don't know,17/08/2011,0.14,All Adults
+Approve,24/08/2011,0.29,All Adults
+Disapprove,24/08/2011,0.56,All Adults
+Don't know,24/08/2011,0.14,All Adults
+Approve,31/08/2011,0.3,All Adults
+Disapprove,31/08/2011,0.55,All Adults
+Don't know,31/08/2011,0.15,All Adults
+Approve,07/09/2011,0.3,All Adults
+Disapprove,07/09/2011,0.55,All Adults
+Don't know,07/09/2011,0.15,All Adults
+Approve,14/09/2011,0.3,All Adults
+Disapprove,14/09/2011,0.55,All Adults
+Don't know,14/09/2011,0.15,All Adults
+Approve,21/09/2011,0.3,All Adults
+Disapprove,21/09/2011,0.55,All Adults
+Don't know,21/09/2011,0.15,All Adults
+Approve,28/09/2011,0.3,All Adults
+Disapprove,28/09/2011,0.55,All Adults
+Don't know,28/09/2011,0.15,All Adults
+Approve,05/10/2011,0.31,All Adults
+Disapprove,05/10/2011,0.55,All Adults
+Don't know,05/10/2011,0.14,All Adults
+Approve,12/10/2011,0.3,All Adults
+Disapprove,12/10/2011,0.55,All Adults
+Don't know,12/10/2011,0.15,All Adults
+Approve,19/10/2011,0.29,All Adults
+Disapprove,19/10/2011,0.56,All Adults
+Don't know,19/10/2011,0.16,All Adults
+Approve,26/10/2011,0.28,All Adults
+Disapprove,26/10/2011,0.57,All Adults
+Don't know,26/10/2011,0.15,All Adults
+Approve,02/11/2011,0.29,All Adults
+Disapprove,02/11/2011,0.56,All Adults
+Don't know,02/11/2011,0.15,All Adults
+Approve,09/11/2011,0.28,All Adults
+Disapprove,09/11/2011,0.56,All Adults
+Don't know,09/11/2011,0.16,All Adults
+Approve,16/11/2011,0.28,All Adults
+Disapprove,16/11/2011,0.57,All Adults
+Don't know,16/11/2011,0.15,All Adults
+Approve,23/11/2011,0.28,All Adults
+Disapprove,23/11/2011,0.57,All Adults
+Don't know,23/11/2011,0.15,All Adults
+Approve,30/11/2011,0.28,All Adults
+Disapprove,30/11/2011,0.56,All Adults
+Don't know,30/11/2011,0.15,All Adults
+Approve,07/12/2011,0.29,All Adults
+Disapprove,07/12/2011,0.57,All Adults
+Don't know,07/12/2011,0.14,All Adults
+Approve,14/12/2011,0.32,All Adults
+Disapprove,14/12/2011,0.53,All Adults
+Don't know,14/12/2011,0.16,All Adults
+Approve,21/12/2011,0.32,All Adults
+Disapprove,21/12/2011,0.53,All Adults
+Don't know,21/12/2011,0.15,All Adults
+Approve,22/12/2011,0.31,All Adults
+Disapprove,22/12/2011,0.54,All Adults
+Don't know,22/12/2011,0.15,All Adults
+Approve,04/01/2012,0.32,All Adults
+Disapprove,04/01/2012,0.51,All Adults
+Don't know,04/01/2012,0.16,All Adults
+Approve,11/01/2012,0.33,All Adults
+Disapprove,11/01/2012,0.52,All Adults
+Don't know,11/01/2012,0.15,All Adults
+Approve,18/01/2012,0.32,All Adults
+Disapprove,18/01/2012,0.53,All Adults
+Don't know,18/01/2012,0.16,All Adults
+Approve,24/01/2012,0.32,All Adults
+Disapprove,24/01/2012,0.53,All Adults
+Don't know,24/01/2012,0.15,All Adults
+Approve,01/02/2012,0.33,All Adults
+Disapprove,01/02/2012,0.52,All Adults
+Don't know,01/02/2012,0.15,All Adults
+Approve,08/02/2012,0.31,All Adults
+Disapprove,08/02/2012,0.54,All Adults
+Don't know,08/02/2012,0.15,All Adults
+Approve,15/02/2012,0.31,All Adults
+Disapprove,15/02/2012,0.53,All Adults
+Don't know,15/02/2012,0.16,All Adults
+Approve,22/02/2012,0.3,All Adults
+Disapprove,22/02/2012,0.55,All Adults
+Don't know,22/02/2012,0.15,All Adults
+Approve,29/02/2012,0.31,All Adults
+Disapprove,29/02/2012,0.53,All Adults
+Don't know,29/02/2012,0.16,All Adults
+Approve,07/03/2012,0.3,All Adults
+Disapprove,07/03/2012,0.56,All Adults
+Don't know,07/03/2012,0.14,All Adults
+Approve,14/03/2012,0.29,All Adults
+Disapprove,14/03/2012,0.55,All Adults
+Don't know,14/03/2012,0.16,All Adults
+Approve,21/03/2012,0.29,All Adults
+Disapprove,21/03/2012,0.56,All Adults
+Don't know,21/03/2012,0.15,All Adults
+Approve,28/03/2012,0.27,All Adults
+Disapprove,28/03/2012,0.59,All Adults
+Don't know,28/03/2012,0.15,All Adults
+Approve,04/04/2012,0.23,All Adults
+Disapprove,04/04/2012,0.63,All Adults
+Don't know,04/04/2012,0.14,All Adults
+Approve,11/04/2012,0.26,All Adults
+Disapprove,11/04/2012,0.6,All Adults
+Don't know,11/04/2012,0.14,All Adults
+Approve,18/04/2012,0.24,All Adults
+Disapprove,18/04/2012,0.61,All Adults
+Don't know,18/04/2012,0.15,All Adults
+Approve,25/04/2012,0.23,All Adults
+Disapprove,25/04/2012,0.63,All Adults
+Don't know,25/04/2012,0.14,All Adults
+Approve,02/05/2012,0.23,All Adults
+Disapprove,02/05/2012,0.62,All Adults
+Don't know,02/05/2012,0.14,All Adults
+Approve,09/05/2012,0.23,All Adults
+Disapprove,09/05/2012,0.63,All Adults
+Don't know,09/05/2012,0.14,All Adults
+Approve,16/05/2012,0.24,All Adults
+Disapprove,16/05/2012,0.62,All Adults
+Don't know,16/05/2012,0.14,All Adults
+Approve,23/05/2012,0.24,All Adults
+Disapprove,23/05/2012,0.61,All Adults
+Don't know,23/05/2012,0.15,All Adults
+Approve,30/05/2012,0.24,All Adults
+Disapprove,30/05/2012,0.62,All Adults
+Don't know,30/05/2012,0.14,All Adults
+Approve,06/06/2012,0.25,All Adults
+Disapprove,06/06/2012,0.61,All Adults
+Don't know,06/06/2012,0.14,All Adults
+Approve,13/06/2012,0.24,All Adults
+Disapprove,13/06/2012,0.61,All Adults
+Don't know,13/06/2012,0.15,All Adults
+Approve,20/06/2012,0.24,All Adults
+Disapprove,20/06/2012,0.61,All Adults
+Don't know,20/06/2012,0.15,All Adults
+Approve,27/06/2012,0.26,All Adults
+Disapprove,27/06/2012,0.6,All Adults
+Don't know,27/06/2012,0.14,All Adults
+Approve,04/07/2012,0.24,All Adults
+Disapprove,04/07/2012,0.61,All Adults
+Don't know,04/07/2012,0.15,All Adults
+Approve,11/07/2012,0.25,All Adults
+Disapprove,11/07/2012,0.6,All Adults
+Don't know,11/07/2012,0.15,All Adults
+Approve,18/07/2012,0.24,All Adults
+Disapprove,18/07/2012,0.61,All Adults
+Don't know,18/07/2012,0.15,All Adults
+Approve,25/07/2012,0.24,All Adults
+Disapprove,25/07/2012,0.61,All Adults
+Don't know,25/07/2012,0.15,All Adults
+Approve,01/08/2012,0.25,All Adults
+Disapprove,01/08/2012,0.6,All Adults
+Don't know,01/08/2012,0.15,All Adults
+Approve,08/08/2012,0.24,All Adults
+Disapprove,08/08/2012,0.61,All Adults
+Don't know,08/08/2012,0.15,All Adults
+Approve,15/08/2012,0.25,All Adults
+Disapprove,15/08/2012,0.6,All Adults
+Don't know,15/08/2012,0.15,All Adults
+Approve,21/08/2012,0.24,All Adults
+Disapprove,21/08/2012,0.6,All Adults
+Don't know,21/08/2012,0.16,All Adults
+Approve,29/08/2012,0.23,All Adults
+Disapprove,29/08/2012,0.61,All Adults
+Don't know,29/08/2012,0.15,All Adults
+Approve,05/09/2012,0.23,All Adults
+Disapprove,05/09/2012,0.62,All Adults
+Don't know,05/09/2012,0.15,All Adults
+Approve,12/09/2012,0.23,All Adults
+Disapprove,12/09/2012,0.62,All Adults
+Don't know,12/09/2012,0.15,All Adults
+Approve,19/09/2012,0.25,All Adults
+Disapprove,19/09/2012,0.6,All Adults
+Don't know,19/09/2012,0.15,All Adults
+Approve,26/09/2012,0.24,All Adults
+Disapprove,26/09/2012,0.61,All Adults
+Don't know,26/09/2012,0.15,All Adults
+Approve,03/10/2012,0.24,All Adults
+Disapprove,03/10/2012,0.6,All Adults
+Don't know,03/10/2012,0.16,All Adults
+Approve,10/10/2012,0.25,All Adults
+Disapprove,10/10/2012,0.6,All Adults
+Don't know,10/10/2012,0.15,All Adults
+Approve,17/10/2012,0.26,All Adults
+Disapprove,17/10/2012,0.6,All Adults
+Don't know,17/10/2012,0.15,All Adults
+Approve,24/10/2012,0.25,All Adults
+Disapprove,24/10/2012,0.6,All Adults
+Don't know,24/10/2012,0.15,All Adults
+Approve,31/10/2012,0.27,All Adults
+Disapprove,31/10/2012,0.58,All Adults
+Don't know,31/10/2012,0.15,All Adults
+Approve,06/11/2012,0.27,All Adults
+Disapprove,06/11/2012,0.58,All Adults
+Don't know,06/11/2012,0.15,All Adults
+Approve,14/11/2012,0.27,All Adults
+Disapprove,14/11/2012,0.58,All Adults
+Don't know,14/11/2012,0.15,All Adults
+Approve,21/11/2012,0.26,All Adults
+Disapprove,21/11/2012,0.59,All Adults
+Don't know,21/11/2012,0.15,All Adults
+Approve,28/11/2012,0.26,All Adults
+Disapprove,28/11/2012,0.59,All Adults
+Don't know,28/11/2012,0.15,All Adults
+Approve,05/12/2012,0.26,All Adults
+Disapprove,05/12/2012,0.59,All Adults
+Don't know,05/12/2012,0.15,All Adults
+Approve,12/12/2012,0.26,All Adults
+Disapprove,12/12/2012,0.59,All Adults
+Don't know,12/12/2012,0.15,All Adults
+Approve,19/12/2012,0.26,All Adults
+Disapprove,19/12/2012,0.59,All Adults
+Don't know,19/12/2012,0.15,All Adults
+Approve,21/12/2012,0.26,All Adults
+Disapprove,21/12/2012,0.58,All Adults
+Don't know,21/12/2012,0.16,All Adults
+Approve,02/01/2013,0.25,All Adults
+Disapprove,02/01/2013,0.6,All Adults
+Don't know,02/01/2013,0.15,All Adults
+Approve,09/01/2013,0.26,All Adults
+Disapprove,09/01/2013,0.57,All Adults
+Don't know,09/01/2013,0.17,All Adults
+Approve,15/01/2013,0.27,All Adults
+Disapprove,15/01/2013,0.59,All Adults
+Don't know,15/01/2013,0.14,All Adults
+Approve,23/01/2013,0.27,All Adults
+Disapprove,23/01/2013,0.57,All Adults
+Don't know,23/01/2013,0.16,All Adults
+Approve,30/01/2013,0.27,All Adults
+Disapprove,30/01/2013,0.57,All Adults
+Don't know,30/01/2013,0.15,All Adults
+Approve,06/02/2013,0.26,All Adults
+Disapprove,06/02/2013,0.59,All Adults
+Don't know,06/02/2013,0.15,All Adults
+Approve,12/02/2013,0.26,All Adults
+Disapprove,12/02/2013,0.59,All Adults
+Don't know,12/02/2013,0.15,All Adults
+Approve,20/02/2013,0.25,All Adults
+Disapprove,20/02/2013,0.59,All Adults
+Don't know,20/02/2013,0.15,All Adults
+Approve,27/02/2013,0.25,All Adults
+Disapprove,27/02/2013,0.6,All Adults
+Don't know,27/02/2013,0.15,All Adults
+Approve,06/03/2013,0.24,All Adults
+Disapprove,06/03/2013,0.6,All Adults
+Don't know,06/03/2013,0.16,All Adults
+Approve,12/03/2013,0.24,All Adults
+Disapprove,12/03/2013,0.62,All Adults
+Don't know,12/03/2013,0.14,All Adults
+Approve,20/03/2013,0.24,All Adults
+Disapprove,20/03/2013,0.6,All Adults
+Don't know,20/03/2013,0.16,All Adults
+Approve,27/03/2013,0.24,All Adults
+Disapprove,27/03/2013,0.6,All Adults
+Don't know,27/03/2013,0.15,All Adults
+Approve,03/04/2013,0.25,All Adults
+Disapprove,03/04/2013,0.59,All Adults
+Don't know,03/04/2013,0.16,All Adults
+Approve,09/04/2013,0.26,All Adults
+Disapprove,09/04/2013,0.6,All Adults
+Don't know,09/04/2013,0.14,All Adults
+Approve,16/04/2013,0.27,All Adults
+Disapprove,16/04/2013,0.58,All Adults
+Don't know,16/04/2013,0.15,All Adults
+Approve,24/04/2013,0.27,All Adults
+Disapprove,24/04/2013,0.57,All Adults
+Don't know,24/04/2013,0.15,All Adults
+Approve,30/04/2013,0.27,All Adults
+Disapprove,30/04/2013,0.58,All Adults
+Don't know,30/04/2013,0.15,All Adults
+Approve,08/05/2013,0.25,All Adults
+Disapprove,08/05/2013,0.6,All Adults
+Don't know,08/05/2013,0.15,All Adults
+Approve,15/05/2013,0.25,All Adults
+Disapprove,15/05/2013,0.59,All Adults
+Don't know,15/05/2013,0.16,All Adults
+Approve,22/05/2013,0.24,All Adults
+Disapprove,22/05/2013,0.61,All Adults
+Don't know,22/05/2013,0.15,All Adults
+Approve,29/05/2013,0.25,All Adults
+Disapprove,29/05/2013,0.6,All Adults
+Don't know,29/05/2013,0.15,All Adults
+Approve,05/06/2013,0.25,All Adults
+Disapprove,05/06/2013,0.6,All Adults
+Don't know,05/06/2013,0.15,All Adults
+Approve,12/06/2013,0.25,All Adults
+Disapprove,12/06/2013,0.59,All Adults
+Don't know,12/06/2013,0.16,All Adults
+Approve,19/06/2013,0.25,All Adults
+Disapprove,19/06/2013,0.59,All Adults
+Don't know,19/06/2013,0.15,All Adults
+Approve,26/06/2013,0.26,All Adults
+Disapprove,26/06/2013,0.58,All Adults
+Don't know,26/06/2013,0.16,All Adults
+Approve,03/07/2013,0.26,All Adults
+Disapprove,03/07/2013,0.58,All Adults
+Don't know,03/07/2013,0.16,All Adults
+Approve,10/07/2013,0.27,All Adults
+Disapprove,10/07/2013,0.58,All Adults
+Don't know,10/07/2013,0.15,All Adults
+Approve,16/07/2013,0.27,All Adults
+Disapprove,16/07/2013,0.57,All Adults
+Don't know,16/07/2013,0.16,All Adults
+Approve,24/07/2013,0.28,All Adults
+Disapprove,24/07/2013,0.57,All Adults
+Don't know,24/07/2013,0.15,All Adults
+Approve,30/07/2013,0.29,All Adults
+Disapprove,30/07/2013,0.57,All Adults
+Don't know,30/07/2013,0.15,All Adults
+Approve,07/08/2013,0.28,All Adults
+Disapprove,07/08/2013,0.56,All Adults
+Don't know,07/08/2013,0.16,All Adults
+Approve,14/08/2013,0.28,All Adults
+Disapprove,14/08/2013,0.56,All Adults
+Don't know,14/08/2013,0.16,All Adults
+Approve,21/08/2013,0.28,All Adults
+Disapprove,21/08/2013,0.57,All Adults
+Don't know,21/08/2013,0.15,All Adults
+Approve,28/08/2013,0.28,All Adults
+Disapprove,28/08/2013,0.57,All Adults
+Don't know,28/08/2013,0.15,All Adults
+Approve,04/09/2013,0.28,All Adults
+Disapprove,04/09/2013,0.56,All Adults
+Don't know,04/09/2013,0.15,All Adults
+Approve,11/09/2013,0.28,All Adults
+Disapprove,11/09/2013,0.57,All Adults
+Don't know,11/09/2013,0.16,All Adults
+Approve,18/09/2013,0.3,All Adults
+Disapprove,18/09/2013,0.54,All Adults
+Don't know,18/09/2013,0.15,All Adults
+Approve,23/09/2013,0.29,All Adults
+Disapprove,23/09/2013,0.57,All Adults
+Don't know,23/09/2013,0.14,All Adults
+Approve,02/10/2013,0.3,All Adults
+Disapprove,02/10/2013,0.55,All Adults
+Don't know,02/10/2013,0.15,All Adults
+Approve,09/10/2013,0.32,All Adults
+Disapprove,09/10/2013,0.54,All Adults
+Don't know,09/10/2013,0.14,All Adults
+Approve,16/10/2013,0.31,All Adults
+Disapprove,16/10/2013,0.54,All Adults
+Don't know,16/10/2013,0.15,All Adults
+Approve,23/10/2013,0.29,All Adults
+Disapprove,23/10/2013,0.57,All Adults
+Don't know,23/10/2013,0.14,All Adults
+Approve,30/10/2013,0.28,All Adults
+Disapprove,30/10/2013,0.57,All Adults
+Don't know,30/10/2013,0.15,All Adults
+Approve,06/11/2013,0.28,All Adults
+Disapprove,06/11/2013,0.55,All Adults
+Don't know,06/11/2013,0.16,All Adults
+Approve,12/11/2013,0.28,All Adults
+Disapprove,12/11/2013,0.57,All Adults
+Don't know,12/11/2013,0.15,All Adults
+Approve,20/11/2013,0.29,All Adults
+Disapprove,20/11/2013,0.56,All Adults
+Don't know,20/11/2013,0.15,All Adults
+Approve,27/11/2013,0.29,All Adults
+Disapprove,27/11/2013,0.56,All Adults
+Don't know,27/11/2013,0.15,All Adults
+Approve,04/12/2013,0.28,All Adults
+Disapprove,04/12/2013,0.56,All Adults
+Don't know,04/12/2013,0.16,All Adults
+Approve,10/12/2013,0.29,All Adults
+Disapprove,10/12/2013,0.55,All Adults
+Don't know,10/12/2013,0.16,All Adults
+Approve,12/12/2013,0.32,All Adults
+Disapprove,12/12/2013,0.53,All Adults
+Don't know,12/12/2013,0.15,All Adults
+Approve,19/12/2013,0.3,All Adults
+Disapprove,19/12/2013,0.55,All Adults
+Don't know,19/12/2013,0.15,All Adults
+Approve,08/01/2014,0.29,All Adults
+Disapprove,08/01/2014,0.56,All Adults
+Don't know,08/01/2014,0.15,All Adults
+Approve,15/01/2014,0.29,All Adults
+Disapprove,15/01/2014,0.55,All Adults
+Don't know,15/01/2014,0.16,All Adults
+Approve,22/01/2014,0.29,All Adults
+Disapprove,22/01/2014,0.56,All Adults
+Don't know,22/01/2014,0.15,All Adults
+Approve,29/01/2014,0.31,All Adults
+Disapprove,29/01/2014,0.53,All Adults
+Don't know,29/01/2014,0.15,All Adults
+Approve,30/01/2014,0.32,All Adults
+Disapprove,30/01/2014,0.53,All Adults
+Don't know,30/01/2014,0.15,All Adults
+Approve,12/02/2014,0.3,All Adults
+Disapprove,12/02/2014,0.55,All Adults
+Don't know,12/02/2014,0.15,All Adults
+Approve,18/02/2014,0.3,All Adults
+Disapprove,18/02/2014,0.55,All Adults
+Don't know,18/02/2014,0.15,All Adults
+Approve,26/02/2014,0.31,All Adults
+Disapprove,26/02/2014,0.56,All Adults
+Don't know,26/02/2014,0.13,All Adults
+Approve,05/03/2014,0.32,All Adults
+Disapprove,05/03/2014,0.55,All Adults
+Don't know,05/03/2014,0.14,All Adults
+Approve,12/03/2014,0.31,All Adults
+Disapprove,12/03/2014,0.54,All Adults
+Don't know,12/03/2014,0.15,All Adults
+Approve,19/03/2014,0.31,All Adults
+Disapprove,19/03/2014,0.54,All Adults
+Don't know,19/03/2014,0.15,All Adults
+Approve,26/03/2014,0.34,All Adults
+Disapprove,26/03/2014,0.51,All Adults
+Don't know,26/03/2014,0.15,All Adults
+Approve,02/04/2014,0.33,All Adults
+Disapprove,02/04/2014,0.53,All Adults
+Don't know,02/04/2014,0.15,All Adults
+Approve,09/04/2014,0.32,All Adults
+Disapprove,09/04/2014,0.53,All Adults
+Don't know,09/04/2014,0.15,All Adults
+Approve,16/04/2014,0.32,All Adults
+Disapprove,16/04/2014,0.53,All Adults
+Don't know,16/04/2014,0.15,All Adults
+Approve,23/04/2014,0.33,All Adults
+Disapprove,23/04/2014,0.52,All Adults
+Don't know,23/04/2014,0.15,All Adults
+Approve,30/04/2014,0.32,All Adults
+Disapprove,30/04/2014,0.53,All Adults
+Don't know,30/04/2014,0.15,All Adults
+Approve,07/05/2014,0.32,All Adults
+Disapprove,07/05/2014,0.52,All Adults
+Don't know,07/05/2014,0.16,All Adults
+Approve,14/05/2014,0.32,All Adults
+Disapprove,14/05/2014,0.53,All Adults
+Don't know,14/05/2014,0.15,All Adults
+Approve,21/05/2014,0.32,All Adults
+Disapprove,21/05/2014,0.54,All Adults
+Don't know,21/05/2014,0.14,All Adults
+Approve,28/05/2014,0.31,All Adults
+Disapprove,28/05/2014,0.55,All Adults
+Don't know,28/05/2014,0.14,All Adults
+Approve,04/06/2014,0.32,All Adults
+Disapprove,04/06/2014,0.53,All Adults
+Don't know,04/06/2014,0.15,All Adults
+Approve,11/06/2014,0.31,All Adults
+Disapprove,11/06/2014,0.54,All Adults
+Don't know,11/06/2014,0.14,All Adults
+Approve,18/06/2014,0.33,All Adults
+Disapprove,18/06/2014,0.52,All Adults
+Don't know,18/06/2014,0.15,All Adults
+Approve,25/06/2014,0.31,All Adults
+Disapprove,25/06/2014,0.54,All Adults
+Don't know,25/06/2014,0.15,All Adults
+Approve,01/07/2014,0.31,All Adults
+Disapprove,01/07/2014,0.54,All Adults
+Don't know,01/07/2014,0.16,All Adults
+Approve,09/07/2014,0.31,All Adults
+Disapprove,09/07/2014,0.52,All Adults
+Don't know,09/07/2014,0.16,All Adults
+Approve,16/07/2014,0.31,All Adults
+Disapprove,16/07/2014,0.53,All Adults
+Don't know,16/07/2014,0.16,All Adults
+Approve,23/07/2014,0.3,All Adults
+Disapprove,23/07/2014,0.54,All Adults
+Don't know,23/07/2014,0.15,All Adults
+Approve,30/07/2014,0.32,All Adults
+Disapprove,30/07/2014,0.52,All Adults
+Don't know,30/07/2014,0.16,All Adults
+Approve,04/08/2014,0.32,All Adults
+Disapprove,04/08/2014,0.53,All Adults
+Don't know,04/08/2014,0.16,All Adults
+Approve,12/08/2014,0.32,All Adults
+Disapprove,12/08/2014,0.52,All Adults
+Don't know,12/08/2014,0.16,All Adults
+Approve,20/08/2014,0.31,All Adults
+Disapprove,20/08/2014,0.52,All Adults
+Don't know,20/08/2014,0.16,All Adults
+Approve,27/08/2014,0.31,All Adults
+Disapprove,27/08/2014,0.54,All Adults
+Don't know,27/08/2014,0.15,All Adults
+Approve,03/09/2014,0.3,All Adults
+Disapprove,03/09/2014,0.54,All Adults
+Don't know,03/09/2014,0.16,All Adults
+Approve,10/09/2014,0.31,All Adults
+Disapprove,10/09/2014,0.55,All Adults
+Don't know,10/09/2014,0.15,All Adults
+Approve,17/09/2014,0.31,All Adults
+Disapprove,17/09/2014,0.55,All Adults
+Don't know,17/09/2014,0.15,All Adults
+Approve,24/09/2014,0.31,All Adults
+Disapprove,24/09/2014,0.54,All Adults
+Don't know,24/09/2014,0.15,All Adults
+Approve,01/10/2014,0.31,All Adults
+Disapprove,01/10/2014,0.55,All Adults
+Don't know,01/10/2014,0.14,All Adults
+Approve,08/10/2014,0.33,All Adults
+Disapprove,08/10/2014,0.54,All Adults
+Don't know,08/10/2014,0.13,All Adults
+Approve,15/10/2014,0.31,All Adults
+Disapprove,15/10/2014,0.55,All Adults
+Don't know,15/10/2014,0.14,All Adults
+Approve,22/10/2014,0.31,All Adults
+Disapprove,22/10/2014,0.54,All Adults
+Don't know,22/10/2014,0.15,All Adults
+Approve,29/10/2014,0.31,All Adults
+Disapprove,29/10/2014,0.54,All Adults
+Don't know,29/10/2014,0.14,All Adults
+Approve,05/11/2014,0.31,All Adults
+Disapprove,05/11/2014,0.54,All Adults
+Don't know,05/11/2014,0.15,All Adults
+Approve,12/11/2014,0.31,All Adults
+Disapprove,12/11/2014,0.55,All Adults
+Don't know,12/11/2014,0.15,All Adults
+Approve,19/11/2014,0.31,All Adults
+Disapprove,19/11/2014,0.53,All Adults
+Don't know,19/11/2014,0.15,All Adults
+Approve,26/11/2014,0.31,All Adults
+Disapprove,26/11/2014,0.55,All Adults
+Don't know,26/11/2014,0.13,All Adults
+Approve,03/12/2014,0.31,All Adults
+Disapprove,03/12/2014,0.55,All Adults
+Don't know,03/12/2014,0.15,All Adults
+Approve,09/12/2014,0.31,All Adults
+Disapprove,09/12/2014,0.55,All Adults
+Don't know,09/12/2014,0.14,All Adults
+Approve,17/12/2014,0.31,All Adults
+Disapprove,17/12/2014,0.54,All Adults
+Don't know,17/12/2014,0.15,All Adults
+Approve,22/12/2014,0.31,All Adults
+Disapprove,22/12/2014,0.54,All Adults
+Don't know,22/12/2014,0.15,All Adults
+Approve,07/01/2015,0.32,All Adults
+Disapprove,07/01/2015,0.53,All Adults
+Don't know,07/01/2015,0.15,All Adults
+Approve,14/01/2015,0.31,All Adults
+Disapprove,14/01/2015,0.54,All Adults
+Don't know,14/01/2015,0.15,All Adults
+Approve,21/01/2015,0.32,All Adults
+Disapprove,21/01/2015,0.53,All Adults
+Don't know,21/01/2015,0.15,All Adults
+Approve,28/01/2015,0.33,All Adults
+Disapprove,28/01/2015,0.53,All Adults
+Don't know,28/01/2015,0.14,All Adults
+Approve,04/02/2015,0.33,All Adults
+Disapprove,04/02/2015,0.52,All Adults
+Don't know,04/02/2015,0.16,All Adults
+Approve,11/02/2015,0.32,All Adults
+Disapprove,11/02/2015,0.53,All Adults
+Don't know,11/02/2015,0.15,All Adults
+Approve,18/02/2015,0.32,All Adults
+Disapprove,18/02/2015,0.53,All Adults
+Don't know,18/02/2015,0.15,All Adults
+Approve,24/02/2015,0.33,All Adults
+Disapprove,24/02/2015,0.52,All Adults
+Don't know,24/02/2015,0.14,All Adults
+Approve,04/03/2015,0.33,All Adults
+Disapprove,04/03/2015,0.53,All Adults
+Don't know,04/03/2015,0.14,All Adults
+Approve,11/03/2015,0.34,All Adults
+Disapprove,11/03/2015,0.51,All Adults
+Don't know,11/03/2015,0.15,All Adults
+Approve,18/03/2015,0.34,All Adults
+Disapprove,18/03/2015,0.51,All Adults
+Don't know,18/03/2015,0.16,All Adults
+Approve,25/03/2015,0.37,All Adults
+Disapprove,25/03/2015,0.49,All Adults
+Don't know,25/03/2015,0.15,All Adults
+Approve,01/04/2015,0.36,All Adults
+Disapprove,01/04/2015,0.49,All Adults
+Don't know,01/04/2015,0.15,All Adults
+Approve,08/04/2015,0.37,All Adults
+Disapprove,08/04/2015,0.49,All Adults
+Don't know,08/04/2015,0.14,All Adults
+Approve,15/04/2015,0.37,All Adults
+Disapprove,15/04/2015,0.5,All Adults
+Don't know,15/04/2015,0.13,All Adults
+Approve,21/04/2015,0.37,All Adults
+Disapprove,21/04/2015,0.5,All Adults
+Don't know,21/04/2015,0.13,All Adults
+Approve,28/04/2015,0.37,All Adults
+Disapprove,28/04/2015,0.5,All Adults
+Don't know,28/04/2015,0.13,All Adults
+Approve,05/05/2015,0.38,All Adults
+Disapprove,05/05/2015,0.49,All Adults
+Don't know,05/05/2015,0.13,All Adults
+Approve,13/05/2015,0.41,All Adults
+Disapprove,13/05/2015,0.45,All Adults
+Don't know,13/05/2015,0.14,All Adults
+Approve,18/05/2015,0.4,All Adults
+Disapprove,18/05/2015,0.44,All Adults
+Don't know,18/05/2015,0.15,All Adults
+Approve,26/05/2015,0.41,All Adults
+Disapprove,26/05/2015,0.45,All Adults
+Don't know,26/05/2015,0.14,All Adults
+Approve,02/06/2015,0.4,All Adults
+Disapprove,02/06/2015,0.45,All Adults
+Don't know,02/06/2015,0.16,All Adults
+Approve,10/06/2015,0.4,All Adults
+Disapprove,10/06/2015,0.44,All Adults
+Don't know,10/06/2015,0.16,All Adults
+Approve,16/06/2015,0.4,All Adults
+Disapprove,16/06/2015,0.43,All Adults
+Don't know,16/06/2015,0.17,All Adults
+Approve,24/06/2015,0.4,All Adults
+Disapprove,24/06/2015,0.44,All Adults
+Don't know,24/06/2015,0.16,All Adults
+Approve,01/07/2015,0.39,All Adults
+Disapprove,01/07/2015,0.46,All Adults
+Don't know,01/07/2015,0.15,All Adults
+Approve,07/07/2015,0.37,All Adults
+Disapprove,07/07/2015,0.47,All Adults
+Don't know,07/07/2015,0.15,All Adults
+Approve,13/07/2015,0.4,All Adults
+Disapprove,13/07/2015,0.44,All Adults
+Don't know,13/07/2015,0.16,All Adults
+Approve,24/08/2015,0.37,All Adults
+Disapprove,24/08/2015,0.49,All Adults
+Don't know,24/08/2015,0.15,All Adults
+Approve,18/09/2015,0.37,All Adults
+Disapprove,18/09/2015,0.5,All Adults
+Don't know,18/09/2015,0.13,All Adults
+Approve,26/10/2015,0.35,All Adults
+Disapprove,26/10/2015,0.5,All Adults
+Don't know,26/10/2015,0.15,All Adults
+Approve,23/11/2015,0.32,All Adults
+Disapprove,23/11/2015,0.53,All Adults
+Don't know,23/11/2015,0.15,All Adults
+Approve,23/12/2015,0.32,All Adults
+Disapprove,23/12/2015,0.5,All Adults
+Don't know,23/12/2015,0.18,All Adults
+Approve,25/01/2016,0.33,All Adults
+Disapprove,25/01/2016,0.51,All Adults
+Don't know,25/01/2016,0.16,All Adults
+Approve,23/02/2016,0.29,All Adults
+Disapprove,23/02/2016,0.52,All Adults
+Don't know,23/02/2016,0.19,All Adults
+Approve,21/03/2016,0.22,All Adults
+Disapprove,21/03/2016,0.58,All Adults
+Don't know,21/03/2016,0.2,All Adults
+Approve,25/04/2016,0.22,All Adults
+Disapprove,25/04/2016,0.55,All Adults
+Don't know,25/04/2016,0.23,All Adults
+Approve,02/05/2016,0.24,All Adults
+Disapprove,02/05/2016,0.58,All Adults
+Don't know,02/05/2016,0.18,All Adults
+Approve,20/05/2016,0.24,All Adults
+Disapprove,20/05/2016,0.56,All Adults
+Don't know,20/05/2016,0.2,All Adults
+Approve,05/06/2016,0.18,All Adults
+Disapprove,05/06/2016,0.61,All Adults
+Don't know,05/06/2016,0.21,All Adults
+Approve,04/07/2016,0.22,All Adults
+Disapprove,04/07/2016,0.57,All Adults
+Don't know,04/07/2016,0.21,All Adults
+Approve,22/07/2016,0.27,All Adults
+Disapprove,22/07/2016,0.48,All Adults
+Don't know,22/07/2016,0.25,All Adults
+Approve,01/09/2016,0.26,All Adults
+Disapprove,01/09/2016,0.46,All Adults
+Don't know,01/09/2016,0.27,All Adults
+Approve,19/09/2016,0.25,All Adults
+Disapprove,19/09/2016,0.49,All Adults
+Don't know,19/09/2016,0.25,All Adults
+Approve,24/10/2016,0.29,All Adults
+Disapprove,24/10/2016,0.41,All Adults
+Don't know,24/10/2016,0.3,All Adults
+Approve,22/11/2016,0.28,All Adults
+Disapprove,22/11/2016,0.45,All Adults
+Don't know,22/11/2016,0.27,All Adults
+Approve,15/12/2016,0.26,All Adults
+Disapprove,15/12/2016,0.49,All Adults
+Don't know,15/12/2016,0.25,All Adults
+Approve,24/01/2017,0.3,All Adults
+Disapprove,24/01/2017,0.39,All Adults
+Don't know,24/01/2017,0.31,All Adults
+Approve,20/02/2017,0.3,All Adults
+Disapprove,20/02/2017,0.43,All Adults
+Don't know,20/02/2017,0.28,All Adults
+Approve,29/03/2017,0.34,All Adults
+Disapprove,29/03/2017,0.41,All Adults
+Don't know,29/03/2017,0.25,All Adults
+Approve,21/04/2017,0.35,All Adults
+Disapprove,21/04/2017,0.41,All Adults
+Don't know,21/04/2017,0.23,All Adults
+Approve,28/04/2017,0.35,All Adults
+Disapprove,28/04/2017,0.43,All Adults
+Don't know,28/04/2017,0.22,All Adults
+Approve,22/05/2017,0.32,All Adults
+Disapprove,22/05/2017,0.47,All Adults
+Don't know,22/05/2017,0.21,All Adults
+Approve,26/06/2017,0.24,All Adults
+Disapprove,26/06/2017,0.53,All Adults
+Don't know,26/06/2017,0.24,All Adults
+Approve,24/07/2017,0.23,All Adults
+Disapprove,24/07/2017,0.53,All Adults
+Don't know,24/07/2017,0.24,All Adults
+Approve,24/08/2017,0.23,All Adults
+Disapprove,24/08/2017,0.51,All Adults
+Don't know,24/08/2017,0.26,All Adults
+Approve,27/09/2017,0.21,All Adults
+Disapprove,27/09/2017,0.53,All Adults
+Don't know,27/09/2017,0.26,All Adults
+Approve,19/10/2017,0.21,All Adults
+Disapprove,19/10/2017,0.52,All Adults
+Don't know,19/10/2017,0.27,All Adults
+Approve,17/11/2017,0.2,All Adults
+Disapprove,17/11/2017,0.55,All Adults
+Don't know,17/11/2017,0.25,All Adults
+Approve,15/12/2017,0.2,All Adults
+Disapprove,15/12/2017,0.49,All Adults
+Don't know,15/12/2017,0.31,All Adults
+Approve,28/02/2018,0.24,All Adults
+Disapprove,28/02/2018,0.52,All Adults
+Don't know,28/02/2018,0.24,All Adults
+Approve,24/03/2018,0.25,All Adults
+Disapprove,24/03/2018,0.48,All Adults
+Don't know,24/03/2018,0.26,All Adults
+Approve,19/04/2018,0.29,All Adults
+Disapprove,19/04/2018,0.45,All Adults
+Don't know,19/04/2018,0.26,All Adults
+Approve,26/04/2018,0.26,All Adults
+Disapprove,26/04/2018,0.48,All Adults
+Don't know,26/04/2018,0.26,All Adults
+Approve,11/06/2018,0.23,All Adults
+Disapprove,11/06/2018,0.49,All Adults
+Don't know,11/06/2018,0.28,All Adults
+Approve,04/07/2018,0.25,All Adults
+Disapprove,04/07/2018,0.38,All Adults
+Don't know,04/07/2018,0.37,All Adults
+Approve,24/07/2018,0.18,All Adults
+Disapprove,24/07/2018,0.56,All Adults
+Don't know,24/07/2018,0.26,All Adults
+Approve,22/08/2018,0.2,All Adults
+Disapprove,22/08/2018,0.52,All Adults
+Don't know,22/08/2018,0.28,All Adults
+Approve,21/09/2018,0.19,All Adults
+Disapprove,21/09/2018,0.57,All Adults
+Don't know,21/09/2018,0.24,All Adults
+Approve,23/10/2018,0.21,All Adults
+Disapprove,23/10/2018,0.51,All Adults
+Don't know,23/10/2018,0.28,All Adults
+Approve,22/11/2018,0.19,All Adults
+Disapprove,22/11/2018,0.55,All Adults
+Don't know,22/11/2018,0.26,All Adults
+Approve,17/12/2018,0.2,All Adults
+Disapprove,17/12/2018,0.57,All Adults
+Don't know,17/12/2018,0.23,All Adults
+Approve,23/01/2019,0.13,All Adults
+Disapprove,23/01/2019,0.6,All Adults
+Don't know,23/01/2019,0.26,All Adults
+Approve,27/03/2019,0.11,All Adults
+Disapprove,27/03/2019,0.67,All Adults
+Don't know,27/03/2019,0.22,All Adults
+Approve,01/05/2019,0.11,All Adults
+Disapprove,01/05/2019,0.66,All Adults
+Don't know,01/05/2019,0.24,All Adults
+Approve,13/05/2019,0.09,All Adults
+Disapprove,13/05/2019,0.72,All Adults
+Don't know,13/05/2019,0.2,All Adults
+Approve,24/06/2019,0.1,All Adults
+Disapprove,24/06/2019,0.71,All Adults
+Don't know,24/06/2019,0.18,All Adults
+Approve,01/07/2019,0.11,All Adults
+Disapprove,01/07/2019,0.7,All Adults
+Don't know,01/07/2019,0.19,All Adults
+Approve,08/07/2019,0.1,All Adults
+Disapprove,08/07/2019,0.69,All Adults
+Don't know,08/07/2019,0.22,All Adults
+Approve,14/07/2019,0.14,All Adults
+Disapprove,14/07/2019,0.69,All Adults
+Don't know,14/07/2019,0.17,All Adults
+Approve,22/07/2019,0.1,All Adults
+Disapprove,22/07/2019,0.69,All Adults
+Don't know,22/07/2019,0.21,All Adults
+Approve,29/07/2019,0.14,All Adults
+Disapprove,29/07/2019,0.63,All Adults
+Don't know,29/07/2019,0.22,All Adults
+Approve,05/08/2019,0.15,All Adults
+Disapprove,05/08/2019,0.62,All Adults
+Don't know,05/08/2019,0.23,All Adults
+Approve,11/08/2019,0.2,All Adults
+Disapprove,11/08/2019,0.62,All Adults
+Don't know,11/08/2019,0.18,All Adults
+Approve,19/08/2019,0.16,All Adults
+Disapprove,19/08/2019,0.62,All Adults
+Don't know,19/08/2019,0.21,All Adults
+Approve,26/08/2019,0.18,All Adults
+Disapprove,26/08/2019,0.59,All Adults
+Don't know,26/08/2019,0.23,All Adults
+Approve,02/09/2019,0.22,All Adults
+Disapprove,02/09/2019,0.57,All Adults
+Don't know,02/09/2019,0.21,All Adults
+Approve,09/09/2019,0.16,All Adults
+Disapprove,09/09/2019,0.66,All Adults
+Don't know,09/09/2019,0.18,All Adults
+Approve,16/09/2019,0.18,All Adults
+Disapprove,16/09/2019,0.66,All Adults
+Don't know,16/09/2019,0.16,All Adults
+Approve,23/09/2019,0.17,All Adults
+Disapprove,23/09/2019,0.64,All Adults
+Don't know,23/09/2019,0.18,All Adults
+Approve,30/09/2019,0.17,All Adults
+Disapprove,30/09/2019,0.64,All Adults
+Don't know,30/09/2019,0.19,All Adults
+Approve,06/10/2019,0.2,All Adults
+Disapprove,06/10/2019,0.61,All Adults
+Don't know,06/10/2019,0.19,All Adults
+Approve,14/10/2019,0.18,All Adults
+Disapprove,14/10/2019,0.6,All Adults
+Don't know,14/10/2019,0.23,All Adults
+Approve,21/10/2019,0.22,All Adults
+Disapprove,21/10/2019,0.56,All Adults
+Don't know,21/10/2019,0.22,All Adults
+Approve,28/10/2019,0.2,All Adults
+Disapprove,28/10/2019,0.58,All Adults
+Don't know,28/10/2019,0.22,All Adults
+Approve,04/11/2019,0.19,All Adults
+Disapprove,04/11/2019,0.62,All Adults
+Don't know,04/11/2019,0.19,All Adults
+Approve,11/11/2019,0.22,All Adults
+Disapprove,11/11/2019,0.59,All Adults
+Don't know,11/11/2019,0.19,All Adults
+Approve,18/11/2019,0.21,All Adults
+Disapprove,18/11/2019,0.59,All Adults
+Don't know,18/11/2019,0.19,All Adults
+Approve,25/11/2019,0.22,All Adults
+Disapprove,25/11/2019,0.58,All Adults
+Don't know,25/11/2019,0.19,All Adults
+Approve,01/12/2019,0.22,All Adults
+Disapprove,01/12/2019,0.59,All Adults
+Don't know,01/12/2019,0.19,All Adults
+Approve,16/12/2019,0.27,All Adults
+Disapprove,16/12/2019,0.53,All Adults
+Don't know,16/12/2019,0.2,All Adults
+Approve,23/12/2019,0.34,All Adults
+Disapprove,23/12/2019,0.46,All Adults
+Don't know,23/12/2019,0.21,All Adults
+Approve,30/12/2019,0.32,All Adults
+Disapprove,30/12/2019,0.44,All Adults
+Don't know,30/12/2019,0.24,All Adults
+Approve,06/01/2020,0.3,All Adults
+Disapprove,06/01/2020,0.45,All Adults
+Don't know,06/01/2020,0.25,All Adults
+Approve,13/01/2020,0.33,All Adults
+Disapprove,13/01/2020,0.42,All Adults
+Don't know,13/01/2020,0.24,All Adults
+Approve,20/01/2020,0.32,All Adults
+Disapprove,20/01/2020,0.45,All Adults
+Don't know,20/01/2020,0.23,All Adults
+Approve,27/01/2020,0.33,All Adults
+Disapprove,27/01/2020,0.41,All Adults
+Don't know,27/01/2020,0.25,All Adults
+Approve,03/02/2020,0.35,All Adults
+Disapprove,03/02/2020,0.42,All Adults
+Don't know,03/02/2020,0.23,All Adults
+Approve,09/02/2020,0.36,All Adults
+Disapprove,09/02/2020,0.42,All Adults
+Don't know,09/02/2020,0.23,All Adults
+Approve,17/02/2020,0.34,All Adults
+Disapprove,17/02/2020,0.39,All Adults
+Don't know,17/02/2020,0.27,All Adults
+Approve,24/02/2020,0.34,All Adults
+Disapprove,24/02/2020,0.41,All Adults
+Don't know,24/02/2020,0.25,All Adults
+Approve,02/03/2020,0.33,All Adults
+Disapprove,02/03/2020,0.41,All Adults
+Don't know,02/03/2020,0.26,All Adults
+Approve,09/03/2020,0.36,All Adults
+Disapprove,09/03/2020,0.37,All Adults
+Don't know,09/03/2020,0.27,All Adults
+Approve,16/03/2020,0.39,All Adults
+Disapprove,16/03/2020,0.35,All Adults
+Don't know,16/03/2020,0.26,All Adults
+Approve,23/03/2020,0.52,All Adults
+Disapprove,23/03/2020,0.27,All Adults
+Don't know,23/03/2020,0.21,All Adults
+Approve,30/03/2020,0.52,All Adults
+Disapprove,30/03/2020,0.26,All Adults
+Don't know,30/03/2020,0.21,All Adults
+Approve,06/04/2020,0.5,All Adults
+Disapprove,06/04/2020,0.29,All Adults
+Don't know,06/04/2020,0.2,All Adults
+Approve,13/04/2020,0.5,All Adults
+Disapprove,13/04/2020,0.28,All Adults
+Don't know,13/04/2020,0.22,All Adults
+Approve,20/04/2020,0.47,All Adults
+Disapprove,20/04/2020,0.32,All Adults
+Don't know,20/04/2020,0.21,All Adults
+Approve,27/04/2020,0.47,All Adults
+Disapprove,27/04/2020,0.33,All Adults
+Don't know,27/04/2020,0.2,All Adults
+Approve,03/05/2020,0.49,All Adults
+Disapprove,03/05/2020,0.3,All Adults
+Don't know,03/05/2020,0.2,All Adults
+Approve,10/05/2020,0.44,All Adults
+Disapprove,10/05/2020,0.37,All Adults
+Don't know,10/05/2020,0.19,All Adults
+Approve,18/05/2020,0.39,All Adults
+Disapprove,18/05/2020,0.42,All Adults
+Don't know,18/05/2020,0.19,All Adults
+Approve,25/05/2020,0.37,All Adults
+Disapprove,25/05/2020,0.42,All Adults
+Don't know,25/05/2020,0.21,All Adults
+Approve,02/06/2020,0.35,All Adults
+Disapprove,02/06/2020,0.44,All Adults
+Don't know,02/06/2020,0.21,All Adults
+Approve,08/06/2020,0.32,All Adults
+Disapprove,08/06/2020,0.49,All Adults
+Don't know,08/06/2020,0.2,All Adults
+Approve,15/06/2020,0.34,All Adults
+Disapprove,15/06/2020,0.46,All Adults
+Don't know,15/06/2020,0.2,All Adults
+Approve,22/06/2020,0.32,All Adults
+Disapprove,22/06/2020,0.48,All Adults
+Don't know,22/06/2020,0.2,All Adults
+Approve,29/06/2020,0.35,All Adults
+Disapprove,29/06/2020,0.45,All Adults
+Don't know,29/06/2020,0.21,All Adults
+Approve,06/07/2020,0.34,All Adults
+Disapprove,06/07/2020,0.46,All Adults
+Don't know,06/07/2020,0.19,All Adults
+Approve,13/07/2020,0.36,All Adults
+Disapprove,13/07/2020,0.44,All Adults
+Don't know,13/07/2020,0.2,All Adults
+Approve,20/07/2020,0.32,All Adults
+Disapprove,20/07/2020,0.45,All Adults
+Don't know,20/07/2020,0.23,All Adults
+Approve,27/07/2020,0.35,All Adults
+Disapprove,27/07/2020,0.45,All Adults
+Don't know,27/07/2020,0.19,All Adults
+Approve,03/08/2020,0.34,All Adults
+Disapprove,03/08/2020,0.47,All Adults
+Don't know,03/08/2020,0.19,All Adults
+Approve,10/08/2020,0.3,All Adults
+Disapprove,10/08/2020,0.48,All Adults
+Don't know,10/08/2020,0.22,All Adults
+Approve,17/08/2020,0.29,All Adults
+Disapprove,17/08/2020,0.49,All Adults
+Don't know,17/08/2020,0.22,All Adults
+Approve,24/08/2020,0.3,All Adults
+Disapprove,24/08/2020,0.49,All Adults
+Don't know,24/08/2020,0.22,All Adults
+Approve,31/08/2020,0.31,All Adults
+Disapprove,31/08/2020,0.47,All Adults
+Don't know,31/08/2020,0.22,All Adults
+Approve,07/09/2020,0.3,All Adults
+Disapprove,07/09/2020,0.5,All Adults
+Don't know,07/09/2020,0.2,All Adults
+Approve,14/09/2020,0.3,All Adults
+Disapprove,14/09/2020,0.51,All Adults
+Don't know,14/09/2020,0.2,All Adults
+Approve,21/09/2020,0.27,All Adults
+Disapprove,21/09/2020,0.52,All Adults
+Don't know,21/09/2020,0.21,All Adults
+Approve,28/09/2020,0.29,All Adults
+Disapprove,28/09/2020,0.51,All Adults
+Don't know,28/09/2020,0.2,All Adults
+Approve,05/10/2020,0.27,All Adults
+Disapprove,05/10/2020,0.55,All Adults
+Don't know,05/10/2020,0.18,All Adults
+Approve,12/10/2020,0.28,All Adults
+Disapprove,12/10/2020,0.53,All Adults
+Don't know,12/10/2020,0.19,All Adults
+Approve,18/10/2020,0.27,All Adults
+Disapprove,18/10/2020,0.54,All Adults
+Don't know,18/10/2020,0.19,All Adults
+Approve,26/10/2020,0.27,All Adults
+Disapprove,26/10/2020,0.56,All Adults
+Don't know,26/10/2020,0.17,All Adults
+Approve,02/11/2020,0.26,All Adults
+Disapprove,02/11/2020,0.56,All Adults
+Don't know,02/11/2020,0.18,All Adults
+Approve,09/11/2020,0.28,All Adults
+Disapprove,09/11/2020,0.53,All Adults
+Don't know,09/11/2020,0.19,All Adults
+Approve,15/11/2020,0.28,All Adults
+Disapprove,15/11/2020,0.49,All Adults
+Don't know,15/11/2020,0.23,All Adults
+Approve,23/11/2020,0.27,All Adults
+Disapprove,23/11/2020,0.52,All Adults
+Don't know,23/11/2020,0.21,All Adults
+Approve,30/11/2020,0.28,All Adults
+Disapprove,30/11/2020,0.52,All Adults
+Don't know,30/11/2020,0.2,All Adults
+Approve,07/12/2020,0.27,All Adults
+Disapprove,07/12/2020,0.53,All Adults
+Don't know,07/12/2020,0.2,All Adults
+Approve,14/12/2020,0.28,All Adults
+Disapprove,14/12/2020,0.5,All Adults
+Don't know,14/12/2020,0.22,All Adults
+Approve,20/12/2020,0.27,All Adults
+Disapprove,20/12/2020,0.53,All Adults
+Don't know,20/12/2020,0.21,All Adults
+Approve,28/12/2020,0.31,All Adults
+Disapprove,28/12/2020,0.48,All Adults
+Don't know,28/12/2020,0.21,All Adults
+Approve,04/01/2021,0.32,All Adults
+Disapprove,04/01/2021,0.49,All Adults
+Don't know,04/01/2021,0.19,All Adults
+Approve,11/01/2021,0.31,All Adults
+Disapprove,11/01/2021,0.5,All Adults
+Don't know,11/01/2021,0.19,All Adults
+Approve,18/01/2021,0.29,All Adults
+Disapprove,18/01/2021,0.52,All Adults
+Don't know,18/01/2021,0.19,All Adults
+Approve,25/01/2021,0.3,All Adults
+Disapprove,25/01/2021,0.5,All Adults
+Don't know,25/01/2021,0.2,All Adults
+Approve,01/02/2021,0.32,All Adults
+Disapprove,01/02/2021,0.49,All Adults
+Don't know,01/02/2021,0.19,All Adults
+Approve,08/02/2021,0.33,All Adults
+Disapprove,08/02/2021,0.48,All Adults
+Don't know,08/02/2021,0.19,All Adults
+Approve,15/02/2021,0.3,All Adults
+Disapprove,15/02/2021,0.49,All Adults
+Don't know,15/02/2021,0.21,All Adults
+Approve,22/02/2021,0.35,All Adults
+Disapprove,22/02/2021,0.47,All Adults
+Don't know,22/02/2021,0.18,All Adults
+Approve,01/03/2021,0.36,All Adults
+Disapprove,01/03/2021,0.43,All Adults
+Don't know,01/03/2021,0.21,All Adults
+Approve,08/03/2021,0.35,All Adults
+Disapprove,08/03/2021,0.44,All Adults
+Don't know,08/03/2021,0.22,All Adults
+Approve,15/03/2021,0.37,All Adults
+Disapprove,15/03/2021,0.44,All Adults
+Don't know,15/03/2021,0.19,All Adults
+Approve,22/03/2021,0.37,All Adults
+Disapprove,22/03/2021,0.42,All Adults
+Don't know,22/03/2021,0.21,All Adults
+Approve,29/03/2021,0.35,All Adults
+Disapprove,29/03/2021,0.44,All Adults
+Don't know,29/03/2021,0.21,All Adults
+Approve,05/04/2021,0.36,All Adults
+Disapprove,05/04/2021,0.42,All Adults
+Don't know,05/04/2021,0.22,All Adults
+Approve,12/04/2021,0.38,All Adults
+Disapprove,12/04/2021,0.4,All Adults
+Don't know,12/04/2021,0.22,All Adults
+Approve,19/04/2021,0.37,All Adults
+Disapprove,19/04/2021,0.43,All Adults
+Don't know,19/04/2021,0.2,All Adults
+Approve,26/04/2021,0.36,All Adults
+Disapprove,26/04/2021,0.43,All Adults
+Don't know,26/04/2021,0.22,All Adults
+Approve,03/05/2021,0.38,All Adults
+Disapprove,03/05/2021,0.42,All Adults
+Don't know,03/05/2021,0.2,All Adults
+Approve,10/05/2021,0.4,All Adults
+Disapprove,10/05/2021,0.39,All Adults
+Don't know,10/05/2021,0.21,All Adults
+Approve,17/05/2021,0.39,All Adults
+Disapprove,17/05/2021,0.4,All Adults
+Don't know,17/05/2021,0.21,All Adults
+Approve,24/05/2021,0.38,All Adults
+Disapprove,24/05/2021,0.44,All Adults
+Don't know,24/05/2021,0.17,All Adults
+Approve,31/05/2021,0.36,All Adults
+Disapprove,31/05/2021,0.45,All Adults
+Don't know,31/05/2021,0.19,All Adults
+Approve,07/06/2021,0.37,All Adults
+Disapprove,07/06/2021,0.43,All Adults
+Don't know,07/06/2021,0.2,All Adults
+Approve,14/06/2021,0.36,All Adults
+Disapprove,14/06/2021,0.46,All Adults
+Don't know,14/06/2021,0.18,All Adults
+Approve,21/06/2021,0.33,All Adults
+Disapprove,21/06/2021,0.48,All Adults
+Don't know,21/06/2021,0.19,All Adults
+Approve,28/06/2021,0.32,All Adults
+Disapprove,28/06/2021,0.47,All Adults
+Don't know,28/06/2021,0.21,All Adults
+Approve,05/07/2021,0.32,All Adults
+Disapprove,05/07/2021,0.49,All Adults
+Don't know,05/07/2021,0.19,All Adults
+Approve,12/07/2021,0.33,All Adults
+Disapprove,12/07/2021,0.48,All Adults
+Don't know,12/07/2021,0.2,All Adults
+Approve,19/07/2021,0.31,All Adults
+Disapprove,19/07/2021,0.49,All Adults
+Don't know,19/07/2021,0.2,All Adults
+Approve,26/07/2021,0.29,All Adults
+Disapprove,26/07/2021,0.51,All Adults
+Don't know,26/07/2021,0.2,All Adults
+Approve,02/08/2021,0.31,All Adults
+Disapprove,02/08/2021,0.49,All Adults
+Don't know,02/08/2021,0.21,All Adults
+Approve,09/08/2021,0.31,All Adults
+Disapprove,09/08/2021,0.47,All Adults
+Don't know,09/08/2021,0.22,All Adults
+Approve,16/08/2021,0.29,All Adults
+Disapprove,16/08/2021,0.47,All Adults
+Don't know,16/08/2021,0.24,All Adults
+Approve,23/08/2021,0.27,All Adults
+Disapprove,23/08/2021,0.5,All Adults
+Don't know,23/08/2021,0.23,All Adults
+Approve,29/08/2021,0.27,All Adults
+Disapprove,29/08/2021,0.5,All Adults
+Don't know,29/08/2021,0.23,All Adults
+Approve,06/09/2021,0.27,All Adults
+Disapprove,06/09/2021,0.49,All Adults
+Don't know,06/09/2021,0.24,All Adults
+Approve,12/09/2021,0.26,All Adults
+Disapprove,12/09/2021,0.53,All Adults
+Don't know,12/09/2021,0.21,All Adults
+Approve,19/09/2021,0.29,All Adults
+Disapprove,19/09/2021,0.49,All Adults
+Don't know,19/09/2021,0.22,All Adults
+Approve,26/09/2021,0.26,All Adults
+Disapprove,26/09/2021,0.54,All Adults
+Don't know,26/09/2021,0.19,All Adults
+Approve,04/10/2021,0.25,All Adults
+Disapprove,04/10/2021,0.53,All Adults
+Don't know,04/10/2021,0.21,All Adults
+Approve,11/10/2021,0.28,All Adults
+Disapprove,11/10/2021,0.52,All Adults
+Don't know,11/10/2021,0.2,All Adults
+Approve,18/10/2021,0.26,All Adults
+Disapprove,18/10/2021,0.52,All Adults
+Don't know,18/10/2021,0.21,All Adults
+Approve,25/10/2021,0.25,All Adults
+Disapprove,25/10/2021,0.54,All Adults
+Don't know,25/10/2021,0.21,All Adults
+Approve,01/11/2021,0.26,All Adults
+Disapprove,01/11/2021,0.51,All Adults
+Don't know,01/11/2021,0.22,All Adults
+Approve,07/11/2021,0.23,All Adults
+Disapprove,07/11/2021,0.55,All Adults
+Don't know,07/11/2021,0.23,All Adults
+Approve,15/11/2021,0.23,All Adults
+Disapprove,15/11/2021,0.55,All Adults
+Don't know,15/11/2021,0.22,All Adults
+Approve,22/11/2021,0.22,All Adults
+Disapprove,22/11/2021,0.56,All Adults
+Don't know,22/11/2021,0.22,All Adults
+Approve,29/11/2021,0.25,All Adults
+Disapprove,29/11/2021,0.54,All Adults
+Don't know,29/11/2021,0.21,All Adults
+Approve,05/12/2021,0.26,All Adults
+Disapprove,05/12/2021,0.53,All Adults
+Don't know,05/12/2021,0.21,All Adults
+Approve,13/12/2021,0.2,All Adults
+Disapprove,13/12/2021,0.63,All Adults
+Don't know,13/12/2021,0.17,All Adults
+Approve,20/12/2021,0.22,All Adults
+Disapprove,20/12/2021,0.6,All Adults
+Don't know,20/12/2021,0.18,All Adults
+Approve,27/12/2021,0.24,All Adults
+Disapprove,27/12/2021,0.57,All Adults
+Don't know,27/12/2021,0.19,All Adults
+Approve,02/01/2022,0.24,All Adults
+Disapprove,02/01/2022,0.56,All Adults
+Don't know,02/01/2022,0.2,All Adults
+Approve,10/01/2022,0.23,All Adults
+Disapprove,10/01/2022,0.56,All Adults
+Don't know,10/01/2022,0.2,All Adults
+Approve,17/01/2022,0.2,All Adults
+Disapprove,17/01/2022,0.63,All Adults
+Don't know,17/01/2022,0.17,All Adults
+Approve,24/01/2022,0.23,All Adults
+Disapprove,24/01/2022,0.59,All Adults
+Don't know,24/01/2022,0.17,All Adults
+Approve,31/01/2022,0.23,All Adults
+Disapprove,31/01/2022,0.6,All Adults
+Don't know,31/01/2022,0.17,All Adults
+Approve,06/02/2022,0.18,All Adults
+Disapprove,06/02/2022,0.63,All Adults
+Don't know,06/02/2022,0.18,All Adults
+Approve,13/02/2022,0.21,All Adults
+Disapprove,13/02/2022,0.6,All Adults
+Don't know,13/02/2022,0.19,All Adults
+Approve,21/02/2022,0.21,All Adults
+Disapprove,21/02/2022,0.6,All Adults
+Don't know,21/02/2022,0.19,All Adults
+Approve,28/02/2022,0.25,All Adults
+Disapprove,28/02/2022,0.55,All Adults
+Don't know,28/02/2022,0.2,All Adults
+Approve,07/03/2022,0.24,All Adults
+Disapprove,07/03/2022,0.55,All Adults
+Don't know,07/03/2022,0.21,All Adults
+Approve,14/03/2022,0.23,All Adults
+Disapprove,14/03/2022,0.55,All Adults
+Don't know,14/03/2022,0.22,All Adults
+Approve,20/03/2022,0.25,All Adults
+Disapprove,20/03/2022,0.53,All Adults
+Don't know,20/03/2022,0.22,All Adults
+Approve,28/03/2022,0.25,All Adults
+Disapprove,28/03/2022,0.53,All Adults
+Don't know,28/03/2022,0.22,All Adults
+Approve,04/04/2022,0.21,All Adults
+Disapprove,04/04/2022,0.59,All Adults
+Don't know,04/04/2022,0.2,All Adults
+Approve,11/04/2022,0.23,All Adults
+Disapprove,11/04/2022,0.57,All Adults
+Don't know,11/04/2022,0.2,All Adults
+Approve,18/04/2022,0.22,All Adults
+Disapprove,18/04/2022,0.6,All Adults
+Don't know,18/04/2022,0.18,All Adults
+Approve,24/04/2022,0.23,All Adults
+Disapprove,24/04/2022,0.59,All Adults
+Don't know,24/04/2022,0.18,All Adults
+Approve,02/05/2022,0.21,All Adults
+Disapprove,02/05/2022,0.62,All Adults
+Don't know,02/05/2022,0.17,All Adults
+Approve,08/05/2022,0.22,All Adults
+Disapprove,08/05/2022,0.61,All Adults
+Don't know,08/05/2022,0.17,All Adults
+Approve,16/05/2022,0.21,All Adults
+Disapprove,16/05/2022,0.61,All Adults
+Don't know,16/05/2022,0.18,All Adults
+Approve,22/05/2022,0.22,All Adults
+Disapprove,22/05/2022,0.58,All Adults
+Don't know,22/05/2022,0.2,All Adults
+Approve,29/05/2022,0.22,All Adults
+Disapprove,29/05/2022,0.6,All Adults
+Don't know,29/05/2022,0.18,All Adults
+Approve,06/06/2022,0.21,All Adults
+Disapprove,06/06/2022,0.6,All Adults
+Don't know,06/06/2022,0.19,All Adults
+Approve,13/06/2022,0.22,All Adults
+Disapprove,13/06/2022,0.6,All Adults
+Don't know,13/06/2022,0.18,All Adults
+Approve,19/06/2022,0.21,All Adults
+Disapprove,19/06/2022,0.59,All Adults
+Don't know,19/06/2022,0.2,All Adults
+Approve,27/06/2022,0.22,All Adults
+Disapprove,27/06/2022,0.6,All Adults
+Don't know,27/06/2022,0.18,All Adults
+Approve,03/07/2022,0.19,All Adults
+Disapprove,03/07/2022,0.62,All Adults
+Don't know,03/07/2022,0.18,All Adults
+Approve,11/07/2022,0.2,All Adults
+Disapprove,11/07/2022,0.64,All Adults
+Don't know,11/07/2022,0.16,All Adults
+Approve,17/07/2022,0.2,All Adults
+Disapprove,17/07/2022,0.62,All Adults
+Don't know,17/07/2022,0.18,All Adults
+Approve,25/07/2022,0.21,All Adults
+Disapprove,25/07/2022,0.61,All Adults
+Don't know,25/07/2022,0.18,All Adults
+Approve,31/07/2022,0.21,All Adults
+Disapprove,31/07/2022,0.6,All Adults
+Don't know,31/07/2022,0.19,All Adults
+Approve,08/08/2022,0.18,All Adults
+Disapprove,08/08/2022,0.62,All Adults
+Don't know,08/08/2022,0.2,All Adults
+Approve,15/08/2022,0.18,All Adults
+Disapprove,15/08/2022,0.64,All Adults
+Don't know,15/08/2022,0.17,All Adults
+Approve,22/08/2022,0.18,All Adults
+Disapprove,22/08/2022,0.65,All Adults
+Don't know,22/08/2022,0.18,All Adults
+Approve,29/08/2022,0.17,All Adults
+Disapprove,29/08/2022,0.65,All Adults
+Don't know,29/08/2022,0.18,All Adults
+Approve,05/09/2022,0.18,All Adults
+Disapprove,05/09/2022,0.64,All Adults
+Don't know,05/09/2022,0.18,All Adults
+Approve,12/09/2022,0.21,All Adults
+Disapprove,12/09/2022,0.58,All Adults
+Don't know,12/09/2022,0.2,All Adults
+Approve,25/09/2022,0.17,All Adults
+Disapprove,25/09/2022,0.62,All Adults
+Don't know,25/09/2022,0.21,All Adults
+Approve,02/10/2022,0.11,All Adults
+Disapprove,02/10/2022,0.72,All Adults
+Don't know,02/10/2022,0.17,All Adults
+Approve,09/10/2022,0.13,All Adults
+Disapprove,09/10/2022,0.7,All Adults
+Don't know,09/10/2022,0.17,All Adults
+Approve,17/10/2022,0.07,All Adults
+Disapprove,17/10/2022,0.77,All Adults
+Don't know,17/10/2022,0.16,All Adults
+Approve,23/10/2022,0.06,All Adults
+Disapprove,23/10/2022,0.82,All Adults
+Don't know,23/10/2022,0.12,All Adults
+Approve,31/10/2022,0.11,All Adults
+Disapprove,31/10/2022,0.72,All Adults
+Don't know,31/10/2022,0.17,All Adults
+Approve,07/11/2022,0.12,All Adults
+Disapprove,07/11/2022,0.7,All Adults
+Don't know,07/11/2022,0.18,All Adults
+Approve,14/11/2022,0.11,All Adults
+Disapprove,14/11/2022,0.69,All Adults
+Don't know,14/11/2022,0.2,All Adults
+Approve,21/11/2022,0.13,All Adults
+Disapprove,21/11/2022,0.7,All Adults
+Don't know,21/11/2022,0.17,All Adults
+Approve,28/11/2022,0.13,All Adults
+Disapprove,28/11/2022,0.67,All Adults
+Don't know,28/11/2022,0.2,All Adults
+Approve,05/12/2022,0.11,All Adults
+Disapprove,05/12/2022,0.68,All Adults
+Don't know,05/12/2022,0.2,All Adults
+Approve,12/12/2022,0.15,All Adults
+Disapprove,12/12/2022,0.64,All Adults
+Don't know,12/12/2022,0.21,All Adults
+Approve,19/12/2022,0.13,All Adults
+Disapprove,19/12/2022,0.69,All Adults
+Don't know,19/12/2022,0.19,All Adults
+Approve,26/12/2022,0.16,All Adults
+Disapprove,26/12/2022,0.64,All Adults
+Don't know,26/12/2022,0.2,All Adults
+Approve,01/01/2023,0.13,All Adults
+Disapprove,01/01/2023,0.65,All Adults
+Don't know,01/01/2023,0.22,All Adults
+Approve,09/01/2023,0.13,All Adults
+Disapprove,09/01/2023,0.68,All Adults
+Don't know,09/01/2023,0.18,All Adults
+Approve,15/01/2023,0.13,All Adults
+Disapprove,15/01/2023,0.65,All Adults
+Don't know,15/01/2023,0.22,All Adults
+Approve,23/01/2023,0.14,All Adults
+Disapprove,23/01/2023,0.65,All Adults
+Don't know,23/01/2023,0.21,All Adults
+Approve,30/01/2023,0.12,All Adults
+Disapprove,30/01/2023,0.7,All Adults
+Don't know,30/01/2023,0.18,All Adults
+Approve,06/02/2023,0.13,All Adults
+Disapprove,06/02/2023,0.68,All Adults
+Don't know,06/02/2023,0.18,All Adults
+Approve,13/02/2023,0.12,All Adults
+Disapprove,13/02/2023,0.7,All Adults
+Don't know,13/02/2023,0.18,All Adults
+Approve,20/02/2023,0.14,All Adults
+Disapprove,20/02/2023,0.66,All Adults
+Don't know,20/02/2023,0.2,All Adults
+Approve,26/02/2023,0.15,All Adults
+Disapprove,26/02/2023,0.66,All Adults
+Don't know,26/02/2023,0.2,All Adults
+Approve,06/03/2023,0.15,All Adults
+Disapprove,06/03/2023,0.65,All Adults
+Don't know,06/03/2023,0.2,All Adults
+Approve,20/03/2023,0.17,All Adults
+Disapprove,20/03/2023,0.64,All Adults
+Don't know,20/03/2023,0.18,All Adults
+Approve,27/03/2023,0.15,All Adults
+Disapprove,27/03/2023,0.65,All Adults
+Don't know,27/03/2023,0.2,All Adults
+Approve,03/04/2023,0.16,All Adults
+Disapprove,03/04/2023,0.63,All Adults
+Don't know,03/04/2023,0.2,All Adults
+Approve,10/04/2023,0.17,All Adults
+Disapprove,10/04/2023,0.63,All Adults
+Don't know,10/04/2023,0.2,All Adults
+Approve,17/04/2023,0.17,All Adults
+Disapprove,17/04/2023,0.62,All Adults
+Don't know,17/04/2023,0.21,All Adults
+Approve,24/04/2023,0.17,All Adults
+Disapprove,24/04/2023,0.64,All Adults
+Don't know,24/04/2023,0.19,All Adults
+Approve,01/05/2023,0.17,All Adults
+Disapprove,01/05/2023,0.62,All Adults
+Don't know,01/05/2023,0.21,All Adults
+Approve,08/05/2023,0.2,All Adults
+Disapprove,08/05/2023,0.62,All Adults
+Don't know,08/05/2023,0.19,All Adults
+Approve,15/05/2023,0.17,All Adults
+Disapprove,15/05/2023,0.63,All Adults
+Don't know,15/05/2023,0.2,All Adults
+Approve,21/05/2023,0.18,All Adults
+Disapprove,21/05/2023,0.6,All Adults
+Don't know,21/05/2023,0.22,All Adults
+Approve,28/05/2023,0.15,All Adults
+Disapprove,28/05/2023,0.65,All Adults
+Don't know,28/05/2023,0.19,All Adults
+Approve,05/06/2023,0.19,All Adults
+Disapprove,05/06/2023,0.59,All Adults
+Don't know,05/06/2023,0.22,All Adults
+Approve,12/06/2023,0.18,All Adults
+Disapprove,12/06/2023,0.64,All Adults
+Don't know,12/06/2023,0.18,All Adults
+Approve,19/06/2023,0.15,All Adults
+Disapprove,19/06/2023,0.65,All Adults
+Don't know,19/06/2023,0.2,All Adults
+Approve,26/06/2023,0.14,All Adults
+Disapprove,26/06/2023,0.66,All Adults
+Don't know,26/06/2023,0.2,All Adults
+Approve,03/07/2023,0.13,All Adults
+Disapprove,03/07/2023,0.67,All Adults
+Don't know,03/07/2023,0.2,All Adults
+Approve,10/07/2023,0.13,All Adults
+Disapprove,10/07/2023,0.67,All Adults
+Don't know,10/07/2023,0.2,All Adults
+Approve,17/07/2023,0.13,All Adults
+Disapprove,17/07/2023,0.69,All Adults
+Don't know,17/07/2023,0.18,All Adults
+Approve,24/07/2023,0.14,All Adults
+Disapprove,24/07/2023,0.68,All Adults
+Don't know,24/07/2023,0.18,All Adults
+Approve,31/07/2023,0.14,All Adults
+Disapprove,31/07/2023,0.66,All Adults
+Don't know,31/07/2023,0.2,All Adults
+Approve,07/08/2023,0.14,All Adults
+Disapprove,07/08/2023,0.68,All Adults
+Don't know,07/08/2023,0.18,All Adults
+Approve,14/08/2023,0.15,All Adults
+Disapprove,14/08/2023,0.66,All Adults
+Don't know,14/08/2023,0.19,All Adults
+Approve,21/08/2023,0.13,All Adults
+Disapprove,21/08/2023,0.66,All Adults
+Don't know,21/08/2023,0.21,All Adults
+Approve,28/08/2023,0.14,All Adults
+Disapprove,28/08/2023,0.66,All Adults
+Don't know,28/08/2023,0.19,All Adults
+Approve,04/09/2023,0.13,All Adults
+Disapprove,04/09/2023,0.69,All Adults
+Don't know,04/09/2023,0.18,All Adults
+Approve,11/09/2023,0.13,All Adults
+Disapprove,11/09/2023,0.7,All Adults
+Don't know,11/09/2023,0.17,All Adults
+Approve,18/09/2023,0.13,All Adults
+Disapprove,18/09/2023,0.69,All Adults
+Don't know,18/09/2023,0.18,All Adults
+Approve,25/09/2023,0.17,All Adults
+Disapprove,25/09/2023,0.64,All Adults
+Don't know,25/09/2023,0.19,All Adults
+Approve,02/10/2023,0.13,All Adults
+Disapprove,02/10/2023,0.67,All Adults
+Don't know,02/10/2023,0.2,All Adults
+Approve,09/10/2023,0.12,All Adults
+Disapprove,09/10/2023,0.69,All Adults
+Don't know,09/10/2023,0.18,All Adults
+Approve,16/10/2023,0.16,All Adults
+Disapprove,16/10/2023,0.65,All Adults
+Don't know,16/10/2023,0.2,All Adults
+Approve,23/10/2023,0.14,All Adults
+Disapprove,23/10/2023,0.67,All Adults
+Don't know,23/10/2023,0.18,All Adults
+Approve,30/10/2023,0.15,All Adults
+Disapprove,30/10/2023,0.67,All Adults
+Don't know,30/10/2023,0.18,All Adults
+Approve,06/11/2023,0.14,All Adults
+Disapprove,06/11/2023,0.66,All Adults
+Don't know,06/11/2023,0.19,All Adults
+Approve,13/11/2023,0.14,All Adults
+Disapprove,13/11/2023,0.66,All Adults
+Don't know,13/11/2023,0.21,All Adults
+Approve,20/11/2023,0.13,All Adults
+Disapprove,20/11/2023,0.7,All Adults
+Don't know,20/11/2023,0.17,All Adults
+Approve,27/11/2023,0.14,All Adults
+Disapprove,27/11/2023,0.68,All Adults
+Don't know,27/11/2023,0.17,All Adults
+Approve,04/12/2023,0.14,All Adults
+Disapprove,04/12/2023,0.66,All Adults
+Don't know,04/12/2023,0.19,All Adults
+Approve,11/12/2023,0.12,All Adults
+Disapprove,11/12/2023,0.7,All Adults
+Don't know,11/12/2023,0.18,All Adults
+Approve,18/12/2023,0.14,All Adults
+Disapprove,18/12/2023,0.67,All Adults
+Don't know,18/12/2023,0.18,All Adults
+Approve,24/12/2023,0.14,All Adults
+Disapprove,24/12/2023,0.66,All Adults
+Don't know,24/12/2023,0.2,All Adults
+Approve,01/01/2024,0.15,All Adults
+Disapprove,01/01/2024,0.65,All Adults
+Don't know,01/01/2024,0.19,All Adults
+Approve,07/01/2024,0.15,All Adults
+Disapprove,07/01/2024,0.66,All Adults
+Don't know,07/01/2024,0.19,All Adults
+Approve,15/01/2024,0.14,All Adults
+Disapprove,15/01/2024,0.66,All Adults
+Don't know,15/01/2024,0.19,All Adults
+Approve,22/01/2024,0.14,All Adults
+Disapprove,22/01/2024,0.66,All Adults
+Don't know,22/01/2024,0.2,All Adults
+Approve,29/01/2024,0.15,All Adults
+Disapprove,29/01/2024,0.65,All Adults
+Don't know,29/01/2024,0.2,All Adults
+Approve,05/02/2024,0.16,All Adults
+Disapprove,05/02/2024,0.64,All Adults
+Don't know,05/02/2024,0.2,All Adults
+Approve,11/02/2024,0.17,All Adults
+Disapprove,11/02/2024,0.64,All Adults
+Don't know,11/02/2024,0.19,All Adults
+Approve,19/02/2024,0.14,All Adults
+Disapprove,19/02/2024,0.68,All Adults
+Don't know,19/02/2024,0.18,All Adults
+Approve,26/02/2024,0.16,All Adults
+Disapprove,26/02/2024,0.65,All Adults
+Don't know,26/02/2024,0.19,All Adults
+Approve,04/03/2024,0.16,All Adults
+Disapprove,04/03/2024,0.67,All Adults
+Don't know,04/03/2024,0.17,All Adults
+Approve,11/03/2024,0.14,All Adults
+Disapprove,11/03/2024,0.7,All Adults
+Don't know,11/03/2024,0.17,All Adults
+Approve,18/03/2024,0.13,All Adults
+Disapprove,18/03/2024,0.7,All Adults
+Don't know,18/03/2024,0.17,All Adults
+Approve,25/03/2024,0.13,All Adults
+Disapprove,25/03/2024,0.68,All Adults
+Don't know,25/03/2024,0.18,All Adults
+Approve,01/04/2024,0.13,All Adults
+Disapprove,01/04/2024,0.69,All Adults
+Don't know,01/04/2024,0.18,All Adults
+Approve,08/04/2024,0.13,All Adults
+Disapprove,08/04/2024,0.69,All Adults
+Don't know,08/04/2024,0.18,All Adults
+Approve,16/04/2024,0.15,All Adults
+Disapprove,16/04/2024,0.68,All Adults
+Don't know,16/04/2024,0.18,All Adults
+Approve,22/04/2024,0.13,All Adults
+Disapprove,22/04/2024,0.66,All Adults
+Don't know,22/04/2024,0.2,All Adults
+Approve,28/04/2024,0.17,All Adults
+Disapprove,28/04/2024,0.65,All Adults
+Don't know,28/04/2024,0.18,All Adults
+Approve,06/05/2024,0.14,All Adults
+Disapprove,06/05/2024,0.7,All Adults
+Don't know,06/05/2024,0.16,All Adults
+Approve,13/05/2024,0.15,All Adults
+Disapprove,13/05/2024,0.69,All Adults
+Don't know,13/05/2024,0.17,All Adults
+Approve,20/05/2024,0.15,All Adults
+Disapprove,20/05/2024,0.68,All Adults
+Don't know,20/05/2024,0.17,All Adults
+Approve,27/05/2024,0.15,All Adults
+Disapprove,27/05/2024,0.68,All Adults
+Don't know,27/05/2024,0.17,All Adults
+Approve,02/06/2024,0.15,All Adults
+Disapprove,02/06/2024,0.68,All Adults
+Don't know,02/06/2024,0.17,All Adults
+Approve,10/06/2024,0.14,All Adults
+Disapprove,10/06/2024,0.71,All Adults
+Don't know,10/06/2024,0.15,All Adults
+Approve,17/06/2024,0.12,All Adults
+Disapprove,17/06/2024,0.72,All Adults
+Don't know,17/06/2024,0.16,All Adults
+Approve,24/06/2024,0.12,All Adults
+Disapprove,24/06/2024,0.74,All Adults
+Don't know,24/06/2024,0.14,All Adults
+Approve,01/07/2024,0.15,All Adults
+Disapprove,01/07/2024,0.71,All Adults
+Don't know,01/07/2024,0.14,All Adults
+Approve,22/07/2024,0.28,All Adults
+Disapprove,22/07/2024,0.32,All Adults
+Don't know,22/07/2024,0.4,All Adults
+Approve,29/07/2024,0.29,All Adults
+Disapprove,29/07/2024,0.31,All Adults
+Don't know,29/07/2024,0.4,All Adults
+Approve,19/08/2024,0.26,All Adults
+Disapprove,19/08/2024,0.47,All Adults
+Don't know,19/08/2024,0.27,All Adults
+Approve,26/08/2024,0.23,All Adults
+Disapprove,26/08/2024,0.51,All Adults
+Don't know,26/08/2024,0.26,All Adults
+Approve,02/09/2024,0.23,All Adults
+Disapprove,02/09/2024,0.5,All Adults
+Don't know,02/09/2024,0.27,All Adults
+Approve,09/09/2024,0.19,All Adults
+Disapprove,09/09/2024,0.55,All Adults
+Don't know,09/09/2024,0.26,All Adults
+Approve,16/09/2024,0.23,All Adults
+Disapprove,16/09/2024,0.53,All Adults
+Don't know,16/09/2024,0.24,All Adults
+Approve,22/09/2024,0.21,All Adults
+Disapprove,22/09/2024,0.56,All Adults
+Don't know,22/09/2024,0.23,All Adults
+Approve,30/09/2024,0.18,All Adults
+Disapprove,30/09/2024,0.57,All Adults
+Don't know,30/09/2024,0.25,All Adults
+Approve,07/10/2024,0.18,All Adults
+Disapprove,07/10/2024,0.59,All Adults
+Don't know,07/10/2024,0.23,All Adults
+Approve,14/10/2024,0.18,All Adults
+Disapprove,14/10/2024,0.59,All Adults
+Don't know,14/10/2024,0.23,All Adults
+Approve,21/10/2024,0.19,All Adults
+Disapprove,21/10/2024,0.59,All Adults
+Don't know,21/10/2024,0.22,All Adults
+Approve,28/10/2024,0.2,All Adults
+Disapprove,28/10/2024,0.59,All Adults
+Don't know,28/10/2024,0.22,All Adults
+Approve,04/11/2024,0.21,All Adults
+Disapprove,04/11/2024,0.55,All Adults
+Don't know,04/11/2024,0.24,All Adults
+Approve,11/11/2024,0.2,All Adults
+Disapprove,11/11/2024,0.58,All Adults
+Don't know,11/11/2024,0.22,All Adults
+Approve,18/11/2024,0.2,All Adults
+Disapprove,18/11/2024,0.56,All Adults
+Don't know,18/11/2024,0.25,All Adults
+Approve,25/11/2024,0.19,All Adults
+Disapprove,25/11/2024,0.58,All Adults
+Don't know,25/11/2024,0.23,All Adults
+Approve,02/12/2024,0.22,All Adults
+Disapprove,02/12/2024,0.58,All Adults
+Don't know,02/12/2024,0.2,All Adults
+Approve,09/02/2011,0.34,Male
+Disapprove,09/02/2011,0.56,Male
+Don't know,09/02/2011,0.1,Male
+Approve,16/02/2011,0.33,Male
+Disapprove,16/02/2011,0.56,Male
+Don't know,16/02/2011,0.11,Male
+Approve,23/02/2011,0.34,Male
+Disapprove,23/02/2011,0.53,Male
+Don't know,23/02/2011,0.13,Male
+Approve,02/03/2011,0.33,Male
+Disapprove,02/03/2011,0.55,Male
+Don't know,02/03/2011,0.12,Male
+Approve,09/03/2011,0.33,Male
+Disapprove,09/03/2011,0.56,Male
+Don't know,09/03/2011,0.11,Male
+Approve,16/03/2011,0.31,Male
+Disapprove,16/03/2011,0.57,Male
+Don't know,16/03/2011,0.12,Male
+Approve,23/03/2011,0.35,Male
+Disapprove,23/03/2011,0.54,Male
+Don't know,23/03/2011,0.11,Male
+Approve,30/03/2011,0.36,Male
+Disapprove,30/03/2011,0.53,Male
+Don't know,30/03/2011,0.11,Male
+Approve,06/04/2011,0.35,Male
+Disapprove,06/04/2011,0.55,Male
+Don't know,06/04/2011,0.1,Male
+Approve,13/04/2011,0.35,Male
+Disapprove,13/04/2011,0.54,Male
+Don't know,13/04/2011,0.11,Male
+Approve,20/04/2011,0.32,Male
+Disapprove,20/04/2011,0.55,Male
+Don't know,20/04/2011,0.12,Male
+Approve,27/04/2011,0.35,Male
+Disapprove,27/04/2011,0.55,Male
+Don't know,27/04/2011,0.1,Male
+Approve,03/05/2011,0.35,Male
+Disapprove,03/05/2011,0.54,Male
+Don't know,03/05/2011,0.1,Male
+Approve,11/05/2011,0.36,Male
+Disapprove,11/05/2011,0.55,Male
+Don't know,11/05/2011,0.1,Male
+Approve,18/05/2011,0.36,Male
+Disapprove,18/05/2011,0.54,Male
+Don't know,18/05/2011,0.1,Male
+Approve,25/05/2011,0.35,Male
+Disapprove,25/05/2011,0.54,Male
+Don't know,25/05/2011,0.11,Male
+Approve,01/06/2011,0.36,Male
+Disapprove,01/06/2011,0.52,Male
+Don't know,01/06/2011,0.11,Male
+Approve,08/06/2011,0.36,Male
+Disapprove,08/06/2011,0.53,Male
+Don't know,08/06/2011,0.11,Male
+Approve,15/06/2011,0.34,Male
+Disapprove,15/06/2011,0.56,Male
+Don't know,15/06/2011,0.11,Male
+Approve,22/06/2011,0.34,Male
+Disapprove,22/06/2011,0.54,Male
+Don't know,22/06/2011,0.11,Male
+Approve,29/06/2011,0.33,Male
+Disapprove,29/06/2011,0.57,Male
+Don't know,29/06/2011,0.1,Male
+Approve,06/07/2011,0.32,Male
+Disapprove,06/07/2011,0.57,Male
+Don't know,06/07/2011,0.11,Male
+Approve,12/07/2011,0.32,Male
+Disapprove,12/07/2011,0.57,Male
+Don't know,12/07/2011,0.11,Male
+Approve,20/07/2011,0.33,Male
+Disapprove,20/07/2011,0.57,Male
+Don't know,20/07/2011,0.11,Male
+Approve,27/07/2011,0.33,Male
+Disapprove,27/07/2011,0.56,Male
+Don't know,27/07/2011,0.11,Male
+Approve,03/08/2011,0.34,Male
+Disapprove,03/08/2011,0.55,Male
+Don't know,03/08/2011,0.1,Male
+Approve,10/08/2011,0.33,Male
+Disapprove,10/08/2011,0.56,Male
+Don't know,10/08/2011,0.11,Male
+Approve,17/08/2011,0.32,Male
+Disapprove,17/08/2011,0.57,Male
+Don't know,17/08/2011,0.11,Male
+Approve,24/08/2011,0.33,Male
+Disapprove,24/08/2011,0.57,Male
+Don't know,24/08/2011,0.11,Male
+Approve,31/08/2011,0.34,Male
+Disapprove,31/08/2011,0.54,Male
+Don't know,31/08/2011,0.12,Male
+Approve,07/09/2011,0.34,Male
+Disapprove,07/09/2011,0.56,Male
+Don't know,07/09/2011,0.11,Male
+Approve,14/09/2011,0.33,Male
+Disapprove,14/09/2011,0.56,Male
+Don't know,14/09/2011,0.11,Male
+Approve,21/09/2011,0.35,Male
+Disapprove,21/09/2011,0.54,Male
+Don't know,21/09/2011,0.11,Male
+Approve,28/09/2011,0.34,Male
+Disapprove,28/09/2011,0.54,Male
+Don't know,28/09/2011,0.12,Male
+Approve,05/10/2011,0.35,Male
+Disapprove,05/10/2011,0.55,Male
+Don't know,05/10/2011,0.1,Male
+Approve,12/10/2011,0.34,Male
+Disapprove,12/10/2011,0.55,Male
+Don't know,12/10/2011,0.11,Male
+Approve,19/10/2011,0.34,Male
+Disapprove,19/10/2011,0.55,Male
+Don't know,19/10/2011,0.12,Male
+Approve,26/10/2011,0.33,Male
+Disapprove,26/10/2011,0.57,Male
+Don't know,26/10/2011,0.11,Male
+Approve,02/11/2011,0.33,Male
+Disapprove,02/11/2011,0.55,Male
+Don't know,02/11/2011,0.12,Male
+Approve,09/11/2011,0.31,Male
+Disapprove,09/11/2011,0.57,Male
+Don't know,09/11/2011,0.12,Male
+Approve,16/11/2011,0.32,Male
+Disapprove,16/11/2011,0.56,Male
+Don't know,16/11/2011,0.11,Male
+Approve,23/11/2011,0.33,Male
+Disapprove,23/11/2011,0.56,Male
+Don't know,23/11/2011,0.12,Male
+Approve,30/11/2011,0.32,Male
+Disapprove,30/11/2011,0.57,Male
+Don't know,30/11/2011,0.11,Male
+Approve,07/12/2011,0.33,Male
+Disapprove,07/12/2011,0.56,Male
+Don't know,07/12/2011,0.1,Male
+Approve,14/12/2011,0.35,Male
+Disapprove,14/12/2011,0.54,Male
+Don't know,14/12/2011,0.11,Male
+Approve,21/12/2011,0.35,Male
+Disapprove,21/12/2011,0.53,Male
+Don't know,21/12/2011,0.12,Male
+Approve,22/12/2011,0.36,Male
+Disapprove,22/12/2011,0.53,Male
+Don't know,22/12/2011,0.11,Male
+Approve,04/01/2012,0.38,Male
+Disapprove,04/01/2012,0.51,Male
+Don't know,04/01/2012,0.11,Male
+Approve,11/01/2012,0.37,Male
+Disapprove,11/01/2012,0.52,Male
+Don't know,11/01/2012,0.11,Male
+Approve,18/01/2012,0.35,Male
+Disapprove,18/01/2012,0.53,Male
+Don't know,18/01/2012,0.11,Male
+Approve,24/01/2012,0.38,Male
+Disapprove,24/01/2012,0.52,Male
+Don't know,24/01/2012,0.1,Male
+Approve,01/02/2012,0.36,Male
+Disapprove,01/02/2012,0.52,Male
+Don't know,01/02/2012,0.11,Male
+Approve,08/02/2012,0.36,Male
+Disapprove,08/02/2012,0.53,Male
+Don't know,08/02/2012,0.11,Male
+Approve,15/02/2012,0.36,Male
+Disapprove,15/02/2012,0.53,Male
+Don't know,15/02/2012,0.11,Male
+Approve,22/02/2012,0.34,Male
+Disapprove,22/02/2012,0.55,Male
+Don't know,22/02/2012,0.11,Male
+Approve,29/02/2012,0.36,Male
+Disapprove,29/02/2012,0.53,Male
+Don't know,29/02/2012,0.12,Male
+Approve,07/03/2012,0.34,Male
+Disapprove,07/03/2012,0.55,Male
+Don't know,07/03/2012,0.11,Male
+Approve,14/03/2012,0.32,Male
+Disapprove,14/03/2012,0.56,Male
+Don't know,14/03/2012,0.12,Male
+Approve,21/03/2012,0.33,Male
+Disapprove,21/03/2012,0.55,Male
+Don't know,21/03/2012,0.12,Male
+Approve,28/03/2012,0.31,Male
+Disapprove,28/03/2012,0.59,Male
+Don't know,28/03/2012,0.1,Male
+Approve,04/04/2012,0.27,Male
+Disapprove,04/04/2012,0.63,Male
+Don't know,04/04/2012,0.1,Male
+Approve,11/04/2012,0.3,Male
+Disapprove,11/04/2012,0.59,Male
+Don't know,11/04/2012,0.11,Male
+Approve,18/04/2012,0.28,Male
+Disapprove,18/04/2012,0.6,Male
+Don't know,18/04/2012,0.12,Male
+Approve,25/04/2012,0.27,Male
+Disapprove,25/04/2012,0.62,Male
+Don't know,25/04/2012,0.11,Male
+Approve,02/05/2012,0.27,Male
+Disapprove,02/05/2012,0.62,Male
+Don't know,02/05/2012,0.11,Male
+Approve,09/05/2012,0.25,Male
+Disapprove,09/05/2012,0.65,Male
+Don't know,09/05/2012,0.1,Male
+Approve,16/05/2012,0.27,Male
+Disapprove,16/05/2012,0.63,Male
+Don't know,16/05/2012,0.1,Male
+Approve,23/05/2012,0.27,Male
+Disapprove,23/05/2012,0.61,Male
+Don't know,23/05/2012,0.12,Male
+Approve,30/05/2012,0.28,Male
+Disapprove,30/05/2012,0.62,Male
+Don't know,30/05/2012,0.11,Male
+Approve,06/06/2012,0.27,Male
+Disapprove,06/06/2012,0.61,Male
+Don't know,06/06/2012,0.11,Male
+Approve,13/06/2012,0.27,Male
+Disapprove,13/06/2012,0.63,Male
+Don't know,13/06/2012,0.11,Male
+Approve,20/06/2012,0.27,Male
+Disapprove,20/06/2012,0.61,Male
+Don't know,20/06/2012,0.11,Male
+Approve,27/06/2012,0.3,Male
+Disapprove,27/06/2012,0.6,Male
+Don't know,27/06/2012,0.1,Male
+Approve,04/07/2012,0.28,Male
+Disapprove,04/07/2012,0.61,Male
+Don't know,04/07/2012,0.11,Male
+Approve,11/07/2012,0.29,Male
+Disapprove,11/07/2012,0.6,Male
+Don't know,11/07/2012,0.11,Male
+Approve,18/07/2012,0.27,Male
+Disapprove,18/07/2012,0.62,Male
+Don't know,18/07/2012,0.11,Male
+Approve,25/07/2012,0.28,Male
+Disapprove,25/07/2012,0.6,Male
+Don't know,25/07/2012,0.12,Male
+Approve,01/08/2012,0.29,Male
+Disapprove,01/08/2012,0.6,Male
+Don't know,01/08/2012,0.11,Male
+Approve,08/08/2012,0.28,Male
+Disapprove,08/08/2012,0.62,Male
+Don't know,08/08/2012,0.11,Male
+Approve,15/08/2012,0.28,Male
+Disapprove,15/08/2012,0.61,Male
+Don't know,15/08/2012,0.11,Male
+Approve,21/08/2012,0.28,Male
+Disapprove,21/08/2012,0.61,Male
+Don't know,21/08/2012,0.12,Male
+Approve,29/08/2012,0.26,Male
+Disapprove,29/08/2012,0.63,Male
+Don't know,29/08/2012,0.12,Male
+Approve,05/09/2012,0.26,Male
+Disapprove,05/09/2012,0.63,Male
+Don't know,05/09/2012,0.11,Male
+Approve,12/09/2012,0.25,Male
+Disapprove,12/09/2012,0.64,Male
+Don't know,12/09/2012,0.11,Male
+Approve,19/09/2012,0.27,Male
+Disapprove,19/09/2012,0.61,Male
+Don't know,19/09/2012,0.12,Male
+Approve,26/09/2012,0.26,Male
+Disapprove,26/09/2012,0.62,Male
+Don't know,26/09/2012,0.12,Male
+Approve,03/10/2012,0.28,Male
+Disapprove,03/10/2012,0.61,Male
+Don't know,03/10/2012,0.1,Male
+Approve,10/10/2012,0.29,Male
+Disapprove,10/10/2012,0.61,Male
+Don't know,10/10/2012,0.1,Male
+Approve,17/10/2012,0.28,Male
+Disapprove,17/10/2012,0.6,Male
+Don't know,17/10/2012,0.12,Male
+Approve,24/10/2012,0.28,Male
+Disapprove,24/10/2012,0.6,Male
+Don't know,24/10/2012,0.12,Male
+Approve,31/10/2012,0.29,Male
+Disapprove,31/10/2012,0.59,Male
+Don't know,31/10/2012,0.12,Male
+Approve,06/11/2012,0.29,Male
+Disapprove,06/11/2012,0.59,Male
+Don't know,06/11/2012,0.12,Male
+Approve,14/11/2012,0.29,Male
+Disapprove,14/11/2012,0.58,Male
+Don't know,14/11/2012,0.12,Male
+Approve,21/11/2012,0.29,Male
+Disapprove,21/11/2012,0.61,Male
+Don't know,21/11/2012,0.11,Male
+Approve,28/11/2012,0.29,Male
+Disapprove,28/11/2012,0.59,Male
+Don't know,28/11/2012,0.12,Male
+Approve,05/12/2012,0.29,Male
+Disapprove,05/12/2012,0.59,Male
+Don't know,05/12/2012,0.11,Male
+Approve,12/12/2012,0.3,Male
+Disapprove,12/12/2012,0.6,Male
+Don't know,12/12/2012,0.1,Male
+Approve,19/12/2012,0.28,Male
+Disapprove,19/12/2012,0.62,Male
+Don't know,19/12/2012,0.1,Male
+Approve,21/12/2012,0.3,Male
+Disapprove,21/12/2012,0.58,Male
+Don't know,21/12/2012,0.12,Male
+Approve,02/01/2013,0.28,Male
+Disapprove,02/01/2013,0.61,Male
+Don't know,02/01/2013,0.11,Male
+Approve,09/01/2013,0.29,Male
+Disapprove,09/01/2013,0.59,Male
+Don't know,09/01/2013,0.12,Male
+Approve,15/01/2013,0.29,Male
+Disapprove,15/01/2013,0.6,Male
+Don't know,15/01/2013,0.1,Male
+Approve,23/01/2013,0.3,Male
+Disapprove,23/01/2013,0.58,Male
+Don't know,23/01/2013,0.12,Male
+Approve,30/01/2013,0.31,Male
+Disapprove,30/01/2013,0.57,Male
+Don't know,30/01/2013,0.12,Male
+Approve,06/02/2013,0.3,Male
+Disapprove,06/02/2013,0.6,Male
+Don't know,06/02/2013,0.11,Male
+Approve,12/02/2013,0.3,Male
+Disapprove,12/02/2013,0.59,Male
+Don't know,12/02/2013,0.11,Male
+Approve,20/02/2013,0.29,Male
+Disapprove,20/02/2013,0.6,Male
+Don't know,20/02/2013,0.12,Male
+Approve,27/02/2013,0.27,Male
+Disapprove,27/02/2013,0.6,Male
+Don't know,27/02/2013,0.12,Male
+Approve,06/03/2013,0.28,Male
+Disapprove,06/03/2013,0.6,Male
+Don't know,06/03/2013,0.12,Male
+Approve,12/03/2013,0.28,Male
+Disapprove,12/03/2013,0.61,Male
+Don't know,12/03/2013,0.11,Male
+Approve,20/03/2013,0.26,Male
+Disapprove,20/03/2013,0.62,Male
+Don't know,20/03/2013,0.12,Male
+Approve,27/03/2013,0.27,Male
+Disapprove,27/03/2013,0.6,Male
+Don't know,27/03/2013,0.13,Male
+Approve,03/04/2013,0.29,Male
+Disapprove,03/04/2013,0.58,Male
+Don't know,03/04/2013,0.13,Male
+Approve,09/04/2013,0.29,Male
+Disapprove,09/04/2013,0.6,Male
+Don't know,09/04/2013,0.11,Male
+Approve,16/04/2013,0.29,Male
+Disapprove,16/04/2013,0.6,Male
+Don't know,16/04/2013,0.11,Male
+Approve,24/04/2013,0.3,Male
+Disapprove,24/04/2013,0.57,Male
+Don't know,24/04/2013,0.12,Male
+Approve,30/04/2013,0.3,Male
+Disapprove,30/04/2013,0.59,Male
+Don't know,30/04/2013,0.11,Male
+Approve,08/05/2013,0.28,Male
+Disapprove,08/05/2013,0.61,Male
+Don't know,08/05/2013,0.11,Male
+Approve,15/05/2013,0.27,Male
+Disapprove,15/05/2013,0.6,Male
+Don't know,15/05/2013,0.12,Male
+Approve,22/05/2013,0.26,Male
+Disapprove,22/05/2013,0.62,Male
+Don't know,22/05/2013,0.12,Male
+Approve,29/05/2013,0.29,Male
+Disapprove,29/05/2013,0.61,Male
+Don't know,29/05/2013,0.1,Male
+Approve,05/06/2013,0.29,Male
+Disapprove,05/06/2013,0.59,Male
+Don't know,05/06/2013,0.12,Male
+Approve,12/06/2013,0.29,Male
+Disapprove,12/06/2013,0.6,Male
+Don't know,12/06/2013,0.11,Male
+Approve,19/06/2013,0.29,Male
+Disapprove,19/06/2013,0.59,Male
+Don't know,19/06/2013,0.12,Male
+Approve,26/06/2013,0.29,Male
+Disapprove,26/06/2013,0.59,Male
+Don't know,26/06/2013,0.12,Male
+Approve,03/07/2013,0.3,Male
+Disapprove,03/07/2013,0.59,Male
+Don't know,03/07/2013,0.11,Male
+Approve,10/07/2013,0.31,Male
+Disapprove,10/07/2013,0.59,Male
+Don't know,10/07/2013,0.1,Male
+Approve,16/07/2013,0.29,Male
+Disapprove,16/07/2013,0.59,Male
+Don't know,16/07/2013,0.12,Male
+Approve,24/07/2013,0.32,Male
+Disapprove,24/07/2013,0.56,Male
+Don't know,24/07/2013,0.12,Male
+Approve,30/07/2013,0.32,Male
+Disapprove,30/07/2013,0.58,Male
+Don't know,30/07/2013,0.1,Male
+Approve,07/08/2013,0.33,Male
+Disapprove,07/08/2013,0.56,Male
+Don't know,07/08/2013,0.12,Male
+Approve,14/08/2013,0.32,Male
+Disapprove,14/08/2013,0.57,Male
+Don't know,14/08/2013,0.11,Male
+Approve,21/08/2013,0.32,Male
+Disapprove,21/08/2013,0.57,Male
+Don't know,21/08/2013,0.11,Male
+Approve,28/08/2013,0.33,Male
+Disapprove,28/08/2013,0.58,Male
+Don't know,28/08/2013,0.09,Male
+Approve,04/09/2013,0.31,Male
+Disapprove,04/09/2013,0.58,Male
+Don't know,04/09/2013,0.11,Male
+Approve,11/09/2013,0.31,Male
+Disapprove,11/09/2013,0.57,Male
+Don't know,11/09/2013,0.12,Male
+Approve,18/09/2013,0.35,Male
+Disapprove,18/09/2013,0.55,Male
+Don't know,18/09/2013,0.1,Male
+Approve,23/09/2013,0.32,Male
+Disapprove,23/09/2013,0.58,Male
+Don't know,23/09/2013,0.09,Male
+Approve,02/10/2013,0.33,Male
+Disapprove,02/10/2013,0.56,Male
+Don't know,02/10/2013,0.11,Male
+Approve,09/10/2013,0.35,Male
+Disapprove,09/10/2013,0.54,Male
+Don't know,09/10/2013,0.11,Male
+Approve,16/10/2013,0.35,Male
+Disapprove,16/10/2013,0.55,Male
+Don't know,16/10/2013,0.1,Male
+Approve,23/10/2013,0.33,Male
+Disapprove,23/10/2013,0.57,Male
+Don't know,23/10/2013,0.1,Male
+Approve,30/10/2013,0.33,Male
+Disapprove,30/10/2013,0.57,Male
+Don't know,30/10/2013,0.11,Male
+Approve,06/11/2013,0.33,Male
+Disapprove,06/11/2013,0.55,Male
+Don't know,06/11/2013,0.12,Male
+Approve,12/11/2013,0.32,Male
+Disapprove,12/11/2013,0.56,Male
+Don't know,12/11/2013,0.12,Male
+Approve,20/11/2013,0.33,Male
+Disapprove,20/11/2013,0.56,Male
+Don't know,20/11/2013,0.11,Male
+Approve,27/11/2013,0.33,Male
+Disapprove,27/11/2013,0.57,Male
+Don't know,27/11/2013,0.11,Male
+Approve,04/12/2013,0.31,Male
+Disapprove,04/12/2013,0.56,Male
+Don't know,04/12/2013,0.12,Male
+Approve,10/12/2013,0.34,Male
+Disapprove,10/12/2013,0.55,Male
+Don't know,10/12/2013,0.11,Male
+Approve,12/12/2013,0.35,Male
+Disapprove,12/12/2013,0.55,Male
+Don't know,12/12/2013,0.1,Male
+Approve,19/12/2013,0.34,Male
+Disapprove,19/12/2013,0.56,Male
+Don't know,19/12/2013,0.1,Male
+Approve,08/01/2014,0.32,Male
+Disapprove,08/01/2014,0.58,Male
+Don't know,08/01/2014,0.11,Male
+Approve,15/01/2014,0.34,Male
+Disapprove,15/01/2014,0.55,Male
+Don't know,15/01/2014,0.12,Male
+Approve,22/01/2014,0.32,Male
+Disapprove,22/01/2014,0.57,Male
+Don't know,22/01/2014,0.11,Male
+Approve,29/01/2014,0.36,Male
+Disapprove,29/01/2014,0.54,Male
+Don't know,29/01/2014,0.11,Male
+Approve,30/01/2014,0.32,Male
+Disapprove,30/01/2014,0.57,Male
+Don't know,30/01/2014,0.11,Male
+Approve,12/02/2014,0.35,Male
+Disapprove,12/02/2014,0.54,Male
+Don't know,12/02/2014,0.11,Male
+Approve,18/02/2014,0.34,Male
+Disapprove,18/02/2014,0.55,Male
+Don't know,18/02/2014,0.11,Male
+Approve,26/02/2014,0.35,Male
+Disapprove,26/02/2014,0.55,Male
+Don't know,26/02/2014,0.1,Male
+Approve,05/03/2014,0.37,Male
+Disapprove,05/03/2014,0.53,Male
+Don't know,05/03/2014,0.1,Male
+Approve,12/03/2014,0.35,Male
+Disapprove,12/03/2014,0.54,Male
+Don't know,12/03/2014,0.11,Male
+Approve,19/03/2014,0.35,Male
+Disapprove,19/03/2014,0.54,Male
+Don't know,19/03/2014,0.11,Male
+Approve,26/03/2014,0.38,Male
+Disapprove,26/03/2014,0.5,Male
+Don't know,26/03/2014,0.12,Male
+Approve,02/04/2014,0.36,Male
+Disapprove,02/04/2014,0.53,Male
+Don't know,02/04/2014,0.11,Male
+Approve,09/04/2014,0.36,Male
+Disapprove,09/04/2014,0.54,Male
+Don't know,09/04/2014,0.11,Male
+Approve,16/04/2014,0.36,Male
+Disapprove,16/04/2014,0.53,Male
+Don't know,16/04/2014,0.11,Male
+Approve,23/04/2014,0.38,Male
+Disapprove,23/04/2014,0.52,Male
+Don't know,23/04/2014,0.1,Male
+Approve,30/04/2014,0.34,Male
+Disapprove,30/04/2014,0.55,Male
+Don't know,30/04/2014,0.11,Male
+Approve,07/05/2014,0.37,Male
+Disapprove,07/05/2014,0.51,Male
+Don't know,07/05/2014,0.12,Male
+Approve,14/05/2014,0.37,Male
+Disapprove,14/05/2014,0.52,Male
+Don't know,14/05/2014,0.11,Male
+Approve,21/05/2014,0.37,Male
+Disapprove,21/05/2014,0.52,Male
+Don't know,21/05/2014,0.11,Male
+Approve,28/05/2014,0.35,Male
+Disapprove,28/05/2014,0.55,Male
+Don't know,28/05/2014,0.1,Male
+Approve,04/06/2014,0.37,Male
+Disapprove,04/06/2014,0.53,Male
+Don't know,04/06/2014,0.1,Male
+Approve,11/06/2014,0.36,Male
+Disapprove,11/06/2014,0.54,Male
+Don't know,11/06/2014,0.1,Male
+Approve,18/06/2014,0.38,Male
+Disapprove,18/06/2014,0.52,Male
+Don't know,18/06/2014,0.1,Male
+Approve,25/06/2014,0.34,Male
+Disapprove,25/06/2014,0.55,Male
+Don't know,25/06/2014,0.11,Male
+Approve,01/07/2014,0.36,Male
+Disapprove,01/07/2014,0.53,Male
+Don't know,01/07/2014,0.12,Male
+Approve,09/07/2014,0.36,Male
+Disapprove,09/07/2014,0.52,Male
+Don't know,09/07/2014,0.12,Male
+Approve,16/07/2014,0.36,Male
+Disapprove,16/07/2014,0.52,Male
+Don't know,16/07/2014,0.12,Male
+Approve,23/07/2014,0.34,Male
+Disapprove,23/07/2014,0.55,Male
+Don't know,23/07/2014,0.11,Male
+Approve,30/07/2014,0.37,Male
+Disapprove,30/07/2014,0.52,Male
+Don't know,30/07/2014,0.11,Male
+Approve,04/08/2014,0.36,Male
+Disapprove,04/08/2014,0.53,Male
+Don't know,04/08/2014,0.12,Male
+Approve,12/08/2014,0.37,Male
+Disapprove,12/08/2014,0.51,Male
+Don't know,12/08/2014,0.12,Male
+Approve,20/08/2014,0.35,Male
+Disapprove,20/08/2014,0.54,Male
+Don't know,20/08/2014,0.11,Male
+Approve,27/08/2014,0.35,Male
+Disapprove,27/08/2014,0.55,Male
+Don't know,27/08/2014,0.1,Male
+Approve,03/09/2014,0.35,Male
+Disapprove,03/09/2014,0.54,Male
+Don't know,03/09/2014,0.11,Male
+Approve,10/09/2014,0.35,Male
+Disapprove,10/09/2014,0.54,Male
+Don't know,10/09/2014,0.11,Male
+Approve,17/09/2014,0.36,Male
+Disapprove,17/09/2014,0.54,Male
+Don't know,17/09/2014,0.11,Male
+Approve,24/09/2014,0.36,Male
+Disapprove,24/09/2014,0.54,Male
+Don't know,24/09/2014,0.1,Male
+Approve,01/10/2014,0.35,Male
+Disapprove,01/10/2014,0.56,Male
+Don't know,01/10/2014,0.1,Male
+Approve,08/10/2014,0.36,Male
+Disapprove,08/10/2014,0.55,Male
+Don't know,08/10/2014,0.09,Male
+Approve,15/10/2014,0.36,Male
+Disapprove,15/10/2014,0.55,Male
+Don't know,15/10/2014,0.09,Male
+Approve,22/10/2014,0.35,Male
+Disapprove,22/10/2014,0.54,Male
+Don't know,22/10/2014,0.11,Male
+Approve,29/10/2014,0.35,Male
+Disapprove,29/10/2014,0.55,Male
+Don't know,29/10/2014,0.09,Male
+Approve,05/11/2014,0.34,Male
+Disapprove,05/11/2014,0.56,Male
+Don't know,05/11/2014,0.1,Male
+Approve,12/11/2014,0.35,Male
+Disapprove,12/11/2014,0.54,Male
+Don't know,12/11/2014,0.11,Male
+Approve,19/11/2014,0.36,Male
+Disapprove,19/11/2014,0.54,Male
+Don't know,19/11/2014,0.1,Male
+Approve,26/11/2014,0.36,Male
+Disapprove,26/11/2014,0.55,Male
+Don't know,26/11/2014,0.09,Male
+Approve,03/12/2014,0.35,Male
+Disapprove,03/12/2014,0.56,Male
+Don't know,03/12/2014,0.1,Male
+Approve,09/12/2014,0.36,Male
+Disapprove,09/12/2014,0.54,Male
+Don't know,09/12/2014,0.1,Male
+Approve,17/12/2014,0.34,Male
+Disapprove,17/12/2014,0.55,Male
+Don't know,17/12/2014,0.11,Male
+Approve,22/12/2014,0.34,Male
+Disapprove,22/12/2014,0.55,Male
+Don't know,22/12/2014,0.1,Male
+Approve,07/01/2015,0.35,Male
+Disapprove,07/01/2015,0.55,Male
+Don't know,07/01/2015,0.11,Male
+Approve,14/01/2015,0.35,Male
+Disapprove,14/01/2015,0.54,Male
+Don't know,14/01/2015,0.11,Male
+Approve,21/01/2015,0.36,Male
+Disapprove,21/01/2015,0.54,Male
+Don't know,21/01/2015,0.1,Male
+Approve,28/01/2015,0.36,Male
+Disapprove,28/01/2015,0.54,Male
+Don't know,28/01/2015,0.1,Male
+Approve,04/02/2015,0.37,Male
+Disapprove,04/02/2015,0.52,Male
+Don't know,04/02/2015,0.11,Male
+Approve,11/02/2015,0.36,Male
+Disapprove,11/02/2015,0.54,Male
+Don't know,11/02/2015,0.1,Male
+Approve,18/02/2015,0.36,Male
+Disapprove,18/02/2015,0.54,Male
+Don't know,18/02/2015,0.1,Male
+Approve,24/02/2015,0.39,Male
+Disapprove,24/02/2015,0.52,Male
+Don't know,24/02/2015,0.09,Male
+Approve,04/03/2015,0.37,Male
+Disapprove,04/03/2015,0.54,Male
+Don't know,04/03/2015,0.1,Male
+Approve,11/03/2015,0.38,Male
+Disapprove,11/03/2015,0.51,Male
+Don't know,11/03/2015,0.11,Male
+Approve,18/03/2015,0.38,Male
+Disapprove,18/03/2015,0.5,Male
+Don't know,18/03/2015,0.11,Male
+Approve,25/03/2015,0.42,Male
+Disapprove,25/03/2015,0.49,Male
+Don't know,25/03/2015,0.1,Male
+Approve,01/04/2015,0.41,Male
+Disapprove,01/04/2015,0.48,Male
+Don't know,01/04/2015,0.11,Male
+Approve,08/04/2015,0.41,Male
+Disapprove,08/04/2015,0.5,Male
+Don't know,08/04/2015,0.09,Male
+Approve,15/04/2015,0.41,Male
+Disapprove,15/04/2015,0.5,Male
+Don't know,15/04/2015,0.09,Male
+Approve,21/04/2015,0.4,Male
+Disapprove,21/04/2015,0.5,Male
+Don't know,21/04/2015,0.09,Male
+Approve,28/04/2015,0.4,Male
+Disapprove,28/04/2015,0.51,Male
+Don't know,28/04/2015,0.09,Male
+Approve,05/05/2015,0.42,Male
+Disapprove,05/05/2015,0.5,Male
+Don't know,05/05/2015,0.09,Male
+Approve,13/05/2015,0.45,Male
+Disapprove,13/05/2015,0.44,Male
+Don't know,13/05/2015,0.11,Male
+Approve,18/05/2015,0.44,Male
+Disapprove,18/05/2015,0.44,Male
+Don't know,18/05/2015,0.12,Male
+Approve,26/05/2015,0.46,Male
+Disapprove,26/05/2015,0.43,Male
+Don't know,26/05/2015,0.12,Male
+Approve,02/06/2015,0.44,Male
+Disapprove,02/06/2015,0.45,Male
+Don't know,02/06/2015,0.11,Male
+Approve,10/06/2015,0.43,Male
+Disapprove,10/06/2015,0.44,Male
+Don't know,10/06/2015,0.13,Male
+Approve,16/06/2015,0.44,Male
+Disapprove,16/06/2015,0.44,Male
+Don't know,16/06/2015,0.12,Male
+Approve,24/06/2015,0.44,Male
+Disapprove,24/06/2015,0.44,Male
+Don't know,24/06/2015,0.11,Male
+Approve,01/07/2015,0.43,Male
+Disapprove,01/07/2015,0.46,Male
+Don't know,01/07/2015,0.11,Male
+Approve,07/07/2015,0.39,Male
+Disapprove,07/07/2015,0.5,Male
+Don't know,07/07/2015,0.11,Male
+Approve,13/07/2015,0.43,Male
+Disapprove,13/07/2015,0.44,Male
+Don't know,13/07/2015,0.13,Male
+Approve,24/08/2015,0.43,Male
+Disapprove,24/08/2015,0.48,Male
+Don't know,24/08/2015,0.09,Male
+Approve,18/09/2015,0.41,Male
+Disapprove,18/09/2015,0.5,Male
+Don't know,18/09/2015,0.09,Male
+Approve,26/10/2015,0.41,Male
+Disapprove,26/10/2015,0.48,Male
+Don't know,26/10/2015,0.1,Male
+Approve,23/11/2015,0.34,Male
+Disapprove,23/11/2015,0.57,Male
+Don't know,23/11/2015,0.09,Male
+Approve,23/12/2015,0.35,Male
+Disapprove,23/12/2015,0.52,Male
+Don't know,23/12/2015,0.13,Male
+Approve,25/01/2016,0.39,Male
+Disapprove,25/01/2016,0.51,Male
+Don't know,25/01/2016,0.11,Male
+Approve,23/02/2016,0.32,Male
+Disapprove,23/02/2016,0.52,Male
+Don't know,23/02/2016,0.16,Male
+Approve,21/03/2016,0.27,Male
+Disapprove,21/03/2016,0.58,Male
+Don't know,21/03/2016,0.16,Male
+Approve,25/04/2016,0.25,Male
+Disapprove,25/04/2016,0.56,Male
+Don't know,25/04/2016,0.18,Male
+Approve,02/05/2016,0.27,Male
+Disapprove,02/05/2016,0.6,Male
+Don't know,02/05/2016,0.13,Male
+Approve,20/05/2016,0.26,Male
+Disapprove,20/05/2016,0.61,Male
+Don't know,20/05/2016,0.13,Male
+Approve,05/06/2016,0.22,Male
+Disapprove,05/06/2016,0.64,Male
+Don't know,05/06/2016,0.15,Male
+Approve,04/07/2016,0.24,Male
+Disapprove,04/07/2016,0.61,Male
+Don't know,04/07/2016,0.15,Male
+Approve,22/07/2016,0.3,Male
+Disapprove,22/07/2016,0.51,Male
+Don't know,22/07/2016,0.2,Male
+Approve,01/09/2016,0.3,Male
+Disapprove,01/09/2016,0.5,Male
+Don't know,01/09/2016,0.2,Male
+Approve,19/09/2016,0.3,Male
+Disapprove,19/09/2016,0.54,Male
+Don't know,19/09/2016,0.17,Male
+Approve,24/10/2016,0.34,Male
+Disapprove,24/10/2016,0.45,Male
+Don't know,24/10/2016,0.22,Male
+Approve,22/11/2016,0.33,Male
+Disapprove,22/11/2016,0.46,Male
+Don't know,22/11/2016,0.21,Male
+Approve,15/12/2016,0.28,Male
+Disapprove,15/12/2016,0.53,Male
+Don't know,15/12/2016,0.19,Male
+Approve,24/01/2017,0.34,Male
+Disapprove,24/01/2017,0.41,Male
+Don't know,24/01/2017,0.24,Male
+Approve,20/02/2017,0.31,Male
+Disapprove,20/02/2017,0.46,Male
+Don't know,20/02/2017,0.23,Male
+Approve,29/03/2017,0.39,Male
+Disapprove,29/03/2017,0.41,Male
+Don't know,29/03/2017,0.2,Male
+Approve,21/04/2017,0.38,Male
+Disapprove,21/04/2017,0.45,Male
+Don't know,21/04/2017,0.17,Male
+Approve,28/04/2017,0.4,Male
+Disapprove,28/04/2017,0.43,Male
+Don't know,28/04/2017,0.17,Male
+Approve,22/05/2017,0.35,Male
+Disapprove,22/05/2017,0.5,Male
+Don't know,22/05/2017,0.15,Male
+Approve,26/06/2017,0.26,Male
+Disapprove,26/06/2017,0.56,Male
+Don't know,26/06/2017,0.19,Male
+Approve,24/07/2017,0.26,Male
+Disapprove,24/07/2017,0.56,Male
+Don't know,24/07/2017,0.18,Male
+Approve,24/08/2017,0.25,Male
+Disapprove,24/08/2017,0.53,Male
+Don't know,24/08/2017,0.21,Male
+Approve,27/09/2017,0.23,Male
+Disapprove,27/09/2017,0.56,Male
+Don't know,27/09/2017,0.21,Male
+Approve,19/10/2017,0.24,Male
+Disapprove,19/10/2017,0.53,Male
+Don't know,19/10/2017,0.23,Male
+Approve,17/11/2017,0.2,Male
+Disapprove,17/11/2017,0.58,Male
+Don't know,17/11/2017,0.22,Male
+Approve,15/12/2017,0.23,Male
+Disapprove,15/12/2017,0.53,Male
+Don't know,15/12/2017,0.24,Male
+Approve,28/02/2018,0.27,Male
+Disapprove,28/02/2018,0.55,Male
+Don't know,28/02/2018,0.18,Male
+Approve,24/03/2018,0.27,Male
+Disapprove,24/03/2018,0.5,Male
+Don't know,24/03/2018,0.23,Male
+Approve,19/04/2018,0.35,Male
+Disapprove,19/04/2018,0.45,Male
+Don't know,19/04/2018,0.2,Male
+Approve,26/04/2018,0.29,Male
+Disapprove,26/04/2018,0.51,Male
+Don't know,26/04/2018,0.21,Male
+Approve,11/06/2018,0.26,Male
+Disapprove,11/06/2018,0.52,Male
+Don't know,11/06/2018,0.22,Male
+Approve,04/07/2018,0.28,Male
+Disapprove,04/07/2018,0.42,Male
+Don't know,04/07/2018,0.3,Male
+Approve,24/07/2018,0.19,Male
+Disapprove,24/07/2018,0.6,Male
+Don't know,24/07/2018,0.22,Male
+Approve,22/08/2018,0.22,Male
+Disapprove,22/08/2018,0.56,Male
+Don't know,22/08/2018,0.22,Male
+Approve,21/09/2018,0.22,Male
+Disapprove,21/09/2018,0.58,Male
+Don't know,21/09/2018,0.2,Male
+Approve,23/10/2018,0.24,Male
+Disapprove,23/10/2018,0.56,Male
+Don't know,23/10/2018,0.2,Male
+Approve,22/11/2018,0.19,Male
+Disapprove,22/11/2018,0.59,Male
+Don't know,22/11/2018,0.21,Male
+Approve,17/12/2018,0.22,Male
+Disapprove,17/12/2018,0.58,Male
+Don't know,17/12/2018,0.2,Male
+Approve,23/01/2019,0.14,Male
+Disapprove,23/01/2019,0.67,Male
+Don't know,23/01/2019,0.19,Male
+Approve,27/03/2019,0.13,Male
+Disapprove,27/03/2019,0.71,Male
+Don't know,27/03/2019,0.16,Male
+Approve,01/05/2019,0.12,Male
+Disapprove,01/05/2019,0.7,Male
+Don't know,01/05/2019,0.18,Male
+Approve,13/05/2019,0.1,Male
+Disapprove,13/05/2019,0.77,Male
+Don't know,13/05/2019,0.13,Male
+Approve,24/06/2019,0.11,Male
+Disapprove,24/06/2019,0.73,Male
+Don't know,24/06/2019,0.15,Male
+Approve,01/07/2019,0.11,Male
+Disapprove,01/07/2019,0.76,Male
+Don't know,01/07/2019,0.13,Male
+Approve,08/07/2019,0.11,Male
+Disapprove,08/07/2019,0.72,Male
+Don't know,08/07/2019,0.17,Male
+Approve,14/07/2019,0.15,Male
+Disapprove,14/07/2019,0.73,Male
+Don't know,14/07/2019,0.12,Male
+Approve,22/07/2019,0.12,Male
+Disapprove,22/07/2019,0.72,Male
+Don't know,22/07/2019,0.17,Male
+Approve,29/07/2019,0.16,Male
+Disapprove,29/07/2019,0.67,Male
+Don't know,29/07/2019,0.18,Male
+Approve,05/08/2019,0.17,Male
+Disapprove,05/08/2019,0.63,Male
+Don't know,05/08/2019,0.2,Male
+Approve,11/08/2019,0.23,Male
+Disapprove,11/08/2019,0.63,Male
+Don't know,11/08/2019,0.14,Male
+Approve,19/08/2019,0.19,Male
+Disapprove,19/08/2019,0.63,Male
+Don't know,19/08/2019,0.18,Male
+Approve,26/08/2019,0.21,Male
+Disapprove,26/08/2019,0.63,Male
+Don't know,26/08/2019,0.15,Male
+Approve,02/09/2019,0.25,Male
+Disapprove,02/09/2019,0.59,Male
+Don't know,02/09/2019,0.16,Male
+Approve,09/09/2019,0.21,Male
+Disapprove,09/09/2019,0.64,Male
+Don't know,09/09/2019,0.15,Male
+Approve,16/09/2019,0.24,Male
+Disapprove,16/09/2019,0.63,Male
+Don't know,16/09/2019,0.14,Male
+Approve,23/09/2019,0.21,Male
+Disapprove,23/09/2019,0.64,Male
+Don't know,23/09/2019,0.14,Male
+Approve,30/09/2019,0.22,Male
+Disapprove,30/09/2019,0.61,Male
+Don't know,30/09/2019,0.16,Male
+Approve,06/10/2019,0.24,Male
+Disapprove,06/10/2019,0.61,Male
+Don't know,06/10/2019,0.15,Male
+Approve,14/10/2019,0.23,Male
+Disapprove,14/10/2019,0.56,Male
+Don't know,14/10/2019,0.2,Male
+Approve,21/10/2019,0.26,Male
+Disapprove,21/10/2019,0.57,Male
+Don't know,21/10/2019,0.17,Male
+Approve,28/10/2019,0.26,Male
+Disapprove,28/10/2019,0.56,Male
+Don't know,28/10/2019,0.18,Male
+Approve,04/11/2019,0.25,Male
+Disapprove,04/11/2019,0.63,Male
+Don't know,04/11/2019,0.12,Male
+Approve,11/11/2019,0.29,Male
+Disapprove,11/11/2019,0.57,Male
+Don't know,11/11/2019,0.14,Male
+Approve,18/11/2019,0.25,Male
+Disapprove,18/11/2019,0.61,Male
+Don't know,18/11/2019,0.14,Male
+Approve,25/11/2019,0.27,Male
+Disapprove,25/11/2019,0.59,Male
+Don't know,25/11/2019,0.14,Male
+Approve,01/12/2019,0.25,Male
+Disapprove,01/12/2019,0.61,Male
+Don't know,01/12/2019,0.14,Male
+Approve,16/12/2019,0.32,Male
+Disapprove,16/12/2019,0.53,Male
+Don't know,16/12/2019,0.15,Male
+Approve,23/12/2019,0.41,Male
+Disapprove,23/12/2019,0.45,Male
+Don't know,23/12/2019,0.14,Male
+Approve,30/12/2019,0.36,Male
+Disapprove,30/12/2019,0.43,Male
+Don't know,30/12/2019,0.2,Male
+Approve,06/01/2020,0.33,Male
+Disapprove,06/01/2020,0.46,Male
+Don't know,06/01/2020,0.2,Male
+Approve,13/01/2020,0.38,Male
+Disapprove,13/01/2020,0.42,Male
+Don't know,13/01/2020,0.2,Male
+Approve,20/01/2020,0.36,Male
+Disapprove,20/01/2020,0.44,Male
+Don't know,20/01/2020,0.2,Male
+Approve,27/01/2020,0.36,Male
+Disapprove,27/01/2020,0.43,Male
+Don't know,27/01/2020,0.2,Male
+Approve,03/02/2020,0.4,Male
+Disapprove,03/02/2020,0.42,Male
+Don't know,03/02/2020,0.17,Male
+Approve,09/02/2020,0.41,Male
+Disapprove,09/02/2020,0.42,Male
+Don't know,09/02/2020,0.17,Male
+Approve,17/02/2020,0.42,Male
+Disapprove,17/02/2020,0.35,Male
+Don't know,17/02/2020,0.23,Male
+Approve,24/02/2020,0.38,Male
+Disapprove,24/02/2020,0.41,Male
+Don't know,24/02/2020,0.21,Male
+Approve,02/03/2020,0.4,Male
+Disapprove,02/03/2020,0.41,Male
+Don't know,02/03/2020,0.19,Male
+Approve,09/03/2020,0.42,Male
+Disapprove,09/03/2020,0.38,Male
+Don't know,09/03/2020,0.2,Male
+Approve,16/03/2020,0.42,Male
+Disapprove,16/03/2020,0.36,Male
+Don't know,16/03/2020,0.22,Male
+Approve,23/03/2020,0.52,Male
+Disapprove,23/03/2020,0.31,Male
+Don't know,23/03/2020,0.18,Male
+Approve,30/03/2020,0.52,Male
+Disapprove,30/03/2020,0.31,Male
+Don't know,30/03/2020,0.17,Male
+Approve,06/04/2020,0.53,Male
+Disapprove,06/04/2020,0.31,Male
+Don't know,06/04/2020,0.16,Male
+Approve,13/04/2020,0.52,Male
+Disapprove,13/04/2020,0.32,Male
+Don't know,13/04/2020,0.16,Male
+Approve,20/04/2020,0.48,Male
+Disapprove,20/04/2020,0.35,Male
+Don't know,20/04/2020,0.17,Male
+Approve,27/04/2020,0.49,Male
+Disapprove,27/04/2020,0.39,Male
+Don't know,27/04/2020,0.12,Male
+Approve,03/05/2020,0.51,Male
+Disapprove,03/05/2020,0.34,Male
+Don't know,03/05/2020,0.16,Male
+Approve,10/05/2020,0.44,Male
+Disapprove,10/05/2020,0.42,Male
+Don't know,10/05/2020,0.14,Male
+Approve,18/05/2020,0.43,Male
+Disapprove,18/05/2020,0.44,Male
+Don't know,18/05/2020,0.14,Male
+Approve,25/05/2020,0.36,Male
+Disapprove,25/05/2020,0.47,Male
+Don't know,25/05/2020,0.17,Male
+Approve,02/06/2020,0.39,Male
+Disapprove,02/06/2020,0.44,Male
+Don't know,02/06/2020,0.17,Male
+Approve,08/06/2020,0.36,Male
+Disapprove,08/06/2020,0.48,Male
+Don't know,08/06/2020,0.16,Male
+Approve,15/06/2020,0.35,Male
+Disapprove,15/06/2020,0.5,Male
+Don't know,15/06/2020,0.15,Male
+Approve,22/06/2020,0.31,Male
+Disapprove,22/06/2020,0.53,Male
+Don't know,22/06/2020,0.16,Male
+Approve,29/06/2020,0.39,Male
+Disapprove,29/06/2020,0.47,Male
+Don't know,29/06/2020,0.14,Male
+Approve,06/07/2020,0.37,Male
+Disapprove,06/07/2020,0.48,Male
+Don't know,06/07/2020,0.15,Male
+Approve,13/07/2020,0.38,Male
+Disapprove,13/07/2020,0.45,Male
+Don't know,13/07/2020,0.17,Male
+Approve,20/07/2020,0.35,Male
+Disapprove,20/07/2020,0.43,Male
+Don't know,20/07/2020,0.21,Male
+Approve,27/07/2020,0.39,Male
+Disapprove,27/07/2020,0.47,Male
+Don't know,27/07/2020,0.14,Male
+Approve,03/08/2020,0.34,Male
+Disapprove,03/08/2020,0.51,Male
+Don't know,03/08/2020,0.15,Male
+Approve,10/08/2020,0.32,Male
+Disapprove,10/08/2020,0.48,Male
+Don't know,10/08/2020,0.2,Male
+Approve,17/08/2020,0.31,Male
+Disapprove,17/08/2020,0.51,Male
+Don't know,17/08/2020,0.18,Male
+Approve,24/08/2020,0.33,Male
+Disapprove,24/08/2020,0.5,Male
+Don't know,24/08/2020,0.17,Male
+Approve,31/08/2020,0.31,Male
+Disapprove,31/08/2020,0.51,Male
+Don't know,31/08/2020,0.18,Male
+Approve,07/09/2020,0.31,Male
+Disapprove,07/09/2020,0.54,Male
+Don't know,07/09/2020,0.15,Male
+Approve,14/09/2020,0.34,Male
+Disapprove,14/09/2020,0.5,Male
+Don't know,14/09/2020,0.16,Male
+Approve,21/09/2020,0.3,Male
+Disapprove,21/09/2020,0.56,Male
+Don't know,21/09/2020,0.15,Male
+Approve,28/09/2020,0.29,Male
+Disapprove,28/09/2020,0.52,Male
+Don't know,28/09/2020,0.19,Male
+Approve,05/10/2020,0.32,Male
+Disapprove,05/10/2020,0.55,Male
+Don't know,05/10/2020,0.13,Male
+Approve,12/10/2020,0.32,Male
+Disapprove,12/10/2020,0.54,Male
+Don't know,12/10/2020,0.14,Male
+Approve,18/10/2020,0.27,Male
+Disapprove,18/10/2020,0.57,Male
+Don't know,18/10/2020,0.16,Male
+Approve,26/10/2020,0.28,Male
+Disapprove,26/10/2020,0.59,Male
+Don't know,26/10/2020,0.12,Male
+Approve,02/11/2020,0.28,Male
+Disapprove,02/11/2020,0.6,Male
+Don't know,02/11/2020,0.12,Male
+Approve,09/11/2020,0.29,Male
+Disapprove,09/11/2020,0.57,Male
+Don't know,09/11/2020,0.14,Male
+Approve,15/11/2020,0.32,Male
+Disapprove,15/11/2020,0.49,Male
+Don't know,15/11/2020,0.19,Male
+Approve,23/11/2020,0.29,Male
+Disapprove,23/11/2020,0.54,Male
+Don't know,23/11/2020,0.17,Male
+Approve,30/11/2020,0.31,Male
+Disapprove,30/11/2020,0.54,Male
+Don't know,30/11/2020,0.15,Male
+Approve,07/12/2020,0.29,Male
+Disapprove,07/12/2020,0.56,Male
+Don't know,07/12/2020,0.16,Male
+Approve,14/12/2020,0.29,Male
+Disapprove,14/12/2020,0.54,Male
+Don't know,14/12/2020,0.17,Male
+Approve,20/12/2020,0.3,Male
+Disapprove,20/12/2020,0.56,Male
+Don't know,20/12/2020,0.14,Male
+Approve,28/12/2020,0.31,Male
+Disapprove,28/12/2020,0.52,Male
+Don't know,28/12/2020,0.17,Male
+Approve,04/01/2021,0.34,Male
+Disapprove,04/01/2021,0.53,Male
+Don't know,04/01/2021,0.13,Male
+Approve,11/01/2021,0.32,Male
+Disapprove,11/01/2021,0.53,Male
+Don't know,11/01/2021,0.15,Male
+Approve,18/01/2021,0.31,Male
+Disapprove,18/01/2021,0.56,Male
+Don't know,18/01/2021,0.12,Male
+Approve,25/01/2021,0.32,Male
+Disapprove,25/01/2021,0.56,Male
+Don't know,25/01/2021,0.13,Male
+Approve,01/02/2021,0.34,Male
+Disapprove,01/02/2021,0.54,Male
+Don't know,01/02/2021,0.12,Male
+Approve,08/02/2021,0.36,Male
+Disapprove,08/02/2021,0.52,Male
+Don't know,08/02/2021,0.12,Male
+Approve,15/02/2021,0.33,Male
+Disapprove,15/02/2021,0.52,Male
+Don't know,15/02/2021,0.15,Male
+Approve,22/02/2021,0.38,Male
+Disapprove,22/02/2021,0.51,Male
+Don't know,22/02/2021,0.11,Male
+Approve,01/03/2021,0.38,Male
+Disapprove,01/03/2021,0.46,Male
+Don't know,01/03/2021,0.16,Male
+Approve,08/03/2021,0.37,Male
+Disapprove,08/03/2021,0.46,Male
+Don't know,08/03/2021,0.17,Male
+Approve,15/03/2021,0.4,Male
+Disapprove,15/03/2021,0.45,Male
+Don't know,15/03/2021,0.15,Male
+Approve,22/03/2021,0.39,Male
+Disapprove,22/03/2021,0.46,Male
+Don't know,22/03/2021,0.15,Male
+Approve,29/03/2021,0.37,Male
+Disapprove,29/03/2021,0.5,Male
+Don't know,29/03/2021,0.13,Male
+Approve,05/04/2021,0.39,Male
+Disapprove,05/04/2021,0.46,Male
+Don't know,05/04/2021,0.15,Male
+Approve,12/04/2021,0.4,Male
+Disapprove,12/04/2021,0.43,Male
+Don't know,12/04/2021,0.17,Male
+Approve,19/04/2021,0.39,Male
+Disapprove,19/04/2021,0.49,Male
+Don't know,19/04/2021,0.13,Male
+Approve,26/04/2021,0.38,Male
+Disapprove,26/04/2021,0.46,Male
+Don't know,26/04/2021,0.16,Male
+Approve,03/05/2021,0.43,Male
+Disapprove,03/05/2021,0.44,Male
+Don't know,03/05/2021,0.13,Male
+Approve,10/05/2021,0.4,Male
+Disapprove,10/05/2021,0.44,Male
+Don't know,10/05/2021,0.17,Male
+Approve,17/05/2021,0.42,Male
+Disapprove,17/05/2021,0.43,Male
+Don't know,17/05/2021,0.15,Male
+Approve,24/05/2021,0.38,Male
+Disapprove,24/05/2021,0.49,Male
+Don't know,24/05/2021,0.13,Male
+Approve,31/05/2021,0.41,Male
+Disapprove,31/05/2021,0.48,Male
+Don't know,31/05/2021,0.11,Male
+Approve,07/06/2021,0.38,Male
+Disapprove,07/06/2021,0.48,Male
+Don't know,07/06/2021,0.14,Male
+Approve,14/06/2021,0.38,Male
+Disapprove,14/06/2021,0.49,Male
+Don't know,14/06/2021,0.14,Male
+Approve,21/06/2021,0.32,Male
+Disapprove,21/06/2021,0.52,Male
+Don't know,21/06/2021,0.16,Male
+Approve,28/06/2021,0.36,Male
+Disapprove,28/06/2021,0.48,Male
+Don't know,28/06/2021,0.16,Male
+Approve,05/07/2021,0.33,Male
+Disapprove,05/07/2021,0.51,Male
+Don't know,05/07/2021,0.16,Male
+Approve,12/07/2021,0.33,Male
+Disapprove,12/07/2021,0.5,Male
+Don't know,12/07/2021,0.16,Male
+Approve,19/07/2021,0.34,Male
+Disapprove,19/07/2021,0.5,Male
+Don't know,19/07/2021,0.15,Male
+Approve,26/07/2021,0.33,Male
+Disapprove,26/07/2021,0.53,Male
+Don't know,26/07/2021,0.14,Male
+Approve,02/08/2021,0.34,Male
+Disapprove,02/08/2021,0.5,Male
+Don't know,02/08/2021,0.16,Male
+Approve,09/08/2021,0.33,Male
+Disapprove,09/08/2021,0.49,Male
+Don't know,09/08/2021,0.18,Male
+Approve,16/08/2021,0.31,Male
+Disapprove,16/08/2021,0.48,Male
+Don't know,16/08/2021,0.21,Male
+Approve,23/08/2021,0.3,Male
+Disapprove,23/08/2021,0.53,Male
+Don't know,23/08/2021,0.17,Male
+Approve,29/08/2021,0.29,Male
+Disapprove,29/08/2021,0.53,Male
+Don't know,29/08/2021,0.18,Male
+Approve,06/09/2021,0.31,Male
+Disapprove,06/09/2021,0.51,Male
+Don't know,06/09/2021,0.18,Male
+Approve,12/09/2021,0.27,Male
+Disapprove,12/09/2021,0.57,Male
+Don't know,12/09/2021,0.16,Male
+Approve,19/09/2021,0.33,Male
+Disapprove,19/09/2021,0.52,Male
+Don't know,19/09/2021,0.15,Male
+Approve,26/09/2021,0.29,Male
+Disapprove,26/09/2021,0.58,Male
+Don't know,26/09/2021,0.13,Male
+Approve,04/10/2021,0.25,Male
+Disapprove,04/10/2021,0.58,Male
+Don't know,04/10/2021,0.18,Male
+Approve,11/10/2021,0.29,Male
+Disapprove,11/10/2021,0.54,Male
+Don't know,11/10/2021,0.17,Male
+Approve,18/10/2021,0.3,Male
+Disapprove,18/10/2021,0.57,Male
+Don't know,18/10/2021,0.13,Male
+Approve,25/10/2021,0.27,Male
+Disapprove,25/10/2021,0.58,Male
+Don't know,25/10/2021,0.15,Male
+Approve,01/11/2021,0.29,Male
+Disapprove,01/11/2021,0.56,Male
+Don't know,01/11/2021,0.15,Male
+Approve,07/11/2021,0.27,Male
+Disapprove,07/11/2021,0.58,Male
+Don't know,07/11/2021,0.16,Male
+Approve,15/11/2021,0.26,Male
+Disapprove,15/11/2021,0.55,Male
+Don't know,15/11/2021,0.18,Male
+Approve,22/11/2021,0.25,Male
+Disapprove,22/11/2021,0.57,Male
+Don't know,22/11/2021,0.18,Male
+Approve,29/11/2021,0.27,Male
+Disapprove,29/11/2021,0.57,Male
+Don't know,29/11/2021,0.16,Male
+Approve,05/12/2021,0.31,Male
+Disapprove,05/12/2021,0.53,Male
+Don't know,05/12/2021,0.16,Male
+Approve,13/12/2021,0.22,Male
+Disapprove,13/12/2021,0.65,Male
+Don't know,13/12/2021,0.14,Male
+Approve,20/12/2021,0.25,Male
+Disapprove,20/12/2021,0.61,Male
+Don't know,20/12/2021,0.15,Male
+Approve,27/12/2021,0.27,Male
+Disapprove,27/12/2021,0.58,Male
+Don't know,27/12/2021,0.15,Male
+Approve,02/01/2022,0.26,Male
+Disapprove,02/01/2022,0.58,Male
+Don't know,02/01/2022,0.16,Male
+Approve,10/01/2022,0.26,Male
+Disapprove,10/01/2022,0.59,Male
+Don't know,10/01/2022,0.14,Male
+Approve,17/01/2022,0.22,Male
+Disapprove,17/01/2022,0.62,Male
+Don't know,17/01/2022,0.16,Male
+Approve,24/01/2022,0.27,Male
+Disapprove,24/01/2022,0.6,Male
+Don't know,24/01/2022,0.14,Male
+Approve,31/01/2022,0.25,Male
+Disapprove,31/01/2022,0.6,Male
+Don't know,31/01/2022,0.15,Male
+Approve,06/02/2022,0.21,Male
+Disapprove,06/02/2022,0.65,Male
+Don't know,06/02/2022,0.14,Male
+Approve,13/02/2022,0.25,Male
+Disapprove,13/02/2022,0.62,Male
+Don't know,13/02/2022,0.14,Male
+Approve,21/02/2022,0.25,Male
+Disapprove,21/02/2022,0.61,Male
+Don't know,21/02/2022,0.15,Male
+Approve,28/02/2022,0.29,Male
+Disapprove,28/02/2022,0.54,Male
+Don't know,28/02/2022,0.17,Male
+Approve,07/03/2022,0.27,Male
+Disapprove,07/03/2022,0.56,Male
+Don't know,07/03/2022,0.17,Male
+Approve,14/03/2022,0.25,Male
+Disapprove,14/03/2022,0.57,Male
+Don't know,14/03/2022,0.18,Male
+Approve,20/03/2022,0.26,Male
+Disapprove,20/03/2022,0.58,Male
+Don't know,20/03/2022,0.17,Male
+Approve,28/03/2022,0.29,Male
+Disapprove,28/03/2022,0.54,Male
+Don't know,28/03/2022,0.18,Male
+Approve,04/04/2022,0.24,Male
+Disapprove,04/04/2022,0.6,Male
+Don't know,04/04/2022,0.16,Male
+Approve,11/04/2022,0.26,Male
+Disapprove,11/04/2022,0.59,Male
+Don't know,11/04/2022,0.15,Male
+Approve,18/04/2022,0.24,Male
+Disapprove,18/04/2022,0.62,Male
+Don't know,18/04/2022,0.14,Male
+Approve,24/04/2022,0.27,Male
+Disapprove,24/04/2022,0.59,Male
+Don't know,24/04/2022,0.14,Male
+Approve,02/05/2022,0.23,Male
+Disapprove,02/05/2022,0.63,Male
+Don't know,02/05/2022,0.14,Male
+Approve,08/05/2022,0.24,Male
+Disapprove,08/05/2022,0.63,Male
+Don't know,08/05/2022,0.12,Male
+Approve,16/05/2022,0.24,Male
+Disapprove,16/05/2022,0.63,Male
+Don't know,16/05/2022,0.13,Male
+Approve,22/05/2022,0.25,Male
+Disapprove,22/05/2022,0.6,Male
+Don't know,22/05/2022,0.15,Male
+Approve,29/05/2022,0.25,Male
+Disapprove,29/05/2022,0.61,Male
+Don't know,29/05/2022,0.14,Male
+Approve,06/06/2022,0.23,Male
+Disapprove,06/06/2022,0.61,Male
+Don't know,06/06/2022,0.16,Male
+Approve,13/06/2022,0.25,Male
+Disapprove,13/06/2022,0.61,Male
+Don't know,13/06/2022,0.14,Male
+Approve,19/06/2022,0.22,Male
+Disapprove,19/06/2022,0.6,Male
+Don't know,19/06/2022,0.18,Male
+Approve,27/06/2022,0.25,Male
+Disapprove,27/06/2022,0.59,Male
+Don't know,27/06/2022,0.16,Male
+Approve,03/07/2022,0.21,Male
+Disapprove,03/07/2022,0.65,Male
+Don't know,03/07/2022,0.14,Male
+Approve,11/07/2022,0.24,Male
+Disapprove,11/07/2022,0.62,Male
+Don't know,11/07/2022,0.14,Male
+Approve,17/07/2022,0.23,Male
+Disapprove,17/07/2022,0.63,Male
+Don't know,17/07/2022,0.14,Male
+Approve,25/07/2022,0.23,Male
+Disapprove,25/07/2022,0.62,Male
+Don't know,25/07/2022,0.16,Male
+Approve,31/07/2022,0.23,Male
+Disapprove,31/07/2022,0.63,Male
+Don't know,31/07/2022,0.15,Male
+Approve,08/08/2022,0.21,Male
+Disapprove,08/08/2022,0.63,Male
+Don't know,08/08/2022,0.15,Male
+Approve,15/08/2022,0.2,Male
+Disapprove,15/08/2022,0.66,Male
+Don't know,15/08/2022,0.14,Male
+Approve,22/08/2022,0.18,Male
+Disapprove,22/08/2022,0.68,Male
+Don't know,22/08/2022,0.14,Male
+Approve,29/08/2022,0.19,Male
+Disapprove,29/08/2022,0.67,Male
+Don't know,29/08/2022,0.14,Male
+Approve,05/09/2022,0.2,Male
+Disapprove,05/09/2022,0.65,Male
+Don't know,05/09/2022,0.14,Male
+Approve,12/09/2022,0.23,Male
+Disapprove,12/09/2022,0.62,Male
+Don't know,12/09/2022,0.15,Male
+Approve,25/09/2022,0.19,Male
+Disapprove,25/09/2022,0.65,Male
+Don't know,25/09/2022,0.16,Male
+Approve,02/10/2022,0.14,Male
+Disapprove,02/10/2022,0.72,Male
+Don't know,02/10/2022,0.14,Male
+Approve,09/10/2022,0.15,Male
+Disapprove,09/10/2022,0.72,Male
+Don't know,09/10/2022,0.13,Male
+Approve,17/10/2022,0.1,Male
+Disapprove,17/10/2022,0.77,Male
+Don't know,17/10/2022,0.13,Male
+Approve,23/10/2022,0.08,Male
+Disapprove,23/10/2022,0.81,Male
+Don't know,23/10/2022,0.1,Male
+Approve,31/10/2022,0.15,Male
+Disapprove,31/10/2022,0.71,Male
+Don't know,31/10/2022,0.14,Male
+Approve,07/11/2022,0.14,Male
+Disapprove,07/11/2022,0.71,Male
+Don't know,07/11/2022,0.15,Male
+Approve,14/11/2022,0.13,Male
+Disapprove,14/11/2022,0.69,Male
+Don't know,14/11/2022,0.17,Male
+Approve,21/11/2022,0.15,Male
+Disapprove,21/11/2022,0.73,Male
+Don't know,21/11/2022,0.12,Male
+Approve,28/11/2022,0.16,Male
+Disapprove,28/11/2022,0.69,Male
+Don't know,28/11/2022,0.16,Male
+Approve,05/12/2022,0.12,Male
+Disapprove,05/12/2022,0.7,Male
+Don't know,05/12/2022,0.18,Male
+Approve,12/12/2022,0.17,Male
+Disapprove,12/12/2022,0.66,Male
+Don't know,12/12/2022,0.17,Male
+Approve,19/12/2022,0.15,Male
+Disapprove,19/12/2022,0.71,Male
+Don't know,19/12/2022,0.14,Male
+Approve,26/12/2022,0.19,Male
+Disapprove,26/12/2022,0.65,Male
+Don't know,26/12/2022,0.16,Male
+Approve,01/01/2023,0.15,Male
+Disapprove,01/01/2023,0.69,Male
+Don't know,01/01/2023,0.16,Male
+Approve,09/01/2023,0.15,Male
+Disapprove,09/01/2023,0.69,Male
+Don't know,09/01/2023,0.15,Male
+Approve,15/01/2023,0.15,Male
+Disapprove,15/01/2023,0.7,Male
+Don't know,15/01/2023,0.15,Male
+Approve,23/01/2023,0.16,Male
+Disapprove,23/01/2023,0.67,Male
+Don't know,23/01/2023,0.16,Male
+Approve,30/01/2023,0.14,Male
+Disapprove,30/01/2023,0.74,Male
+Don't know,30/01/2023,0.12,Male
+Approve,06/02/2023,0.15,Male
+Disapprove,06/02/2023,0.71,Male
+Don't know,06/02/2023,0.15,Male
+Approve,13/02/2023,0.16,Male
+Disapprove,13/02/2023,0.7,Male
+Don't know,13/02/2023,0.14,Male
+Approve,20/02/2023,0.16,Male
+Disapprove,20/02/2023,0.68,Male
+Don't know,20/02/2023,0.16,Male
+Approve,26/02/2023,0.18,Male
+Disapprove,26/02/2023,0.68,Male
+Don't know,26/02/2023,0.14,Male
+Approve,06/03/2023,0.18,Male
+Disapprove,06/03/2023,0.66,Male
+Don't know,06/03/2023,0.16,Male
+Approve,20/03/2023,0.21,Male
+Disapprove,20/03/2023,0.65,Male
+Don't know,20/03/2023,0.14,Male
+Approve,27/03/2023,0.18,Male
+Disapprove,27/03/2023,0.69,Male
+Don't know,27/03/2023,0.14,Male
+Approve,03/04/2023,0.19,Male
+Disapprove,03/04/2023,0.64,Male
+Don't know,03/04/2023,0.17,Male
+Approve,10/04/2023,0.2,Male
+Disapprove,10/04/2023,0.64,Male
+Don't know,10/04/2023,0.16,Male
+Approve,17/04/2023,0.19,Male
+Disapprove,17/04/2023,0.65,Male
+Don't know,17/04/2023,0.16,Male
+Approve,24/04/2023,0.21,Male
+Disapprove,24/04/2023,0.64,Male
+Don't know,24/04/2023,0.15,Male
+Approve,01/05/2023,0.22,Male
+Disapprove,01/05/2023,0.61,Male
+Don't know,01/05/2023,0.17,Male
+Approve,08/05/2023,0.27,Male
+Disapprove,08/05/2023,0.61,Male
+Don't know,08/05/2023,0.12,Male
+Approve,15/05/2023,0.22,Male
+Disapprove,15/05/2023,0.64,Male
+Don't know,15/05/2023,0.14,Male
+Approve,21/05/2023,0.21,Male
+Disapprove,21/05/2023,0.6,Male
+Don't know,21/05/2023,0.19,Male
+Approve,28/05/2023,0.18,Male
+Disapprove,28/05/2023,0.67,Male
+Don't know,28/05/2023,0.15,Male
+Approve,05/06/2023,0.23,Male
+Disapprove,05/06/2023,0.6,Male
+Don't know,05/06/2023,0.16,Male
+Approve,12/06/2023,0.23,Male
+Disapprove,12/06/2023,0.63,Male
+Don't know,12/06/2023,0.14,Male
+Approve,19/06/2023,0.18,Male
+Disapprove,19/06/2023,0.67,Male
+Don't know,19/06/2023,0.16,Male
+Approve,26/06/2023,0.16,Male
+Disapprove,26/06/2023,0.69,Male
+Don't know,26/06/2023,0.15,Male
+Approve,03/07/2023,0.16,Male
+Disapprove,03/07/2023,0.68,Male
+Don't know,03/07/2023,0.16,Male
+Approve,10/07/2023,0.15,Male
+Disapprove,10/07/2023,0.67,Male
+Don't know,10/07/2023,0.18,Male
+Approve,17/07/2023,0.16,Male
+Disapprove,17/07/2023,0.7,Male
+Don't know,17/07/2023,0.14,Male
+Approve,24/07/2023,0.14,Male
+Disapprove,24/07/2023,0.73,Male
+Don't know,24/07/2023,0.13,Male
+Approve,31/07/2023,0.16,Male
+Disapprove,31/07/2023,0.7,Male
+Don't know,31/07/2023,0.14,Male
+Approve,07/08/2023,0.14,Male
+Disapprove,07/08/2023,0.7,Male
+Don't know,07/08/2023,0.15,Male
+Approve,14/08/2023,0.17,Male
+Disapprove,14/08/2023,0.69,Male
+Don't know,14/08/2023,0.14,Male
+Approve,21/08/2023,0.15,Male
+Disapprove,21/08/2023,0.7,Male
+Don't know,21/08/2023,0.15,Male
+Approve,28/08/2023,0.17,Male
+Disapprove,28/08/2023,0.68,Male
+Don't know,28/08/2023,0.15,Male
+Approve,04/09/2023,0.15,Male
+Disapprove,04/09/2023,0.71,Male
+Don't know,04/09/2023,0.13,Male
+Approve,11/09/2023,0.15,Male
+Disapprove,11/09/2023,0.74,Male
+Don't know,11/09/2023,0.11,Male
+Approve,18/09/2023,0.16,Male
+Disapprove,18/09/2023,0.72,Male
+Don't know,18/09/2023,0.12,Male
+Approve,25/09/2023,0.2,Male
+Disapprove,25/09/2023,0.67,Male
+Don't know,25/09/2023,0.13,Male
+Approve,02/10/2023,0.16,Male
+Disapprove,02/10/2023,0.7,Male
+Don't know,02/10/2023,0.14,Male
+Approve,09/10/2023,0.15,Male
+Disapprove,09/10/2023,0.72,Male
+Don't know,09/10/2023,0.13,Male
+Approve,16/10/2023,0.19,Male
+Disapprove,16/10/2023,0.66,Male
+Don't know,16/10/2023,0.15,Male
+Approve,23/10/2023,0.17,Male
+Disapprove,23/10/2023,0.69,Male
+Don't know,23/10/2023,0.14,Male
+Approve,30/10/2023,0.16,Male
+Disapprove,30/10/2023,0.7,Male
+Don't know,30/10/2023,0.14,Male
+Approve,06/11/2023,0.16,Male
+Disapprove,06/11/2023,0.69,Male
+Don't know,06/11/2023,0.15,Male
+Approve,13/11/2023,0.17,Male
+Disapprove,13/11/2023,0.67,Male
+Don't know,13/11/2023,0.16,Male
+Approve,20/11/2023,0.16,Male
+Disapprove,20/11/2023,0.71,Male
+Don't know,20/11/2023,0.13,Male
+Approve,27/11/2023,0.17,Male
+Disapprove,27/11/2023,0.7,Male
+Don't know,27/11/2023,0.13,Male
+Approve,04/12/2023,0.18,Male
+Disapprove,04/12/2023,0.68,Male
+Don't know,04/12/2023,0.13,Male
+Approve,11/12/2023,0.16,Male
+Disapprove,11/12/2023,0.71,Male
+Don't know,11/12/2023,0.13,Male
+Approve,18/12/2023,0.16,Male
+Disapprove,18/12/2023,0.71,Male
+Don't know,18/12/2023,0.12,Male
+Approve,24/12/2023,0.14,Male
+Disapprove,24/12/2023,0.7,Male
+Don't know,24/12/2023,0.16,Male
+Approve,01/01/2024,0.18,Male
+Disapprove,01/01/2024,0.69,Male
+Don't know,01/01/2024,0.13,Male
+Approve,07/01/2024,0.19,Male
+Disapprove,07/01/2024,0.68,Male
+Don't know,07/01/2024,0.13,Male
+Approve,15/01/2024,0.16,Male
+Disapprove,15/01/2024,0.68,Male
+Don't know,15/01/2024,0.16,Male
+Approve,22/01/2024,0.16,Male
+Disapprove,22/01/2024,0.7,Male
+Don't know,22/01/2024,0.14,Male
+Approve,29/01/2024,0.18,Male
+Disapprove,29/01/2024,0.66,Male
+Don't know,29/01/2024,0.15,Male
+Approve,05/02/2024,0.18,Male
+Disapprove,05/02/2024,0.67,Male
+Don't know,05/02/2024,0.15,Male
+Approve,11/02/2024,0.21,Male
+Disapprove,11/02/2024,0.65,Male
+Don't know,11/02/2024,0.14,Male
+Approve,19/02/2024,0.16,Male
+Disapprove,19/02/2024,0.72,Male
+Don't know,19/02/2024,0.12,Male
+Approve,26/02/2024,0.19,Male
+Disapprove,26/02/2024,0.68,Male
+Don't know,26/02/2024,0.13,Male
+Approve,04/03/2024,0.2,Male
+Disapprove,04/03/2024,0.68,Male
+Don't know,04/03/2024,0.12,Male
+Approve,11/03/2024,0.16,Male
+Disapprove,11/03/2024,0.72,Male
+Don't know,11/03/2024,0.12,Male
+Approve,18/03/2024,0.15,Male
+Disapprove,18/03/2024,0.69,Male
+Don't know,18/03/2024,0.16,Male
+Approve,25/03/2024,0.14,Male
+Disapprove,25/03/2024,0.73,Male
+Don't know,25/03/2024,0.13,Male
+Approve,01/04/2024,0.15,Male
+Disapprove,01/04/2024,0.71,Male
+Don't know,01/04/2024,0.13,Male
+Approve,08/04/2024,0.15,Male
+Disapprove,08/04/2024,0.74,Male
+Don't know,08/04/2024,0.11,Male
+Approve,16/04/2024,0.16,Male
+Disapprove,16/04/2024,0.69,Male
+Don't know,16/04/2024,0.14,Male
+Approve,22/04/2024,0.17,Male
+Disapprove,22/04/2024,0.68,Male
+Don't know,22/04/2024,0.15,Male
+Approve,28/04/2024,0.19,Male
+Disapprove,28/04/2024,0.66,Male
+Don't know,28/04/2024,0.15,Male
+Approve,06/05/2024,0.17,Male
+Disapprove,06/05/2024,0.72,Male
+Don't know,06/05/2024,0.11,Male
+Approve,13/05/2024,0.17,Male
+Disapprove,13/05/2024,0.71,Male
+Don't know,13/05/2024,0.12,Male
+Approve,20/05/2024,0.17,Male
+Disapprove,20/05/2024,0.7,Male
+Don't know,20/05/2024,0.13,Male
+Approve,27/05/2024,0.16,Male
+Disapprove,27/05/2024,0.71,Male
+Don't know,27/05/2024,0.13,Male
+Approve,02/06/2024,0.18,Male
+Disapprove,02/06/2024,0.7,Male
+Don't know,02/06/2024,0.12,Male
+Approve,10/06/2024,0.15,Male
+Disapprove,10/06/2024,0.73,Male
+Don't know,10/06/2024,0.12,Male
+Approve,17/06/2024,0.16,Male
+Disapprove,17/06/2024,0.73,Male
+Don't know,17/06/2024,0.11,Male
+Approve,24/06/2024,0.13,Male
+Disapprove,24/06/2024,0.78,Male
+Don't know,24/06/2024,0.09,Male
+Approve,01/07/2024,0.17,Male
+Disapprove,01/07/2024,0.74,Male
+Don't know,01/07/2024,0.09,Male
+Approve,22/07/2024,0.34,Male
+Disapprove,22/07/2024,0.31,Male
+Don't know,22/07/2024,0.35,Male
+Approve,29/07/2024,0.36,Male
+Disapprove,29/07/2024,0.29,Male
+Don't know,29/07/2024,0.35,Male
+Approve,19/08/2024,0.29,Male
+Disapprove,19/08/2024,0.49,Male
+Don't know,19/08/2024,0.22,Male
+Approve,26/08/2024,0.25,Male
+Disapprove,26/08/2024,0.52,Male
+Don't know,26/08/2024,0.22,Male
+Approve,02/09/2024,0.27,Male
+Disapprove,02/09/2024,0.51,Male
+Don't know,02/09/2024,0.22,Male
+Approve,09/09/2024,0.22,Male
+Disapprove,09/09/2024,0.56,Male
+Don't know,09/09/2024,0.22,Male
+Approve,16/09/2024,0.28,Male
+Disapprove,16/09/2024,0.51,Male
+Don't know,16/09/2024,0.21,Male
+Approve,22/09/2024,0.24,Male
+Disapprove,22/09/2024,0.56,Male
+Don't know,22/09/2024,0.19,Male
+Approve,30/09/2024,0.21,Male
+Disapprove,30/09/2024,0.57,Male
+Don't know,30/09/2024,0.22,Male
+Approve,07/10/2024,0.23,Male
+Disapprove,07/10/2024,0.58,Male
+Don't know,07/10/2024,0.18,Male
+Approve,14/10/2024,0.22,Male
+Disapprove,14/10/2024,0.58,Male
+Don't know,14/10/2024,0.19,Male
+Approve,21/10/2024,0.22,Male
+Disapprove,21/10/2024,0.61,Male
+Don't know,21/10/2024,0.17,Male
+Approve,28/10/2024,0.24,Male
+Disapprove,28/10/2024,0.61,Male
+Don't know,28/10/2024,0.15,Male
+Approve,04/11/2024,0.24,Male
+Disapprove,04/11/2024,0.57,Male
+Don't know,04/11/2024,0.19,Male
+Approve,11/11/2024,0.24,Male
+Disapprove,11/11/2024,0.57,Male
+Don't know,11/11/2024,0.19,Male
+Approve,18/11/2024,0.24,Male
+Disapprove,18/11/2024,0.57,Male
+Don't know,18/11/2024,0.19,Male
+Approve,25/11/2024,0.25,Male
+Disapprove,25/11/2024,0.54,Male
+Don't know,25/11/2024,0.2,Male
+Approve,02/12/2024,0.27,Male
+Disapprove,02/12/2024,0.56,Male
+Don't know,02/12/2024,0.18,Male
+Approve,09/02/2011,0.27,Female
+Disapprove,09/02/2011,0.55,Female
+Don't know,09/02/2011,0.19,Female
+Approve,16/02/2011,0.27,Female
+Disapprove,16/02/2011,0.55,Female
+Don't know,16/02/2011,0.19,Female
+Approve,23/02/2011,0.27,Female
+Disapprove,23/02/2011,0.55,Female
+Don't know,23/02/2011,0.17,Female
+Approve,02/03/2011,0.26,Female
+Disapprove,02/03/2011,0.56,Female
+Don't know,02/03/2011,0.18,Female
+Approve,09/03/2011,0.26,Female
+Disapprove,09/03/2011,0.57,Female
+Don't know,09/03/2011,0.17,Female
+Approve,16/03/2011,0.26,Female
+Disapprove,16/03/2011,0.56,Female
+Don't know,16/03/2011,0.18,Female
+Approve,23/03/2011,0.26,Female
+Disapprove,23/03/2011,0.56,Female
+Don't know,23/03/2011,0.18,Female
+Approve,30/03/2011,0.28,Female
+Disapprove,30/03/2011,0.55,Female
+Don't know,30/03/2011,0.17,Female
+Approve,06/04/2011,0.27,Female
+Disapprove,06/04/2011,0.55,Female
+Don't know,06/04/2011,0.18,Female
+Approve,13/04/2011,0.27,Female
+Disapprove,13/04/2011,0.56,Female
+Don't know,13/04/2011,0.18,Female
+Approve,20/04/2011,0.28,Female
+Disapprove,20/04/2011,0.53,Female
+Don't know,20/04/2011,0.18,Female
+Approve,27/04/2011,0.28,Female
+Disapprove,27/04/2011,0.55,Female
+Don't know,27/04/2011,0.17,Female
+Approve,03/05/2011,0.29,Female
+Disapprove,03/05/2011,0.53,Female
+Don't know,03/05/2011,0.19,Female
+Approve,11/05/2011,0.3,Female
+Disapprove,11/05/2011,0.54,Female
+Don't know,11/05/2011,0.16,Female
+Approve,18/05/2011,0.3,Female
+Disapprove,18/05/2011,0.53,Female
+Don't know,18/05/2011,0.16,Female
+Approve,25/05/2011,0.28,Female
+Disapprove,25/05/2011,0.53,Female
+Don't know,25/05/2011,0.18,Female
+Approve,01/06/2011,0.29,Female
+Disapprove,01/06/2011,0.53,Female
+Don't know,01/06/2011,0.18,Female
+Approve,08/06/2011,0.27,Female
+Disapprove,08/06/2011,0.54,Female
+Don't know,08/06/2011,0.19,Female
+Approve,15/06/2011,0.27,Female
+Disapprove,15/06/2011,0.55,Female
+Don't know,15/06/2011,0.18,Female
+Approve,22/06/2011,0.25,Female
+Disapprove,22/06/2011,0.56,Female
+Don't know,22/06/2011,0.19,Female
+Approve,29/06/2011,0.27,Female
+Disapprove,29/06/2011,0.55,Female
+Don't know,29/06/2011,0.18,Female
+Approve,06/07/2011,0.26,Female
+Disapprove,06/07/2011,0.57,Female
+Don't know,06/07/2011,0.17,Female
+Approve,12/07/2011,0.26,Female
+Disapprove,12/07/2011,0.56,Female
+Don't know,12/07/2011,0.18,Female
+Approve,20/07/2011,0.26,Female
+Disapprove,20/07/2011,0.55,Female
+Don't know,20/07/2011,0.19,Female
+Approve,27/07/2011,0.25,Female
+Disapprove,27/07/2011,0.57,Female
+Don't know,27/07/2011,0.18,Female
+Approve,03/08/2011,0.25,Female
+Disapprove,03/08/2011,0.56,Female
+Don't know,03/08/2011,0.19,Female
+Approve,10/08/2011,0.25,Female
+Disapprove,10/08/2011,0.56,Female
+Don't know,10/08/2011,0.18,Female
+Approve,17/08/2011,0.26,Female
+Disapprove,17/08/2011,0.57,Female
+Don't know,17/08/2011,0.17,Female
+Approve,24/08/2011,0.26,Female
+Disapprove,24/08/2011,0.56,Female
+Don't know,24/08/2011,0.18,Female
+Approve,31/08/2011,0.26,Female
+Disapprove,31/08/2011,0.56,Female
+Don't know,31/08/2011,0.18,Female
+Approve,07/09/2011,0.27,Female
+Disapprove,07/09/2011,0.55,Female
+Don't know,07/09/2011,0.18,Female
+Approve,14/09/2011,0.27,Female
+Disapprove,14/09/2011,0.54,Female
+Don't know,14/09/2011,0.19,Female
+Approve,21/09/2011,0.24,Female
+Disapprove,21/09/2011,0.57,Female
+Don't know,21/09/2011,0.19,Female
+Approve,28/09/2011,0.26,Female
+Disapprove,28/09/2011,0.56,Female
+Don't know,28/09/2011,0.18,Female
+Approve,05/10/2011,0.27,Female
+Disapprove,05/10/2011,0.55,Female
+Don't know,05/10/2011,0.18,Female
+Approve,12/10/2011,0.26,Female
+Disapprove,12/10/2011,0.56,Female
+Don't know,12/10/2011,0.18,Female
+Approve,19/10/2011,0.24,Female
+Disapprove,19/10/2011,0.57,Female
+Don't know,19/10/2011,0.2,Female
+Approve,26/10/2011,0.24,Female
+Disapprove,26/10/2011,0.57,Female
+Don't know,26/10/2011,0.19,Female
+Approve,02/11/2011,0.26,Female
+Disapprove,02/11/2011,0.56,Female
+Don't know,02/11/2011,0.18,Female
+Approve,09/11/2011,0.26,Female
+Disapprove,09/11/2011,0.55,Female
+Don't know,09/11/2011,0.2,Female
+Approve,16/11/2011,0.24,Female
+Disapprove,16/11/2011,0.57,Female
+Don't know,16/11/2011,0.19,Female
+Approve,23/11/2011,0.24,Female
+Disapprove,23/11/2011,0.58,Female
+Don't know,23/11/2011,0.18,Female
+Approve,30/11/2011,0.25,Female
+Disapprove,30/11/2011,0.56,Female
+Don't know,30/11/2011,0.2,Female
+Approve,07/12/2011,0.24,Female
+Disapprove,07/12/2011,0.58,Female
+Don't know,07/12/2011,0.18,Female
+Approve,14/12/2011,0.28,Female
+Disapprove,14/12/2011,0.52,Female
+Don't know,14/12/2011,0.2,Female
+Approve,21/12/2011,0.29,Female
+Disapprove,21/12/2011,0.52,Female
+Don't know,21/12/2011,0.18,Female
+Approve,22/12/2011,0.27,Female
+Disapprove,22/12/2011,0.55,Female
+Don't know,22/12/2011,0.18,Female
+Approve,04/01/2012,0.27,Female
+Disapprove,04/01/2012,0.52,Female
+Don't know,04/01/2012,0.21,Female
+Approve,11/01/2012,0.29,Female
+Disapprove,11/01/2012,0.51,Female
+Don't know,11/01/2012,0.19,Female
+Approve,18/01/2012,0.28,Female
+Disapprove,18/01/2012,0.53,Female
+Don't know,18/01/2012,0.19,Female
+Approve,24/01/2012,0.27,Female
+Disapprove,24/01/2012,0.54,Female
+Don't know,24/01/2012,0.19,Female
+Approve,01/02/2012,0.29,Female
+Disapprove,01/02/2012,0.52,Female
+Don't know,01/02/2012,0.18,Female
+Approve,08/02/2012,0.28,Female
+Disapprove,08/02/2012,0.54,Female
+Don't know,08/02/2012,0.18,Female
+Approve,15/02/2012,0.27,Female
+Disapprove,15/02/2012,0.53,Female
+Don't know,15/02/2012,0.2,Female
+Approve,22/02/2012,0.26,Female
+Disapprove,22/02/2012,0.55,Female
+Don't know,22/02/2012,0.19,Female
+Approve,29/02/2012,0.27,Female
+Disapprove,29/02/2012,0.54,Female
+Don't know,29/02/2012,0.19,Female
+Approve,07/03/2012,0.26,Female
+Disapprove,07/03/2012,0.56,Female
+Don't know,07/03/2012,0.18,Female
+Approve,14/03/2012,0.26,Female
+Disapprove,14/03/2012,0.54,Female
+Don't know,14/03/2012,0.2,Female
+Approve,21/03/2012,0.25,Female
+Disapprove,21/03/2012,0.58,Female
+Don't know,21/03/2012,0.18,Female
+Approve,28/03/2012,0.23,Female
+Disapprove,28/03/2012,0.58,Female
+Don't know,28/03/2012,0.18,Female
+Approve,04/04/2012,0.2,Female
+Disapprove,04/04/2012,0.63,Female
+Don't know,04/04/2012,0.17,Female
+Approve,11/04/2012,0.22,Female
+Disapprove,11/04/2012,0.6,Female
+Don't know,11/04/2012,0.17,Female
+Approve,18/04/2012,0.21,Female
+Disapprove,18/04/2012,0.62,Female
+Don't know,18/04/2012,0.18,Female
+Approve,25/04/2012,0.19,Female
+Disapprove,25/04/2012,0.63,Female
+Don't know,25/04/2012,0.17,Female
+Approve,02/05/2012,0.21,Female
+Disapprove,02/05/2012,0.62,Female
+Don't know,02/05/2012,0.17,Female
+Approve,09/05/2012,0.21,Female
+Disapprove,09/05/2012,0.62,Female
+Don't know,09/05/2012,0.18,Female
+Approve,16/05/2012,0.2,Female
+Disapprove,16/05/2012,0.62,Female
+Don't know,16/05/2012,0.18,Female
+Approve,23/05/2012,0.21,Female
+Disapprove,23/05/2012,0.61,Female
+Don't know,23/05/2012,0.18,Female
+Approve,30/05/2012,0.2,Female
+Disapprove,30/05/2012,0.62,Female
+Don't know,30/05/2012,0.18,Female
+Approve,06/06/2012,0.22,Female
+Disapprove,06/06/2012,0.61,Female
+Don't know,06/06/2012,0.17,Female
+Approve,13/06/2012,0.22,Female
+Disapprove,13/06/2012,0.59,Female
+Don't know,13/06/2012,0.19,Female
+Approve,20/06/2012,0.21,Female
+Disapprove,20/06/2012,0.6,Female
+Don't know,20/06/2012,0.19,Female
+Approve,27/06/2012,0.22,Female
+Disapprove,27/06/2012,0.6,Female
+Don't know,27/06/2012,0.18,Female
+Approve,04/07/2012,0.21,Female
+Disapprove,04/07/2012,0.61,Female
+Don't know,04/07/2012,0.18,Female
+Approve,11/07/2012,0.21,Female
+Disapprove,11/07/2012,0.59,Female
+Don't know,11/07/2012,0.19,Female
+Approve,18/07/2012,0.2,Female
+Disapprove,18/07/2012,0.61,Female
+Don't know,18/07/2012,0.19,Female
+Approve,25/07/2012,0.21,Female
+Disapprove,25/07/2012,0.61,Female
+Don't know,25/07/2012,0.18,Female
+Approve,01/08/2012,0.21,Female
+Disapprove,01/08/2012,0.59,Female
+Don't know,01/08/2012,0.2,Female
+Approve,08/08/2012,0.22,Female
+Disapprove,08/08/2012,0.6,Female
+Don't know,08/08/2012,0.18,Female
+Approve,15/08/2012,0.22,Female
+Disapprove,15/08/2012,0.59,Female
+Don't know,15/08/2012,0.19,Female
+Approve,21/08/2012,0.21,Female
+Disapprove,21/08/2012,0.59,Female
+Don't know,21/08/2012,0.2,Female
+Approve,29/08/2012,0.21,Female
+Disapprove,29/08/2012,0.6,Female
+Don't know,29/08/2012,0.19,Female
+Approve,05/09/2012,0.21,Female
+Disapprove,05/09/2012,0.61,Female
+Don't know,05/09/2012,0.18,Female
+Approve,12/09/2012,0.21,Female
+Disapprove,12/09/2012,0.6,Female
+Don't know,12/09/2012,0.19,Female
+Approve,19/09/2012,0.22,Female
+Disapprove,19/09/2012,0.59,Female
+Don't know,19/09/2012,0.19,Female
+Approve,26/09/2012,0.21,Female
+Disapprove,26/09/2012,0.61,Female
+Don't know,26/09/2012,0.18,Female
+Approve,03/10/2012,0.2,Female
+Disapprove,03/10/2012,0.59,Female
+Don't know,03/10/2012,0.21,Female
+Approve,10/10/2012,0.22,Female
+Disapprove,10/10/2012,0.59,Female
+Don't know,10/10/2012,0.19,Female
+Approve,17/10/2012,0.24,Female
+Disapprove,17/10/2012,0.59,Female
+Don't know,17/10/2012,0.17,Female
+Approve,24/10/2012,0.22,Female
+Disapprove,24/10/2012,0.59,Female
+Don't know,24/10/2012,0.19,Female
+Approve,31/10/2012,0.25,Female
+Disapprove,31/10/2012,0.57,Female
+Don't know,31/10/2012,0.17,Female
+Approve,06/11/2012,0.25,Female
+Disapprove,06/11/2012,0.56,Female
+Don't know,06/11/2012,0.18,Female
+Approve,14/11/2012,0.24,Female
+Disapprove,14/11/2012,0.58,Female
+Don't know,14/11/2012,0.18,Female
+Approve,21/11/2012,0.23,Female
+Disapprove,21/11/2012,0.58,Female
+Don't know,21/11/2012,0.2,Female
+Approve,28/11/2012,0.23,Female
+Disapprove,28/11/2012,0.59,Female
+Don't know,28/11/2012,0.19,Female
+Approve,05/12/2012,0.23,Female
+Disapprove,05/12/2012,0.58,Female
+Don't know,05/12/2012,0.19,Female
+Approve,12/12/2012,0.23,Female
+Disapprove,12/12/2012,0.58,Female
+Don't know,12/12/2012,0.2,Female
+Approve,19/12/2012,0.23,Female
+Disapprove,19/12/2012,0.57,Female
+Don't know,19/12/2012,0.2,Female
+Approve,21/12/2012,0.23,Female
+Disapprove,21/12/2012,0.57,Female
+Don't know,21/12/2012,0.19,Female
+Approve,02/01/2013,0.21,Female
+Disapprove,02/01/2013,0.59,Female
+Don't know,02/01/2013,0.2,Female
+Approve,09/01/2013,0.24,Female
+Disapprove,09/01/2013,0.55,Female
+Don't know,09/01/2013,0.21,Female
+Approve,15/01/2013,0.24,Female
+Disapprove,15/01/2013,0.58,Female
+Don't know,15/01/2013,0.18,Female
+Approve,23/01/2013,0.24,Female
+Disapprove,23/01/2013,0.56,Female
+Don't know,23/01/2013,0.2,Female
+Approve,30/01/2013,0.24,Female
+Disapprove,30/01/2013,0.58,Female
+Don't know,30/01/2013,0.19,Female
+Approve,06/02/2013,0.22,Female
+Disapprove,06/02/2013,0.59,Female
+Don't know,06/02/2013,0.19,Female
+Approve,12/02/2013,0.22,Female
+Disapprove,12/02/2013,0.59,Female
+Don't know,12/02/2013,0.19,Female
+Approve,20/02/2013,0.22,Female
+Disapprove,20/02/2013,0.59,Female
+Don't know,20/02/2013,0.19,Female
+Approve,27/02/2013,0.23,Female
+Disapprove,27/02/2013,0.59,Female
+Don't know,27/02/2013,0.18,Female
+Approve,06/03/2013,0.2,Female
+Disapprove,06/03/2013,0.6,Female
+Don't know,06/03/2013,0.2,Female
+Approve,12/03/2013,0.21,Female
+Disapprove,12/03/2013,0.62,Female
+Don't know,12/03/2013,0.17,Female
+Approve,20/03/2013,0.21,Female
+Disapprove,20/03/2013,0.59,Female
+Don't know,20/03/2013,0.2,Female
+Approve,27/03/2013,0.21,Female
+Disapprove,27/03/2013,0.61,Female
+Don't know,27/03/2013,0.18,Female
+Approve,03/04/2013,0.21,Female
+Disapprove,03/04/2013,0.6,Female
+Don't know,03/04/2013,0.19,Female
+Approve,09/04/2013,0.23,Female
+Disapprove,09/04/2013,0.6,Female
+Don't know,09/04/2013,0.17,Female
+Approve,16/04/2013,0.25,Female
+Disapprove,16/04/2013,0.57,Female
+Don't know,16/04/2013,0.18,Female
+Approve,24/04/2013,0.25,Female
+Disapprove,24/04/2013,0.57,Female
+Don't know,24/04/2013,0.18,Female
+Approve,30/04/2013,0.23,Female
+Disapprove,30/04/2013,0.58,Female
+Don't know,30/04/2013,0.18,Female
+Approve,08/05/2013,0.23,Female
+Disapprove,08/05/2013,0.6,Female
+Don't know,08/05/2013,0.18,Female
+Approve,15/05/2013,0.23,Female
+Disapprove,15/05/2013,0.58,Female
+Don't know,15/05/2013,0.19,Female
+Approve,22/05/2013,0.22,Female
+Disapprove,22/05/2013,0.6,Female
+Don't know,22/05/2013,0.18,Female
+Approve,29/05/2013,0.21,Female
+Disapprove,29/05/2013,0.59,Female
+Don't know,29/05/2013,0.19,Female
+Approve,05/06/2013,0.21,Female
+Disapprove,05/06/2013,0.6,Female
+Don't know,05/06/2013,0.18,Female
+Approve,12/06/2013,0.22,Female
+Disapprove,12/06/2013,0.58,Female
+Don't know,12/06/2013,0.2,Female
+Approve,19/06/2013,0.21,Female
+Disapprove,19/06/2013,0.6,Female
+Don't know,19/06/2013,0.19,Female
+Approve,26/06/2013,0.23,Female
+Disapprove,26/06/2013,0.57,Female
+Don't know,26/06/2013,0.2,Female
+Approve,03/07/2013,0.23,Female
+Disapprove,03/07/2013,0.56,Female
+Don't know,03/07/2013,0.21,Female
+Approve,10/07/2013,0.24,Female
+Disapprove,10/07/2013,0.57,Female
+Don't know,10/07/2013,0.19,Female
+Approve,16/07/2013,0.24,Female
+Disapprove,16/07/2013,0.56,Female
+Don't know,16/07/2013,0.2,Female
+Approve,24/07/2013,0.25,Female
+Disapprove,24/07/2013,0.57,Female
+Don't know,24/07/2013,0.18,Female
+Approve,30/07/2013,0.26,Female
+Disapprove,30/07/2013,0.55,Female
+Don't know,30/07/2013,0.19,Female
+Approve,07/08/2013,0.24,Female
+Disapprove,07/08/2013,0.56,Female
+Don't know,07/08/2013,0.19,Female
+Approve,14/08/2013,0.25,Female
+Disapprove,14/08/2013,0.55,Female
+Don't know,14/08/2013,0.2,Female
+Approve,21/08/2013,0.25,Female
+Disapprove,21/08/2013,0.57,Female
+Don't know,21/08/2013,0.18,Female
+Approve,28/08/2013,0.23,Female
+Disapprove,28/08/2013,0.57,Female
+Don't know,28/08/2013,0.2,Female
+Approve,04/09/2013,0.26,Female
+Disapprove,04/09/2013,0.55,Female
+Don't know,04/09/2013,0.19,Female
+Approve,11/09/2013,0.24,Female
+Disapprove,11/09/2013,0.56,Female
+Don't know,11/09/2013,0.2,Female
+Approve,18/09/2013,0.26,Female
+Disapprove,18/09/2013,0.54,Female
+Don't know,18/09/2013,0.2,Female
+Approve,23/09/2013,0.26,Female
+Disapprove,23/09/2013,0.55,Female
+Don't know,23/09/2013,0.18,Female
+Approve,02/10/2013,0.27,Female
+Disapprove,02/10/2013,0.55,Female
+Don't know,02/10/2013,0.18,Female
+Approve,09/10/2013,0.29,Female
+Disapprove,09/10/2013,0.54,Female
+Don't know,09/10/2013,0.17,Female
+Approve,16/10/2013,0.28,Female
+Disapprove,16/10/2013,0.53,Female
+Don't know,16/10/2013,0.19,Female
+Approve,23/10/2013,0.26,Female
+Disapprove,23/10/2013,0.57,Female
+Don't know,23/10/2013,0.18,Female
+Approve,30/10/2013,0.24,Female
+Disapprove,30/10/2013,0.57,Female
+Don't know,30/10/2013,0.18,Female
+Approve,06/11/2013,0.24,Female
+Disapprove,06/11/2013,0.56,Female
+Don't know,06/11/2013,0.19,Female
+Approve,12/11/2013,0.24,Female
+Disapprove,12/11/2013,0.58,Female
+Don't know,12/11/2013,0.18,Female
+Approve,20/11/2013,0.24,Female
+Disapprove,20/11/2013,0.56,Female
+Don't know,20/11/2013,0.19,Female
+Approve,27/11/2013,0.25,Female
+Disapprove,27/11/2013,0.55,Female
+Don't know,27/11/2013,0.19,Female
+Approve,04/12/2013,0.25,Female
+Disapprove,04/12/2013,0.55,Female
+Don't know,04/12/2013,0.2,Female
+Approve,10/12/2013,0.25,Female
+Disapprove,10/12/2013,0.54,Female
+Don't know,10/12/2013,0.21,Female
+Approve,12/12/2013,0.29,Female
+Disapprove,12/12/2013,0.52,Female
+Don't know,12/12/2013,0.19,Female
+Approve,19/12/2013,0.26,Female
+Disapprove,19/12/2013,0.55,Female
+Don't know,19/12/2013,0.19,Female
+Approve,08/01/2014,0.26,Female
+Disapprove,08/01/2014,0.54,Female
+Don't know,08/01/2014,0.19,Female
+Approve,15/01/2014,0.25,Female
+Disapprove,15/01/2014,0.55,Female
+Don't know,15/01/2014,0.19,Female
+Approve,22/01/2014,0.27,Female
+Disapprove,22/01/2014,0.55,Female
+Don't know,22/01/2014,0.18,Female
+Approve,29/01/2014,0.27,Female
+Disapprove,29/01/2014,0.53,Female
+Don't know,29/01/2014,0.2,Female
+Approve,30/01/2014,0.32,Female
+Disapprove,30/01/2014,0.5,Female
+Don't know,30/01/2014,0.18,Female
+Approve,12/02/2014,0.25,Female
+Disapprove,12/02/2014,0.55,Female
+Don't know,12/02/2014,0.2,Female
+Approve,18/02/2014,0.27,Female
+Disapprove,18/02/2014,0.54,Female
+Don't know,18/02/2014,0.19,Female
+Approve,26/02/2014,0.26,Female
+Disapprove,26/02/2014,0.57,Female
+Don't know,26/02/2014,0.17,Female
+Approve,05/03/2014,0.27,Female
+Disapprove,05/03/2014,0.56,Female
+Don't know,05/03/2014,0.17,Female
+Approve,12/03/2014,0.27,Female
+Disapprove,12/03/2014,0.54,Female
+Don't know,12/03/2014,0.19,Female
+Approve,19/03/2014,0.27,Female
+Disapprove,19/03/2014,0.54,Female
+Don't know,19/03/2014,0.19,Female
+Approve,26/03/2014,0.29,Female
+Disapprove,26/03/2014,0.52,Female
+Don't know,26/03/2014,0.18,Female
+Approve,02/04/2014,0.29,Female
+Disapprove,02/04/2014,0.52,Female
+Don't know,02/04/2014,0.19,Female
+Approve,09/04/2014,0.28,Female
+Disapprove,09/04/2014,0.53,Female
+Don't know,09/04/2014,0.19,Female
+Approve,16/04/2014,0.28,Female
+Disapprove,16/04/2014,0.54,Female
+Don't know,16/04/2014,0.18,Female
+Approve,23/04/2014,0.28,Female
+Disapprove,23/04/2014,0.52,Female
+Don't know,23/04/2014,0.2,Female
+Approve,30/04/2014,0.29,Female
+Disapprove,30/04/2014,0.52,Female
+Don't know,30/04/2014,0.19,Female
+Approve,07/05/2014,0.28,Female
+Disapprove,07/05/2014,0.53,Female
+Don't know,07/05/2014,0.19,Female
+Approve,14/05/2014,0.27,Female
+Disapprove,14/05/2014,0.53,Female
+Don't know,14/05/2014,0.19,Female
+Approve,21/05/2014,0.27,Female
+Disapprove,21/05/2014,0.56,Female
+Don't know,21/05/2014,0.17,Female
+Approve,28/05/2014,0.27,Female
+Disapprove,28/05/2014,0.55,Female
+Don't know,28/05/2014,0.18,Female
+Approve,04/06/2014,0.27,Female
+Disapprove,04/06/2014,0.54,Female
+Don't know,04/06/2014,0.19,Female
+Approve,11/06/2014,0.27,Female
+Disapprove,11/06/2014,0.55,Female
+Don't know,11/06/2014,0.18,Female
+Approve,18/06/2014,0.28,Female
+Disapprove,18/06/2014,0.53,Female
+Don't know,18/06/2014,0.2,Female
+Approve,25/06/2014,0.28,Female
+Disapprove,25/06/2014,0.53,Female
+Don't know,25/06/2014,0.19,Female
+Approve,01/07/2014,0.27,Female
+Disapprove,01/07/2014,0.54,Female
+Don't know,01/07/2014,0.19,Female
+Approve,09/07/2014,0.27,Female
+Disapprove,09/07/2014,0.52,Female
+Don't know,09/07/2014,0.21,Female
+Approve,16/07/2014,0.26,Female
+Disapprove,16/07/2014,0.53,Female
+Don't know,16/07/2014,0.2,Female
+Approve,23/07/2014,0.27,Female
+Disapprove,23/07/2014,0.54,Female
+Don't know,23/07/2014,0.19,Female
+Approve,30/07/2014,0.28,Female
+Disapprove,30/07/2014,0.52,Female
+Don't know,30/07/2014,0.2,Female
+Approve,04/08/2014,0.29,Female
+Disapprove,04/08/2014,0.52,Female
+Don't know,04/08/2014,0.19,Female
+Approve,12/08/2014,0.27,Female
+Disapprove,12/08/2014,0.52,Female
+Don't know,12/08/2014,0.21,Female
+Approve,20/08/2014,0.28,Female
+Disapprove,20/08/2014,0.51,Female
+Don't know,20/08/2014,0.21,Female
+Approve,27/08/2014,0.27,Female
+Disapprove,27/08/2014,0.53,Female
+Don't know,27/08/2014,0.2,Female
+Approve,03/09/2014,0.26,Female
+Disapprove,03/09/2014,0.54,Female
+Don't know,03/09/2014,0.2,Female
+Approve,10/09/2014,0.27,Female
+Disapprove,10/09/2014,0.55,Female
+Don't know,10/09/2014,0.18,Female
+Approve,17/09/2014,0.26,Female
+Disapprove,17/09/2014,0.55,Female
+Don't know,17/09/2014,0.18,Female
+Approve,24/09/2014,0.27,Female
+Disapprove,24/09/2014,0.53,Female
+Don't know,24/09/2014,0.2,Female
+Approve,01/10/2014,0.28,Female
+Disapprove,01/10/2014,0.55,Female
+Don't know,01/10/2014,0.17,Female
+Approve,08/10/2014,0.29,Female
+Disapprove,08/10/2014,0.53,Female
+Don't know,08/10/2014,0.17,Female
+Approve,15/10/2014,0.27,Female
+Disapprove,15/10/2014,0.54,Female
+Don't know,15/10/2014,0.18,Female
+Approve,22/10/2014,0.28,Female
+Disapprove,22/10/2014,0.54,Female
+Don't know,22/10/2014,0.18,Female
+Approve,29/10/2014,0.27,Female
+Disapprove,29/10/2014,0.54,Female
+Don't know,29/10/2014,0.19,Female
+Approve,05/11/2014,0.28,Female
+Disapprove,05/11/2014,0.52,Female
+Don't know,05/11/2014,0.2,Female
+Approve,12/11/2014,0.26,Female
+Disapprove,12/11/2014,0.55,Female
+Don't know,12/11/2014,0.18,Female
+Approve,19/11/2014,0.27,Female
+Disapprove,19/11/2014,0.53,Female
+Don't know,19/11/2014,0.2,Female
+Approve,26/11/2014,0.27,Female
+Disapprove,26/11/2014,0.55,Female
+Don't know,26/11/2014,0.18,Female
+Approve,03/12/2014,0.27,Female
+Disapprove,03/12/2014,0.54,Female
+Don't know,03/12/2014,0.19,Female
+Approve,09/12/2014,0.27,Female
+Disapprove,09/12/2014,0.56,Female
+Don't know,09/12/2014,0.18,Female
+Approve,17/12/2014,0.27,Female
+Disapprove,17/12/2014,0.53,Female
+Don't know,17/12/2014,0.19,Female
+Approve,22/12/2014,0.27,Female
+Disapprove,22/12/2014,0.53,Female
+Don't know,22/12/2014,0.2,Female
+Approve,07/01/2015,0.29,Female
+Disapprove,07/01/2015,0.52,Female
+Don't know,07/01/2015,0.19,Female
+Approve,14/01/2015,0.27,Female
+Disapprove,14/01/2015,0.54,Female
+Don't know,14/01/2015,0.19,Female
+Approve,21/01/2015,0.28,Female
+Disapprove,21/01/2015,0.53,Female
+Don't know,21/01/2015,0.19,Female
+Approve,28/01/2015,0.3,Female
+Disapprove,28/01/2015,0.52,Female
+Don't know,28/01/2015,0.18,Female
+Approve,04/02/2015,0.28,Female
+Disapprove,04/02/2015,0.52,Female
+Don't know,04/02/2015,0.2,Female
+Approve,11/02/2015,0.29,Female
+Disapprove,11/02/2015,0.52,Female
+Don't know,11/02/2015,0.19,Female
+Approve,18/02/2015,0.28,Female
+Disapprove,18/02/2015,0.53,Female
+Don't know,18/02/2015,0.19,Female
+Approve,24/02/2015,0.29,Female
+Disapprove,24/02/2015,0.52,Female
+Don't know,24/02/2015,0.19,Female
+Approve,04/03/2015,0.3,Female
+Disapprove,04/03/2015,0.51,Female
+Don't know,04/03/2015,0.18,Female
+Approve,11/03/2015,0.29,Female
+Disapprove,11/03/2015,0.51,Female
+Don't know,11/03/2015,0.19,Female
+Approve,18/03/2015,0.3,Female
+Disapprove,18/03/2015,0.51,Female
+Don't know,18/03/2015,0.2,Female
+Approve,25/03/2015,0.32,Female
+Disapprove,25/03/2015,0.49,Female
+Don't know,25/03/2015,0.19,Female
+Approve,01/04/2015,0.31,Female
+Disapprove,01/04/2015,0.5,Female
+Don't know,01/04/2015,0.19,Female
+Approve,08/04/2015,0.34,Female
+Disapprove,08/04/2015,0.48,Female
+Don't know,08/04/2015,0.18,Female
+Approve,15/04/2015,0.33,Female
+Disapprove,15/04/2015,0.5,Female
+Don't know,15/04/2015,0.17,Female
+Approve,21/04/2015,0.34,Female
+Disapprove,21/04/2015,0.49,Female
+Don't know,21/04/2015,0.17,Female
+Approve,28/04/2015,0.35,Female
+Disapprove,28/04/2015,0.49,Female
+Don't know,28/04/2015,0.17,Female
+Approve,05/05/2015,0.34,Female
+Disapprove,05/05/2015,0.49,Female
+Don't know,05/05/2015,0.17,Female
+Approve,13/05/2015,0.37,Female
+Disapprove,13/05/2015,0.47,Female
+Don't know,13/05/2015,0.16,Female
+Approve,18/05/2015,0.37,Female
+Disapprove,18/05/2015,0.45,Female
+Don't know,18/05/2015,0.19,Female
+Approve,26/05/2015,0.36,Female
+Disapprove,26/05/2015,0.47,Female
+Don't know,26/05/2015,0.17,Female
+Approve,02/06/2015,0.35,Female
+Disapprove,02/06/2015,0.45,Female
+Don't know,02/06/2015,0.2,Female
+Approve,10/06/2015,0.37,Female
+Disapprove,10/06/2015,0.44,Female
+Don't know,10/06/2015,0.19,Female
+Approve,16/06/2015,0.36,Female
+Disapprove,16/06/2015,0.42,Female
+Don't know,16/06/2015,0.22,Female
+Approve,24/06/2015,0.35,Female
+Disapprove,24/06/2015,0.44,Female
+Don't know,24/06/2015,0.21,Female
+Approve,01/07/2015,0.36,Female
+Disapprove,01/07/2015,0.46,Female
+Don't know,01/07/2015,0.18,Female
+Approve,07/07/2015,0.35,Female
+Disapprove,07/07/2015,0.45,Female
+Don't know,07/07/2015,0.19,Female
+Approve,13/07/2015,0.37,Female
+Disapprove,13/07/2015,0.44,Female
+Don't know,13/07/2015,0.2,Female
+Approve,24/08/2015,0.31,Female
+Disapprove,24/08/2015,0.5,Female
+Don't know,24/08/2015,0.2,Female
+Approve,18/09/2015,0.33,Female
+Disapprove,18/09/2015,0.51,Female
+Don't know,18/09/2015,0.17,Female
+Approve,26/10/2015,0.29,Female
+Disapprove,26/10/2015,0.52,Female
+Don't know,26/10/2015,0.19,Female
+Approve,23/11/2015,0.3,Female
+Disapprove,23/11/2015,0.48,Female
+Don't know,23/11/2015,0.21,Female
+Approve,23/12/2015,0.29,Female
+Disapprove,23/12/2015,0.49,Female
+Don't know,23/12/2015,0.22,Female
+Approve,25/01/2016,0.28,Female
+Disapprove,25/01/2016,0.51,Female
+Don't know,25/01/2016,0.2,Female
+Approve,23/02/2016,0.26,Female
+Disapprove,23/02/2016,0.51,Female
+Don't know,23/02/2016,0.23,Female
+Approve,21/03/2016,0.17,Female
+Disapprove,21/03/2016,0.59,Female
+Don't know,21/03/2016,0.24,Female
+Approve,25/04/2016,0.19,Female
+Disapprove,25/04/2016,0.55,Female
+Don't know,25/04/2016,0.26,Female
+Approve,02/05/2016,0.21,Female
+Disapprove,02/05/2016,0.56,Female
+Don't know,02/05/2016,0.23,Female
+Approve,20/05/2016,0.22,Female
+Disapprove,20/05/2016,0.52,Female
+Don't know,20/05/2016,0.26,Female
+Approve,05/06/2016,0.14,Female
+Disapprove,05/06/2016,0.59,Female
+Don't know,05/06/2016,0.26,Female
+Approve,04/07/2016,0.2,Female
+Disapprove,04/07/2016,0.54,Female
+Don't know,04/07/2016,0.26,Female
+Approve,22/07/2016,0.25,Female
+Disapprove,22/07/2016,0.45,Female
+Don't know,22/07/2016,0.3,Female
+Approve,01/09/2016,0.23,Female
+Disapprove,01/09/2016,0.43,Female
+Don't know,01/09/2016,0.34,Female
+Approve,19/09/2016,0.21,Female
+Disapprove,19/09/2016,0.46,Female
+Don't know,19/09/2016,0.34,Female
+Approve,24/10/2016,0.24,Female
+Disapprove,24/10/2016,0.38,Female
+Don't know,24/10/2016,0.38,Female
+Approve,22/11/2016,0.23,Female
+Disapprove,22/11/2016,0.45,Female
+Don't know,22/11/2016,0.32,Female
+Approve,15/12/2016,0.25,Female
+Disapprove,15/12/2016,0.45,Female
+Don't know,15/12/2016,0.31,Female
+Approve,24/01/2017,0.25,Female
+Disapprove,24/01/2017,0.37,Female
+Don't know,24/01/2017,0.37,Female
+Approve,20/02/2017,0.28,Female
+Disapprove,20/02/2017,0.4,Female
+Don't know,20/02/2017,0.32,Female
+Approve,29/03/2017,0.29,Female
+Disapprove,29/03/2017,0.41,Female
+Don't know,29/03/2017,0.31,Female
+Approve,21/04/2017,0.33,Female
+Disapprove,21/04/2017,0.38,Female
+Don't know,21/04/2017,0.3,Female
+Approve,28/04/2017,0.3,Female
+Disapprove,28/04/2017,0.42,Female
+Don't know,28/04/2017,0.27,Female
+Approve,22/05/2017,0.29,Female
+Disapprove,22/05/2017,0.44,Female
+Don't know,22/05/2017,0.27,Female
+Approve,26/06/2017,0.22,Female
+Disapprove,26/06/2017,0.5,Female
+Don't know,26/06/2017,0.28,Female
+Approve,24/07/2017,0.2,Female
+Disapprove,24/07/2017,0.51,Female
+Don't know,24/07/2017,0.29,Female
+Approve,24/08/2017,0.21,Female
+Disapprove,24/08/2017,0.5,Female
+Don't know,24/08/2017,0.3,Female
+Approve,27/09/2017,0.2,Female
+Disapprove,27/09/2017,0.5,Female
+Don't know,27/09/2017,0.3,Female
+Approve,19/10/2017,0.18,Female
+Disapprove,19/10/2017,0.5,Female
+Don't know,19/10/2017,0.31,Female
+Approve,17/11/2017,0.2,Female
+Disapprove,17/11/2017,0.52,Female
+Don't know,17/11/2017,0.28,Female
+Approve,15/12/2017,0.17,Female
+Disapprove,15/12/2017,0.45,Female
+Don't know,15/12/2017,0.38,Female
+Approve,28/02/2018,0.21,Female
+Disapprove,28/02/2018,0.49,Female
+Don't know,28/02/2018,0.3,Female
+Approve,24/03/2018,0.23,Female
+Disapprove,24/03/2018,0.47,Female
+Don't know,24/03/2018,0.3,Female
+Approve,19/04/2018,0.23,Female
+Disapprove,19/04/2018,0.45,Female
+Don't know,19/04/2018,0.32,Female
+Approve,26/04/2018,0.23,Female
+Disapprove,26/04/2018,0.45,Female
+Don't know,26/04/2018,0.32,Female
+Approve,11/06/2018,0.21,Female
+Disapprove,11/06/2018,0.46,Female
+Don't know,11/06/2018,0.33,Female
+Approve,04/07/2018,0.22,Female
+Disapprove,04/07/2018,0.34,Female
+Don't know,04/07/2018,0.44,Female
+Approve,24/07/2018,0.17,Female
+Disapprove,24/07/2018,0.53,Female
+Don't know,24/07/2018,0.3,Female
+Approve,22/08/2018,0.18,Female
+Disapprove,22/08/2018,0.49,Female
+Don't know,22/08/2018,0.33,Female
+Approve,21/09/2018,0.16,Female
+Disapprove,21/09/2018,0.56,Female
+Don't know,21/09/2018,0.28,Female
+Approve,23/10/2018,0.17,Female
+Disapprove,23/10/2018,0.47,Female
+Don't know,23/10/2018,0.36,Female
+Approve,22/11/2018,0.18,Female
+Disapprove,22/11/2018,0.52,Female
+Don't know,22/11/2018,0.3,Female
+Approve,17/12/2018,0.18,Female
+Disapprove,17/12/2018,0.56,Female
+Don't know,17/12/2018,0.26,Female
+Approve,23/01/2019,0.13,Female
+Disapprove,23/01/2019,0.54,Female
+Don't know,23/01/2019,0.33,Female
+Approve,27/03/2019,0.1,Female
+Disapprove,27/03/2019,0.63,Female
+Don't know,27/03/2019,0.27,Female
+Approve,01/05/2019,0.09,Female
+Disapprove,01/05/2019,0.61,Female
+Don't know,01/05/2019,0.29,Female
+Approve,13/05/2019,0.07,Female
+Disapprove,13/05/2019,0.67,Female
+Don't know,13/05/2019,0.27,Female
+Approve,24/06/2019,0.09,Female
+Disapprove,24/06/2019,0.69,Female
+Don't know,24/06/2019,0.21,Female
+Approve,01/07/2019,0.1,Female
+Disapprove,01/07/2019,0.65,Female
+Don't know,01/07/2019,0.24,Female
+Approve,08/07/2019,0.09,Female
+Disapprove,08/07/2019,0.66,Female
+Don't know,08/07/2019,0.26,Female
+Approve,14/07/2019,0.13,Female
+Disapprove,14/07/2019,0.66,Female
+Don't know,14/07/2019,0.21,Female
+Approve,22/07/2019,0.09,Female
+Disapprove,22/07/2019,0.66,Female
+Don't know,22/07/2019,0.24,Female
+Approve,29/07/2019,0.13,Female
+Disapprove,29/07/2019,0.6,Female
+Don't know,29/07/2019,0.27,Female
+Approve,05/08/2019,0.13,Female
+Disapprove,05/08/2019,0.61,Female
+Don't know,05/08/2019,0.26,Female
+Approve,11/08/2019,0.18,Female
+Disapprove,11/08/2019,0.61,Female
+Don't know,11/08/2019,0.21,Female
+Approve,19/08/2019,0.13,Female
+Disapprove,19/08/2019,0.62,Female
+Don't know,19/08/2019,0.25,Female
+Approve,26/08/2019,0.15,Female
+Disapprove,26/08/2019,0.56,Female
+Don't know,26/08/2019,0.29,Female
+Approve,02/09/2019,0.18,Female
+Disapprove,02/09/2019,0.55,Female
+Don't know,02/09/2019,0.26,Female
+Approve,09/09/2019,0.12,Female
+Disapprove,09/09/2019,0.68,Female
+Don't know,09/09/2019,0.2,Female
+Approve,16/09/2019,0.12,Female
+Disapprove,16/09/2019,0.69,Female
+Don't know,16/09/2019,0.19,Female
+Approve,23/09/2019,0.14,Female
+Disapprove,23/09/2019,0.65,Female
+Don't know,23/09/2019,0.22,Female
+Approve,30/09/2019,0.12,Female
+Disapprove,30/09/2019,0.66,Female
+Don't know,30/09/2019,0.22,Female
+Approve,06/10/2019,0.15,Female
+Disapprove,06/10/2019,0.61,Female
+Don't know,06/10/2019,0.23,Female
+Approve,14/10/2019,0.12,Female
+Disapprove,14/10/2019,0.63,Female
+Don't know,14/10/2019,0.25,Female
+Approve,21/10/2019,0.18,Female
+Disapprove,21/10/2019,0.55,Female
+Don't know,21/10/2019,0.26,Female
+Approve,28/10/2019,0.16,Female
+Disapprove,28/10/2019,0.6,Female
+Don't know,28/10/2019,0.25,Female
+Approve,04/11/2019,0.13,Female
+Disapprove,04/11/2019,0.62,Female
+Don't know,04/11/2019,0.25,Female
+Approve,11/11/2019,0.15,Female
+Disapprove,11/11/2019,0.61,Female
+Don't know,11/11/2019,0.24,Female
+Approve,18/11/2019,0.18,Female
+Disapprove,18/11/2019,0.58,Female
+Don't know,18/11/2019,0.24,Female
+Approve,25/11/2019,0.18,Female
+Disapprove,25/11/2019,0.58,Female
+Don't know,25/11/2019,0.24,Female
+Approve,01/12/2019,0.19,Female
+Disapprove,01/12/2019,0.58,Female
+Don't know,01/12/2019,0.23,Female
+Approve,16/12/2019,0.23,Female
+Disapprove,16/12/2019,0.52,Female
+Don't know,16/12/2019,0.25,Female
+Approve,23/12/2019,0.27,Female
+Disapprove,23/12/2019,0.47,Female
+Don't know,23/12/2019,0.26,Female
+Approve,30/12/2019,0.28,Female
+Disapprove,30/12/2019,0.45,Female
+Don't know,30/12/2019,0.27,Female
+Approve,06/01/2020,0.27,Female
+Disapprove,06/01/2020,0.44,Female
+Don't know,06/01/2020,0.29,Female
+Approve,13/01/2020,0.29,Female
+Disapprove,13/01/2020,0.42,Female
+Don't know,13/01/2020,0.29,Female
+Approve,20/01/2020,0.28,Female
+Disapprove,20/01/2020,0.46,Female
+Don't know,20/01/2020,0.27,Female
+Approve,27/01/2020,0.31,Female
+Disapprove,27/01/2020,0.4,Female
+Don't know,27/01/2020,0.29,Female
+Approve,03/02/2020,0.3,Female
+Disapprove,03/02/2020,0.41,Female
+Don't know,03/02/2020,0.28,Female
+Approve,09/02/2020,0.31,Female
+Disapprove,09/02/2020,0.41,Female
+Don't know,09/02/2020,0.28,Female
+Approve,17/02/2020,0.27,Female
+Disapprove,17/02/2020,0.42,Female
+Don't know,17/02/2020,0.31,Female
+Approve,24/02/2020,0.29,Female
+Disapprove,24/02/2020,0.42,Female
+Don't know,24/02/2020,0.29,Female
+Approve,02/03/2020,0.27,Female
+Disapprove,02/03/2020,0.42,Female
+Don't know,02/03/2020,0.32,Female
+Approve,09/03/2020,0.31,Female
+Disapprove,09/03/2020,0.35,Female
+Don't know,09/03/2020,0.34,Female
+Approve,16/03/2020,0.36,Female
+Disapprove,16/03/2020,0.34,Female
+Don't know,16/03/2020,0.29,Female
+Approve,23/03/2020,0.52,Female
+Disapprove,23/03/2020,0.23,Female
+Don't know,23/03/2020,0.25,Female
+Approve,30/03/2020,0.53,Female
+Disapprove,30/03/2020,0.22,Female
+Don't know,30/03/2020,0.25,Female
+Approve,06/04/2020,0.48,Female
+Disapprove,06/04/2020,0.27,Female
+Don't know,06/04/2020,0.25,Female
+Approve,13/04/2020,0.48,Female
+Disapprove,13/04/2020,0.24,Female
+Don't know,13/04/2020,0.28,Female
+Approve,20/04/2020,0.47,Female
+Disapprove,20/04/2020,0.29,Female
+Don't know,20/04/2020,0.25,Female
+Approve,27/04/2020,0.45,Female
+Disapprove,27/04/2020,0.27,Female
+Don't know,27/04/2020,0.27,Female
+Approve,03/05/2020,0.48,Female
+Disapprove,03/05/2020,0.27,Female
+Don't know,03/05/2020,0.25,Female
+Approve,10/05/2020,0.45,Female
+Disapprove,10/05/2020,0.32,Female
+Don't know,10/05/2020,0.23,Female
+Approve,18/05/2020,0.36,Female
+Disapprove,18/05/2020,0.4,Female
+Don't know,18/05/2020,0.24,Female
+Approve,25/05/2020,0.37,Female
+Disapprove,25/05/2020,0.38,Female
+Don't know,25/05/2020,0.25,Female
+Approve,02/06/2020,0.31,Female
+Disapprove,02/06/2020,0.44,Female
+Don't know,02/06/2020,0.25,Female
+Approve,08/06/2020,0.28,Female
+Disapprove,08/06/2020,0.49,Female
+Don't know,08/06/2020,0.23,Female
+Approve,15/06/2020,0.33,Female
+Disapprove,15/06/2020,0.43,Female
+Don't know,15/06/2020,0.25,Female
+Approve,22/06/2020,0.33,Female
+Disapprove,22/06/2020,0.42,Female
+Don't know,22/06/2020,0.25,Female
+Approve,29/06/2020,0.31,Female
+Disapprove,29/06/2020,0.42,Female
+Don't know,29/06/2020,0.27,Female
+Approve,06/07/2020,0.32,Female
+Disapprove,06/07/2020,0.45,Female
+Don't know,06/07/2020,0.23,Female
+Approve,13/07/2020,0.34,Female
+Disapprove,13/07/2020,0.44,Female
+Don't know,13/07/2020,0.22,Female
+Approve,20/07/2020,0.29,Female
+Disapprove,20/07/2020,0.46,Female
+Don't know,20/07/2020,0.25,Female
+Approve,27/07/2020,0.32,Female
+Disapprove,27/07/2020,0.44,Female
+Don't know,27/07/2020,0.23,Female
+Approve,03/08/2020,0.33,Female
+Disapprove,03/08/2020,0.43,Female
+Don't know,03/08/2020,0.23,Female
+Approve,10/08/2020,0.27,Female
+Disapprove,10/08/2020,0.48,Female
+Don't know,10/08/2020,0.24,Female
+Approve,17/08/2020,0.27,Female
+Disapprove,17/08/2020,0.48,Female
+Don't know,17/08/2020,0.25,Female
+Approve,24/08/2020,0.26,Female
+Disapprove,24/08/2020,0.47,Female
+Don't know,24/08/2020,0.26,Female
+Approve,31/08/2020,0.32,Female
+Disapprove,31/08/2020,0.43,Female
+Don't know,31/08/2020,0.25,Female
+Approve,07/09/2020,0.3,Female
+Disapprove,07/09/2020,0.46,Female
+Don't know,07/09/2020,0.24,Female
+Approve,14/09/2020,0.26,Female
+Disapprove,14/09/2020,0.51,Female
+Don't know,14/09/2020,0.23,Female
+Approve,21/09/2020,0.24,Female
+Disapprove,21/09/2020,0.49,Female
+Don't know,21/09/2020,0.26,Female
+Approve,28/09/2020,0.29,Female
+Disapprove,28/09/2020,0.5,Female
+Don't know,28/09/2020,0.22,Female
+Approve,05/10/2020,0.22,Female
+Disapprove,05/10/2020,0.55,Female
+Don't know,05/10/2020,0.23,Female
+Approve,12/10/2020,0.25,Female
+Disapprove,12/10/2020,0.52,Female
+Don't know,12/10/2020,0.23,Female
+Approve,18/10/2020,0.27,Female
+Disapprove,18/10/2020,0.5,Female
+Don't know,18/10/2020,0.22,Female
+Approve,26/10/2020,0.26,Female
+Disapprove,26/10/2020,0.53,Female
+Don't know,26/10/2020,0.21,Female
+Approve,02/11/2020,0.23,Female
+Disapprove,02/11/2020,0.53,Female
+Don't know,02/11/2020,0.23,Female
+Approve,09/11/2020,0.28,Female
+Disapprove,09/11/2020,0.49,Female
+Don't know,09/11/2020,0.24,Female
+Approve,15/11/2020,0.25,Female
+Disapprove,15/11/2020,0.49,Female
+Don't know,15/11/2020,0.26,Female
+Approve,23/11/2020,0.25,Female
+Disapprove,23/11/2020,0.5,Female
+Don't know,23/11/2020,0.24,Female
+Approve,30/11/2020,0.25,Female
+Disapprove,30/11/2020,0.5,Female
+Don't know,30/11/2020,0.25,Female
+Approve,07/12/2020,0.25,Female
+Disapprove,07/12/2020,0.5,Female
+Don't know,07/12/2020,0.24,Female
+Approve,14/12/2020,0.26,Female
+Disapprove,14/12/2020,0.47,Female
+Don't know,14/12/2020,0.27,Female
+Approve,20/12/2020,0.23,Female
+Disapprove,20/12/2020,0.5,Female
+Don't know,20/12/2020,0.27,Female
+Approve,28/12/2020,0.31,Female
+Disapprove,28/12/2020,0.44,Female
+Don't know,28/12/2020,0.25,Female
+Approve,04/01/2021,0.3,Female
+Disapprove,04/01/2021,0.46,Female
+Don't know,04/01/2021,0.25,Female
+Approve,11/01/2021,0.3,Female
+Disapprove,11/01/2021,0.47,Female
+Don't know,11/01/2021,0.23,Female
+Approve,18/01/2021,0.28,Female
+Disapprove,18/01/2021,0.47,Female
+Don't know,18/01/2021,0.25,Female
+Approve,25/01/2021,0.29,Female
+Disapprove,25/01/2021,0.45,Female
+Don't know,25/01/2021,0.26,Female
+Approve,01/02/2021,0.3,Female
+Disapprove,01/02/2021,0.45,Female
+Don't know,01/02/2021,0.25,Female
+Approve,08/02/2021,0.29,Female
+Disapprove,08/02/2021,0.45,Female
+Don't know,08/02/2021,0.26,Female
+Approve,15/02/2021,0.27,Female
+Disapprove,15/02/2021,0.46,Female
+Don't know,15/02/2021,0.27,Female
+Approve,22/02/2021,0.32,Female
+Disapprove,22/02/2021,0.44,Female
+Don't know,22/02/2021,0.24,Female
+Approve,01/03/2021,0.35,Female
+Disapprove,01/03/2021,0.39,Female
+Don't know,01/03/2021,0.26,Female
+Approve,08/03/2021,0.33,Female
+Disapprove,08/03/2021,0.41,Female
+Don't know,08/03/2021,0.26,Female
+Approve,15/03/2021,0.35,Female
+Disapprove,15/03/2021,0.42,Female
+Don't know,15/03/2021,0.23,Female
+Approve,22/03/2021,0.35,Female
+Disapprove,22/03/2021,0.38,Female
+Don't know,22/03/2021,0.27,Female
+Approve,29/03/2021,0.33,Female
+Disapprove,29/03/2021,0.4,Female
+Don't know,29/03/2021,0.28,Female
+Approve,05/04/2021,0.34,Female
+Disapprove,05/04/2021,0.38,Female
+Don't know,05/04/2021,0.28,Female
+Approve,12/04/2021,0.37,Female
+Disapprove,12/04/2021,0.36,Female
+Don't know,12/04/2021,0.27,Female
+Approve,19/04/2021,0.35,Female
+Disapprove,19/04/2021,0.37,Female
+Don't know,19/04/2021,0.28,Female
+Approve,26/04/2021,0.34,Female
+Disapprove,26/04/2021,0.39,Female
+Don't know,26/04/2021,0.26,Female
+Approve,03/05/2021,0.34,Female
+Disapprove,03/05/2021,0.4,Female
+Don't know,03/05/2021,0.26,Female
+Approve,10/05/2021,0.41,Female
+Disapprove,10/05/2021,0.35,Female
+Don't know,10/05/2021,0.25,Female
+Approve,17/05/2021,0.36,Female
+Disapprove,17/05/2021,0.37,Female
+Don't know,17/05/2021,0.28,Female
+Approve,24/05/2021,0.39,Female
+Disapprove,24/05/2021,0.4,Female
+Don't know,24/05/2021,0.22,Female
+Approve,31/05/2021,0.31,Female
+Disapprove,31/05/2021,0.43,Female
+Don't know,31/05/2021,0.26,Female
+Approve,07/06/2021,0.36,Female
+Disapprove,07/06/2021,0.39,Female
+Don't know,07/06/2021,0.26,Female
+Approve,14/06/2021,0.34,Female
+Disapprove,14/06/2021,0.43,Female
+Don't know,14/06/2021,0.23,Female
+Approve,21/06/2021,0.34,Female
+Disapprove,21/06/2021,0.43,Female
+Don't know,21/06/2021,0.23,Female
+Approve,28/06/2021,0.28,Female
+Disapprove,28/06/2021,0.47,Female
+Don't know,28/06/2021,0.25,Female
+Approve,05/07/2021,0.31,Female
+Disapprove,05/07/2021,0.48,Female
+Don't know,05/07/2021,0.22,Female
+Approve,12/07/2021,0.32,Female
+Disapprove,12/07/2021,0.45,Female
+Don't know,12/07/2021,0.23,Female
+Approve,19/07/2021,0.28,Female
+Disapprove,19/07/2021,0.48,Female
+Don't know,19/07/2021,0.24,Female
+Approve,26/07/2021,0.25,Female
+Disapprove,26/07/2021,0.49,Female
+Don't know,26/07/2021,0.25,Female
+Approve,02/08/2021,0.27,Female
+Disapprove,02/08/2021,0.48,Female
+Don't know,02/08/2021,0.25,Female
+Approve,09/08/2021,0.3,Female
+Disapprove,09/08/2021,0.45,Female
+Don't know,09/08/2021,0.25,Female
+Approve,16/08/2021,0.28,Female
+Disapprove,16/08/2021,0.45,Female
+Don't know,16/08/2021,0.26,Female
+Approve,23/08/2021,0.25,Female
+Disapprove,23/08/2021,0.47,Female
+Don't know,23/08/2021,0.29,Female
+Approve,29/08/2021,0.25,Female
+Disapprove,29/08/2021,0.48,Female
+Don't know,29/08/2021,0.28,Female
+Approve,06/09/2021,0.24,Female
+Disapprove,06/09/2021,0.47,Female
+Don't know,06/09/2021,0.29,Female
+Approve,12/09/2021,0.25,Female
+Disapprove,12/09/2021,0.49,Female
+Don't know,12/09/2021,0.26,Female
+Approve,19/09/2021,0.27,Female
+Disapprove,19/09/2021,0.46,Female
+Don't know,19/09/2021,0.28,Female
+Approve,26/09/2021,0.24,Female
+Disapprove,26/09/2021,0.51,Female
+Don't know,26/09/2021,0.26,Female
+Approve,04/10/2021,0.26,Female
+Disapprove,04/10/2021,0.49,Female
+Don't know,04/10/2021,0.25,Female
+Approve,11/10/2021,0.26,Female
+Disapprove,11/10/2021,0.51,Female
+Don't know,11/10/2021,0.23,Female
+Approve,18/10/2021,0.23,Female
+Disapprove,18/10/2021,0.48,Female
+Don't know,18/10/2021,0.29,Female
+Approve,25/10/2021,0.23,Female
+Disapprove,25/10/2021,0.5,Female
+Don't know,25/10/2021,0.26,Female
+Approve,01/11/2021,0.23,Female
+Disapprove,01/11/2021,0.47,Female
+Don't know,01/11/2021,0.3,Female
+Approve,07/11/2021,0.19,Female
+Disapprove,07/11/2021,0.51,Female
+Don't know,07/11/2021,0.3,Female
+Approve,15/11/2021,0.2,Female
+Disapprove,15/11/2021,0.54,Female
+Don't know,15/11/2021,0.26,Female
+Approve,22/11/2021,0.19,Female
+Disapprove,22/11/2021,0.55,Female
+Don't know,22/11/2021,0.26,Female
+Approve,29/11/2021,0.22,Female
+Disapprove,29/11/2021,0.51,Female
+Don't know,29/11/2021,0.26,Female
+Approve,05/12/2021,0.22,Female
+Disapprove,05/12/2021,0.53,Female
+Don't know,05/12/2021,0.25,Female
+Approve,13/12/2021,0.18,Female
+Disapprove,13/12/2021,0.62,Female
+Don't know,13/12/2021,0.2,Female
+Approve,20/12/2021,0.19,Female
+Disapprove,20/12/2021,0.6,Female
+Don't know,20/12/2021,0.21,Female
+Approve,27/12/2021,0.21,Female
+Disapprove,27/12/2021,0.55,Female
+Don't know,27/12/2021,0.23,Female
+Approve,02/01/2022,0.23,Female
+Disapprove,02/01/2022,0.53,Female
+Don't know,02/01/2022,0.24,Female
+Approve,10/01/2022,0.21,Female
+Disapprove,10/01/2022,0.53,Female
+Don't know,10/01/2022,0.26,Female
+Approve,17/01/2022,0.18,Female
+Disapprove,17/01/2022,0.64,Female
+Don't know,17/01/2022,0.18,Female
+Approve,24/01/2022,0.2,Female
+Disapprove,24/01/2022,0.59,Female
+Don't know,24/01/2022,0.21,Female
+Approve,31/01/2022,0.21,Female
+Disapprove,31/01/2022,0.6,Female
+Don't know,31/01/2022,0.2,Female
+Approve,06/02/2022,0.15,Female
+Disapprove,06/02/2022,0.62,Female
+Don't know,06/02/2022,0.23,Female
+Approve,13/02/2022,0.18,Female
+Disapprove,13/02/2022,0.59,Female
+Don't know,13/02/2022,0.23,Female
+Approve,21/02/2022,0.17,Female
+Disapprove,21/02/2022,0.6,Female
+Don't know,21/02/2022,0.23,Female
+Approve,28/02/2022,0.21,Female
+Disapprove,28/02/2022,0.57,Female
+Don't know,28/02/2022,0.23,Female
+Approve,07/03/2022,0.22,Female
+Disapprove,07/03/2022,0.53,Female
+Don't know,07/03/2022,0.24,Female
+Approve,14/03/2022,0.21,Female
+Disapprove,14/03/2022,0.52,Female
+Don't know,14/03/2022,0.27,Female
+Approve,20/03/2022,0.25,Female
+Disapprove,20/03/2022,0.49,Female
+Don't know,20/03/2022,0.26,Female
+Approve,28/03/2022,0.22,Female
+Disapprove,28/03/2022,0.52,Female
+Don't know,28/03/2022,0.26,Female
+Approve,04/04/2022,0.18,Female
+Disapprove,04/04/2022,0.58,Female
+Don't know,04/04/2022,0.24,Female
+Approve,11/04/2022,0.19,Female
+Disapprove,11/04/2022,0.55,Female
+Don't know,11/04/2022,0.26,Female
+Approve,18/04/2022,0.21,Female
+Disapprove,18/04/2022,0.58,Female
+Don't know,18/04/2022,0.21,Female
+Approve,24/04/2022,0.2,Female
+Disapprove,24/04/2022,0.59,Female
+Don't know,24/04/2022,0.22,Female
+Approve,02/05/2022,0.19,Female
+Disapprove,02/05/2022,0.61,Female
+Don't know,02/05/2022,0.2,Female
+Approve,08/05/2022,0.2,Female
+Disapprove,08/05/2022,0.58,Female
+Don't know,08/05/2022,0.22,Female
+Approve,16/05/2022,0.18,Female
+Disapprove,16/05/2022,0.6,Female
+Don't know,16/05/2022,0.22,Female
+Approve,22/05/2022,0.2,Female
+Disapprove,22/05/2022,0.57,Female
+Don't know,22/05/2022,0.24,Female
+Approve,29/05/2022,0.19,Female
+Disapprove,29/05/2022,0.59,Female
+Don't know,29/05/2022,0.21,Female
+Approve,06/06/2022,0.2,Female
+Disapprove,06/06/2022,0.58,Female
+Don't know,06/06/2022,0.22,Female
+Approve,13/06/2022,0.19,Female
+Disapprove,13/06/2022,0.59,Female
+Don't know,13/06/2022,0.22,Female
+Approve,19/06/2022,0.19,Female
+Disapprove,19/06/2022,0.58,Female
+Don't know,19/06/2022,0.23,Female
+Approve,27/06/2022,0.2,Female
+Disapprove,27/06/2022,0.61,Female
+Don't know,27/06/2022,0.2,Female
+Approve,03/07/2022,0.18,Female
+Disapprove,03/07/2022,0.59,Female
+Don't know,03/07/2022,0.23,Female
+Approve,11/07/2022,0.17,Female
+Disapprove,11/07/2022,0.65,Female
+Don't know,11/07/2022,0.18,Female
+Approve,17/07/2022,0.17,Female
+Disapprove,17/07/2022,0.61,Female
+Don't know,17/07/2022,0.22,Female
+Approve,25/07/2022,0.2,Female
+Disapprove,25/07/2022,0.61,Female
+Don't know,25/07/2022,0.19,Female
+Approve,31/07/2022,0.2,Female
+Disapprove,31/07/2022,0.58,Female
+Don't know,31/07/2022,0.23,Female
+Approve,08/08/2022,0.15,Female
+Disapprove,08/08/2022,0.61,Female
+Don't know,08/08/2022,0.24,Female
+Approve,15/08/2022,0.17,Female
+Disapprove,15/08/2022,0.62,Female
+Don't know,15/08/2022,0.21,Female
+Approve,22/08/2022,0.17,Female
+Disapprove,22/08/2022,0.62,Female
+Don't know,22/08/2022,0.21,Female
+Approve,29/08/2022,0.16,Female
+Disapprove,29/08/2022,0.63,Female
+Don't know,29/08/2022,0.22,Female
+Approve,05/09/2022,0.15,Female
+Disapprove,05/09/2022,0.63,Female
+Don't know,05/09/2022,0.22,Female
+Approve,12/09/2022,0.2,Female
+Disapprove,12/09/2022,0.55,Female
+Don't know,12/09/2022,0.26,Female
+Approve,25/09/2022,0.14,Female
+Disapprove,25/09/2022,0.59,Female
+Don't know,25/09/2022,0.27,Female
+Approve,02/10/2022,0.09,Female
+Disapprove,02/10/2022,0.72,Female
+Don't know,02/10/2022,0.19,Female
+Approve,09/10/2022,0.11,Female
+Disapprove,09/10/2022,0.69,Female
+Don't know,09/10/2022,0.21,Female
+Approve,17/10/2022,0.04,Female
+Disapprove,17/10/2022,0.77,Female
+Don't know,17/10/2022,0.19,Female
+Approve,23/10/2022,0.05,Female
+Disapprove,23/10/2022,0.82,Female
+Don't know,23/10/2022,0.14,Female
+Approve,31/10/2022,0.08,Female
+Disapprove,31/10/2022,0.73,Female
+Don't know,31/10/2022,0.2,Female
+Approve,07/11/2022,0.1,Female
+Disapprove,07/11/2022,0.69,Female
+Don't know,07/11/2022,0.21,Female
+Approve,14/11/2022,0.09,Female
+Disapprove,14/11/2022,0.68,Female
+Don't know,14/11/2022,0.23,Female
+Approve,21/11/2022,0.11,Female
+Disapprove,21/11/2022,0.67,Female
+Don't know,21/11/2022,0.22,Female
+Approve,28/11/2022,0.11,Female
+Disapprove,28/11/2022,0.65,Female
+Don't know,28/11/2022,0.24,Female
+Approve,05/12/2022,0.11,Female
+Disapprove,05/12/2022,0.66,Female
+Don't know,05/12/2022,0.22,Female
+Approve,12/12/2022,0.13,Female
+Disapprove,12/12/2022,0.63,Female
+Don't know,12/12/2022,0.25,Female
+Approve,19/12/2022,0.1,Female
+Disapprove,19/12/2022,0.66,Female
+Don't know,19/12/2022,0.23,Female
+Approve,26/12/2022,0.13,Female
+Disapprove,26/12/2022,0.64,Female
+Don't know,26/12/2022,0.24,Female
+Approve,01/01/2023,0.11,Female
+Disapprove,01/01/2023,0.61,Female
+Don't know,01/01/2023,0.27,Female
+Approve,09/01/2023,0.11,Female
+Disapprove,09/01/2023,0.68,Female
+Don't know,09/01/2023,0.21,Female
+Approve,15/01/2023,0.12,Female
+Disapprove,15/01/2023,0.61,Female
+Don't know,15/01/2023,0.27,Female
+Approve,23/01/2023,0.12,Female
+Disapprove,23/01/2023,0.63,Female
+Don't know,23/01/2023,0.26,Female
+Approve,30/01/2023,0.1,Female
+Disapprove,30/01/2023,0.66,Female
+Don't know,30/01/2023,0.24,Female
+Approve,06/02/2023,0.12,Female
+Disapprove,06/02/2023,0.66,Female
+Don't know,06/02/2023,0.22,Female
+Approve,13/02/2023,0.08,Female
+Disapprove,13/02/2023,0.7,Female
+Don't know,13/02/2023,0.22,Female
+Approve,20/02/2023,0.12,Female
+Disapprove,20/02/2023,0.64,Female
+Don't know,20/02/2023,0.24,Female
+Approve,26/02/2023,0.11,Female
+Disapprove,26/02/2023,0.63,Female
+Don't know,26/02/2023,0.25,Female
+Approve,06/03/2023,0.12,Female
+Disapprove,06/03/2023,0.65,Female
+Don't know,06/03/2023,0.23,Female
+Approve,20/03/2023,0.14,Female
+Disapprove,20/03/2023,0.64,Female
+Don't know,20/03/2023,0.23,Female
+Approve,27/03/2023,0.13,Female
+Disapprove,27/03/2023,0.6,Female
+Don't know,27/03/2023,0.27,Female
+Approve,03/04/2023,0.14,Female
+Disapprove,03/04/2023,0.63,Female
+Don't know,03/04/2023,0.23,Female
+Approve,10/04/2023,0.13,Female
+Disapprove,10/04/2023,0.62,Female
+Don't know,10/04/2023,0.25,Female
+Approve,17/04/2023,0.15,Female
+Disapprove,17/04/2023,0.58,Female
+Don't know,17/04/2023,0.27,Female
+Approve,24/04/2023,0.13,Female
+Disapprove,24/04/2023,0.64,Female
+Don't know,24/04/2023,0.23,Female
+Approve,01/05/2023,0.12,Female
+Disapprove,01/05/2023,0.63,Female
+Don't know,01/05/2023,0.24,Female
+Approve,08/05/2023,0.13,Female
+Disapprove,08/05/2023,0.62,Female
+Don't know,08/05/2023,0.25,Female
+Approve,15/05/2023,0.14,Female
+Disapprove,15/05/2023,0.62,Female
+Don't know,15/05/2023,0.25,Female
+Approve,21/05/2023,0.15,Female
+Disapprove,21/05/2023,0.6,Female
+Don't know,21/05/2023,0.25,Female
+Approve,28/05/2023,0.13,Female
+Disapprove,28/05/2023,0.64,Female
+Don't know,28/05/2023,0.24,Female
+Approve,05/06/2023,0.14,Female
+Disapprove,05/06/2023,0.58,Female
+Don't know,05/06/2023,0.28,Female
+Approve,12/06/2023,0.13,Female
+Disapprove,12/06/2023,0.65,Female
+Don't know,12/06/2023,0.23,Female
+Approve,19/06/2023,0.12,Female
+Disapprove,19/06/2023,0.64,Female
+Don't know,19/06/2023,0.24,Female
+Approve,26/06/2023,0.12,Female
+Disapprove,26/06/2023,0.64,Female
+Don't know,26/06/2023,0.25,Female
+Approve,03/07/2023,0.11,Female
+Disapprove,03/07/2023,0.66,Female
+Don't know,03/07/2023,0.23,Female
+Approve,10/07/2023,0.1,Female
+Disapprove,10/07/2023,0.68,Female
+Don't know,10/07/2023,0.22,Female
+Approve,17/07/2023,0.11,Female
+Disapprove,17/07/2023,0.67,Female
+Don't know,17/07/2023,0.22,Female
+Approve,24/07/2023,0.13,Female
+Disapprove,24/07/2023,0.64,Female
+Don't know,24/07/2023,0.23,Female
+Approve,31/07/2023,0.12,Female
+Disapprove,31/07/2023,0.63,Female
+Don't know,31/07/2023,0.25,Female
+Approve,07/08/2023,0.14,Female
+Disapprove,07/08/2023,0.65,Female
+Don't know,07/08/2023,0.21,Female
+Approve,14/08/2023,0.13,Female
+Disapprove,14/08/2023,0.64,Female
+Don't know,14/08/2023,0.23,Female
+Approve,21/08/2023,0.12,Female
+Disapprove,21/08/2023,0.62,Female
+Don't know,21/08/2023,0.26,Female
+Approve,28/08/2023,0.12,Female
+Disapprove,28/08/2023,0.65,Female
+Don't know,28/08/2023,0.23,Female
+Approve,04/09/2023,0.11,Female
+Disapprove,04/09/2023,0.66,Female
+Don't know,04/09/2023,0.23,Female
+Approve,11/09/2023,0.11,Female
+Disapprove,11/09/2023,0.67,Female
+Don't know,11/09/2023,0.22,Female
+Approve,18/09/2023,0.1,Female
+Disapprove,18/09/2023,0.67,Female
+Don't know,18/09/2023,0.23,Female
+Approve,25/09/2023,0.13,Female
+Disapprove,25/09/2023,0.62,Female
+Don't know,25/09/2023,0.24,Female
+Approve,02/10/2023,0.11,Female
+Disapprove,02/10/2023,0.64,Female
+Don't know,02/10/2023,0.25,Female
+Approve,09/10/2023,0.1,Female
+Disapprove,09/10/2023,0.67,Female
+Don't know,09/10/2023,0.23,Female
+Approve,16/10/2023,0.13,Female
+Disapprove,16/10/2023,0.63,Female
+Don't know,16/10/2023,0.24,Female
+Approve,23/10/2023,0.12,Female
+Disapprove,23/10/2023,0.66,Female
+Don't know,23/10/2023,0.22,Female
+Approve,30/10/2023,0.13,Female
+Disapprove,30/10/2023,0.64,Female
+Don't know,30/10/2023,0.23,Female
+Approve,06/11/2023,0.12,Female
+Disapprove,06/11/2023,0.64,Female
+Don't know,06/11/2023,0.24,Female
+Approve,13/11/2023,0.11,Female
+Disapprove,13/11/2023,0.64,Female
+Don't know,13/11/2023,0.25,Female
+Approve,20/11/2023,0.1,Female
+Disapprove,20/11/2023,0.69,Female
+Don't know,20/11/2023,0.21,Female
+Approve,27/11/2023,0.12,Female
+Disapprove,27/11/2023,0.66,Female
+Don't know,27/11/2023,0.21,Female
+Approve,04/12/2023,0.11,Female
+Disapprove,04/12/2023,0.65,Female
+Don't know,04/12/2023,0.25,Female
+Approve,11/12/2023,0.08,Female
+Disapprove,11/12/2023,0.68,Female
+Don't know,11/12/2023,0.24,Female
+Approve,18/12/2023,0.12,Female
+Disapprove,18/12/2023,0.64,Female
+Don't know,18/12/2023,0.24,Female
+Approve,24/12/2023,0.13,Female
+Disapprove,24/12/2023,0.63,Female
+Don't know,24/12/2023,0.24,Female
+Approve,01/01/2024,0.13,Female
+Disapprove,01/01/2024,0.62,Female
+Don't know,01/01/2024,0.25,Female
+Approve,07/01/2024,0.11,Female
+Disapprove,07/01/2024,0.64,Female
+Don't know,07/01/2024,0.24,Female
+Approve,15/01/2024,0.13,Female
+Disapprove,15/01/2024,0.65,Female
+Don't know,15/01/2024,0.23,Female
+Approve,22/01/2024,0.11,Female
+Disapprove,22/01/2024,0.62,Female
+Don't know,22/01/2024,0.27,Female
+Approve,29/01/2024,0.12,Female
+Disapprove,29/01/2024,0.64,Female
+Don't know,29/01/2024,0.24,Female
+Approve,05/02/2024,0.14,Female
+Disapprove,05/02/2024,0.61,Female
+Don't know,05/02/2024,0.25,Female
+Approve,11/02/2024,0.14,Female
+Disapprove,11/02/2024,0.64,Female
+Don't know,11/02/2024,0.22,Female
+Approve,19/02/2024,0.12,Female
+Disapprove,19/02/2024,0.65,Female
+Don't know,19/02/2024,0.23,Female
+Approve,26/02/2024,0.12,Female
+Disapprove,26/02/2024,0.63,Female
+Don't know,26/02/2024,0.25,Female
+Approve,04/03/2024,0.13,Female
+Disapprove,04/03/2024,0.66,Female
+Don't know,04/03/2024,0.21,Female
+Approve,11/03/2024,0.11,Female
+Disapprove,11/03/2024,0.67,Female
+Don't know,11/03/2024,0.21,Female
+Approve,18/03/2024,0.11,Female
+Disapprove,18/03/2024,0.7,Female
+Don't know,18/03/2024,0.19,Female
+Approve,25/03/2024,0.12,Female
+Disapprove,25/03/2024,0.64,Female
+Don't know,25/03/2024,0.23,Female
+Approve,01/04/2024,0.11,Female
+Disapprove,01/04/2024,0.68,Female
+Don't know,01/04/2024,0.22,Female
+Approve,08/04/2024,0.11,Female
+Disapprove,08/04/2024,0.65,Female
+Don't know,08/04/2024,0.24,Female
+Approve,16/04/2024,0.13,Female
+Disapprove,16/04/2024,0.66,Female
+Don't know,16/04/2024,0.21,Female
+Approve,22/04/2024,0.1,Female
+Disapprove,22/04/2024,0.65,Female
+Don't know,22/04/2024,0.25,Female
+Approve,28/04/2024,0.15,Female
+Disapprove,28/04/2024,0.64,Female
+Don't know,28/04/2024,0.21,Female
+Approve,06/05/2024,0.11,Female
+Disapprove,06/05/2024,0.68,Female
+Don't know,06/05/2024,0.22,Female
+Approve,13/05/2024,0.13,Female
+Disapprove,13/05/2024,0.66,Female
+Don't know,13/05/2024,0.21,Female
+Approve,20/05/2024,0.12,Female
+Disapprove,20/05/2024,0.67,Female
+Don't know,20/05/2024,0.21,Female
+Approve,27/05/2024,0.14,Female
+Disapprove,27/05/2024,0.66,Female
+Don't know,27/05/2024,0.2,Female
+Approve,02/06/2024,0.12,Female
+Disapprove,02/06/2024,0.66,Female
+Don't know,02/06/2024,0.22,Female
+Approve,10/06/2024,0.14,Female
+Disapprove,10/06/2024,0.68,Female
+Don't know,10/06/2024,0.18,Female
+Approve,17/06/2024,0.09,Female
+Disapprove,17/06/2024,0.7,Female
+Don't know,17/06/2024,0.2,Female
+Approve,24/06/2024,0.11,Female
+Disapprove,24/06/2024,0.7,Female
+Don't know,24/06/2024,0.19,Female
+Approve,01/07/2024,0.14,Female
+Disapprove,01/07/2024,0.68,Female
+Don't know,01/07/2024,0.19,Female
+Approve,22/07/2024,0.22,Female
+Disapprove,22/07/2024,0.33,Female
+Don't know,22/07/2024,0.44,Female
+Approve,29/07/2024,0.23,Female
+Disapprove,29/07/2024,0.32,Female
+Don't know,29/07/2024,0.45,Female
+Approve,19/08/2024,0.23,Female
+Disapprove,19/08/2024,0.45,Female
+Don't know,19/08/2024,0.33,Female
+Approve,26/08/2024,0.2,Female
+Disapprove,26/08/2024,0.5,Female
+Don't know,26/08/2024,0.3,Female
+Approve,02/09/2024,0.2,Female
+Disapprove,02/09/2024,0.49,Female
+Don't know,02/09/2024,0.31,Female
+Approve,09/09/2024,0.17,Female
+Disapprove,09/09/2024,0.53,Female
+Don't know,09/09/2024,0.3,Female
+Approve,16/09/2024,0.19,Female
+Disapprove,16/09/2024,0.55,Female
+Don't know,16/09/2024,0.26,Female
+Approve,22/09/2024,0.18,Female
+Disapprove,22/09/2024,0.56,Female
+Don't know,22/09/2024,0.26,Female
+Approve,30/09/2024,0.16,Female
+Disapprove,30/09/2024,0.57,Female
+Don't know,30/09/2024,0.27,Female
+Approve,07/10/2024,0.13,Female
+Disapprove,07/10/2024,0.6,Female
+Don't know,07/10/2024,0.27,Female
+Approve,14/10/2024,0.14,Female
+Disapprove,14/10/2024,0.6,Female
+Don't know,14/10/2024,0.26,Female
+Approve,21/10/2024,0.15,Female
+Disapprove,21/10/2024,0.58,Female
+Don't know,21/10/2024,0.27,Female
+Approve,28/10/2024,0.15,Female
+Disapprove,28/10/2024,0.57,Female
+Don't know,28/10/2024,0.27,Female
+Approve,04/11/2024,0.18,Female
+Disapprove,04/11/2024,0.53,Female
+Don't know,04/11/2024,0.28,Female
+Approve,11/11/2024,0.16,Female
+Disapprove,11/11/2024,0.6,Female
+Don't know,11/11/2024,0.24,Female
+Approve,18/11/2024,0.15,Female
+Disapprove,18/11/2024,0.55,Female
+Don't know,18/11/2024,0.3,Female
+Approve,25/11/2024,0.13,Female
+Disapprove,25/11/2024,0.61,Female
+Don't know,25/11/2024,0.26,Female
+Approve,02/12/2024,0.17,Female
+Disapprove,02/12/2024,0.6,Female
+Don't know,02/12/2024,0.23,Female
