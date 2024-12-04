@@ -10,7 +10,7 @@ body {
   font-size: 16px;
   color: #333;
   line-height: 1.6;
-  background-color: #f9fafb; /* Light gray background for a modern look */
+  background-color: #070707; /* Light gray background for a modern look */
   margin: 0 auto;
   max-width: 900px; /* Slightly wider layout for better readability */
   padding: 20px;
@@ -65,7 +65,7 @@ a:hover {
 section {
   margin-bottom: 3em; /* More space between sections */
   padding: 20px;
-  background-color: #ffffff; /* White background for sections */
+  background-color: #5f3e3e; /* White background for sections */
   border-radius: 8px; /* Add rounded corners for a softer look */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
 }
@@ -164,7 +164,7 @@ figure, img {
 section {
   margin: 3em auto; /* Centers the section itself */
   padding: 20px;
-  background-color: #ffffff;
+  background-color: #f9f7f7;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   text-align: center; /* Centers all text and elements inside */
