@@ -8,8 +8,8 @@
     "anchor": "start",
     "color": "black"
   },
-  "width": 400,
-  "height": 250,
+  "width": 550,
+  "height": 350,
   "data": {
     "url": "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/approval%20(1).csv",
     "format": {"type": "csv"}

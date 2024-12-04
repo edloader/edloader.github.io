@@ -11,8 +11,8 @@
     "anchor": "start",
     "color": "black"
   },
-  "width": 500,
-  "height": 250,
+  "width": 600,
+  "height": 350,
   "data": {
     "url": "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/social_housing_data.csv",
     "format": {"type": "csv"}
