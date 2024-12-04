@@ -1,0 +1,45 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": " UK Government Approval Ratings",
+    "subtitle": ["Source: YouGov"],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "width": 400,
+  "height": 250,
+  "data": {
+    "url": "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/approval%20(1).csv",
+    "format": {"type": "csv"}
+  },
+  "params": [
+    {
+      "name": "Variable",
+      "value": "All Adults",
+      "bind": {
+        "input": "select",
+        "options": ["All Adults", "Male", "Female"],
+        "labels": ["All Adults", "Male", "Female"]
+      }
+    }
+  ],
+  "transform": [{"filter": "datum.Variable == Variable"}],
+  "mark": {"type": "line", "clip": true, "color": "navy", "size": 3},
+  "encoding": {
+    "x": {"field": "Date", "type": "temporal", "title": "date"},
+    "y": {
+      "field": "Value",
+      "type": "quantitative",
+      "title": "Approval (%)",
+      "axis": {"format": "%"}
+    },
+    "color": {
+      "field": "Approval",
+      "title": "Approval Type",
+      "legend": {"orient": "top-left"}
+    }
+  },
+  "config": {}
+}
