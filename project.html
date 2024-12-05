@@ -33,7 +33,7 @@
         <!-- The body tag contains the elements that visitors to our page will see. -->
     <h1 class="big" style="margin-bottom: 0px;"> <!-- We have added a class to the header called "big" which we can use to style it in the CSS -->
         <!-- This is a header, it is the largest text on the page -->
-Project
+Project- Has the British Government failed its citizens?
     </h1>
     <p style="margin-top: 0px; color: darkblue">
         <!-- we're setting the margin to 0px so the header and authour name are close together -->
@@ -46,19 +46,13 @@ Project
 
        
     <section>
-        <h3>
-            Chart 1 and 2
-        </h3>
-        <p>
-            
-        </p>
-        <h3>
-            <figure id="Location1" style="width: 100%; height: 500px;"></figure>
-        </h3>
-    
-        <h3>
-            <figure id="Location2" style="width: 100%; height: 500px;"></figure>
-        </h3>
+        <h3>Chart 1 and 2</h3>
+        <p></p>
+        <div class="chart-container">
+            <figure id="Location1"></figure>
+            <figure id="Location2"></figure>
+        </div>
+    </section>
     
     </section>
 
@@ -70,7 +64,7 @@ Project
             
         </p>
         <h3>
-            <figure id="Location3" style="width: 100%; height: 500px;"></figure>
+            <figure id="Location3" style="width: 100%; height: 300px;"></figure>
         </h3>
     
     </section>
@@ -83,7 +77,7 @@ Project
             
         </p>
         <h3>
-            <figure id="Location4" style="width: 100%; height: 500px;"></figure>
+            <figure id="Location4" style="width: 100%; height: 300px;"></figure>
         </h3>
     
     </section>
@@ -95,7 +89,7 @@ Project
             
         </p>
         <h3>
-            <figure id="Location5" style="width: 100%; height: 500px;"></figure>
+            <figure id="Location5" style="width: 100%; height: 300px;"></figure>
         </h3>
     
     </section>
@@ -108,7 +102,17 @@ Project
             
         </p>
         <h3>
-            <figure id="Location14" style="width: 100%; height: 500px;"></figure>
+            <figure id="Location14" style="width: 100%; height: 300px;"></figure>
+    </section>
+    <section>
+        <h3>
+            Task 10:
+        </h3>
+        <p>
+            
+        </p>
+        <h3>
+            <figure id="Location7" style="width: 100%; height: 300px;"></figure>
     </section>
     
        <script>
@@ -130,6 +134,9 @@ Project
 
         let figure_14_spec = "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/GOV%20approval.json";
         vegaEmbed('#Location14', figure_14_spec)
+
+        let figure_7_spec = "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/Social%20Housing%20graph.json";
+        vegaEmbed('#Location7', figure_7_spec)
 
 
        </script>
