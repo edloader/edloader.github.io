@@ -59,6 +59,24 @@
         "x": {"field": "Real Wage", "type": "quantitative"},
         "y": {"field": "House Price", "type": "quantitative"}
       }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "top",
+        "dx": 30,
+        "dy": 30,
+        "font": "Helvetica Neue",
+        "fontSize": 24,
+        "fontWeight": "normal",
+        "color": "black"
+      },
+      "encoding": {
+        "text": {"value": "R² = 0.6376"},
+        "x": {"value": 0},
+        "y": {"value": 0}
+      }
     }
   ],
   "height": 500,
