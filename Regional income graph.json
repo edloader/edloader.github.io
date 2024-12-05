@@ -9,8 +9,8 @@
     "subtitleFontSize": 10,
     "anchor": "start"
   },
-  "width": 400,
-  "height": 350,
+  "width": 550,
+  "height": 400,
   "data": {
     "url": "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/Final%20income%20data.csv"
   },
