@@ -1,0 +1,15 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/Hotel%20.csv"
+  },
+  "title": {"text": "Hotel Price (1 night)"},
+  "width": 500,
+  "height": 300,
+  "mark": {"type": "line", "color": "red"},
+  "encoding": {
+    "x": {"field": "year_month", "type": "temporal", "title": "Year"},
+    "y": {"field": "Hotel", "type": "quantitative", "title": "Price (£)"}
+  },
+  "config": {}
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/White%20Bread%20vvv.csv"
+  },
+  "title": {"text": "Large White Loaf Price"},
+  "width": 500,
+  "height": 300,
+  "mark": {"type": "line", "color": "red"},
+  "transform": [{"filter": "datum['Large White Loaf'] > 0"}],
+  "encoding": {
+    "x": {"field": "year_month", "type": "temporal", "title": "Year"},
+    "y": {
+      "field": "Large White Loaf",
+      "type": "quantitative",
+      "title": "Price (£)"
+    }
+  },
+  "config": {}
+}
