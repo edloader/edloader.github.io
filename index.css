@@ -10,7 +10,7 @@ body {
   font-size: 16px;
   color: #333;
   line-height: 1.6;
-  background-color: #070707; /* Light gray background for a modern look */
+  background-color: #020202; /* Light gray background for a modern look */
   margin: 0 auto;
   max-width: 900px; /* Slightly wider layout for better readability */
   padding: 20px;
@@ -31,7 +31,7 @@ h1 {
 
 h2 {
   font-size: 2em; /* Subheading size */
-  color: #0f766e; /* Slightly lighter green for secondary headings */
+  color: #f5f8f7; /* Slightly lighter green for secondary headings */
 }
 
 h3 {

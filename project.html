@@ -29,12 +29,11 @@
                 <a href="index.html" class="nav-button">Portfolio</a>
             </nav>
         </header>
-
         <!-- The body tag contains the elements that visitors to our page will see. -->
-    <h1 class="big" style="margin-bottom: 0px;"> <!-- We have added a class to the header called "big" which we can use to style it in the CSS -->
-        <!-- This is a header, it is the largest text on the page -->
-Project- Has the British Government failed its citizens?
-    </h1>
+        <h2 class="big" style="margin-bottom: 0px; text-align: center;">
+     Has the British Government failed its citizens?
+        </h2>
+        
     <p style="margin-top: 0px; color: darkblue">
         <!-- we're setting the margin to 0px so the header and authour name are close together -->
     <a href="https://www.linkedin.com/feed/?trk=404_page">LinkedIn</a> | <a
@@ -43,79 +42,130 @@ Project- Has the British Government failed its citizens?
     <h3 class="small"> <!-- We have added a class to the header called "small" which we can use to style it in the CSS -->
         
     </h3>
-
+<section>
+    <h3>
+        AIMS: I want to assess the British Governments perfomance economically and how this has impacted the country. I will analysis different Macro and Micro economic trends to see how they link to the everyday life of British Citizens and how the Goverment has had an impact on this.
+    </h3>
+</section>
        
     <section>
-        <h3>Chart 1 and 2</h3>
-        <p></p>
+        <h3>Chart 1: GDP per Capita</h3>
+        <a href="https://colab.research.google.com/drive/1Uc0YSJRJ5DxYDxoIMXhQp4UGrLFLgDGq#scrollTo=IMV6aTfyQZLL"
+                    target="_blank">Google Colab Notebook </a>
+        
         <div class="chart-container">
             <figure id="Location1"></figure>
             <figure id="Location2"></figure>
         </div>
+        <p>
+        These choropleth maps shows the GDP per capita changes across Europe over the last century. I wanted to emphasise the comparative loss in wealth in Britain when comparing to the rest of Europe. The data was sourced from Gapminder as they have data dating back over a long time period. I then had to clean the data in order to extract the relevant sections and map it over a Europe Geo-Json with a tooltip for interactivity.
+        </p>
     </section>
     
     </section>
 
     <section>
         <h3>
-            Chart 3
+            Chart 2: Real Wages and House Prices
         </h3>
         <p>
+            <a href="https://colab.research.google.com/drive/1Yqj4vL5c68-wLCRFMYgHC9DJMloGb3N4"
+                    target="_blank">Google Colab Notebook </a>
             
         </p>
         <h3>
             <figure id="Location3" style="width: 100%; height: 300px;"></figure>
+
         </h3>
-    
-    </section>
-    
+    <img src="https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/r2%20value%20code.PNG"
+        alt="Chart Image" width="600" height="400">
+    <p>
+        This shows shows a regression of house prices and real wages and its corresponding R^2 value to assess the validity of the model. The graph shows a sharper rise in house prices in comparison to real wages, particulary in recent years. I sourced the house price data from the ONS and the real wage data through the ONS ECO API. I then used Colab to convert it into CSV format.
+    </p>
+</section>
     <section>
         <h3>
-            Chart 4
+            Chart 3: Regional Income
         </h3>
-        <p>
-            
-        </p>
-        <h3>
+    
             <figure id="Location4" style="width: 100%; height: 300px;"></figure>
-        </h3>
-    
+            <p>
+            This Chart shows the the level of income for each region in England. I wanted to assess the growing income inequality in England see which period marked the biggest increases in income disparity. The data was taken from the ONS and converted manually on Excel into readable long format data. The graphs includes a hover feature and a tooltip for increased clarity. 
+            </p>
     </section>
     <section>
         <h3>
-            Chart 4
+            Chart 4: Government Spending and GDP Growth
         </h3>
         <p>
-            
+            <a href="https://colab.research.google.com/drive/139uc91Gy117lLZYVO1kn8IlwMln-vmI2#scrollTo=52xc5q5zFWiK"
+                    target="_blank">Google Colab Notebook </a> 
         </p>
         <h3>
             <figure id="Location5" style="width: 100%; height: 300px;"></figure>
         </h3>
-    
+    <p>
+        This chart shows a scatter graph between GDP growth % and Government spending % GDP. I separated the points into their corresponding political party to see if there was a difference in performance. The data was taken from ONS and Statista and cleaned in Colab. I also manually added the political party in Excel.
+    </p>
     </section>
 
     <section>
         <h3>
-            Task 10:
+            Chart 5: Government Approval Ratings
         </h3>
-        <p>
-            
-        </p>
-        <h3>
+        <a href="https://colab.research.google.com/drive/1ZZdG4xhX9L6iArch7ALKdJyAXKH8qG3Q#scrollTo=g29gFR5dUCKP"
+                    target="_blank">Google Colab Notebook </a>
+       
             <figure id="Location14" style="width: 100%; height: 300px;"></figure>
+            <p>
+            This chart shows Government Approval rating broken down into All Adults, Male and Female. I wanted to assess the trends in approval over the time period and see if they correspond to the changes in the other areas I have analysed. The data was sourced from YouGov and cleaned in Colab.
+            </p>
     </section>
     <section>
         <h3>
-            Task 10:
+            Chart 6: Social and Private Renters
         </h3>
-        <p>
-            
-        </p>
+        <a href="https://colab.research.google.com/drive/1ALHarZ2phnyZJPugB79RLp0m0QBHirwk#scrollTo=Wt56Lu_sQinb"
+                    target="_blank">Google Colab Notebook </a>
+        
         <h3>
             <figure id="Location7" style="width: 100%; height: 300px;"></figure>
-    </section>
-    
+          </h3>  
+            <p>
+                This chart shows the cumulative proportion of private and social renters. I wanted to assess the impact of a lack of funding into social housing and how that corresponded with the data across the time period. The data was sourced from the English Housing Survey and was straightforward to clean into the relevant columns in Colab.  
+              </p>
+        </section>
+        <section>
+            <h3>
+            Chart 7: Unemployment Level
+            </h3>
+                <a href="https://colab.research.google.com/drive/1fYeBsMNhNXdewV5fHio9s8VtAYAhDjc6#scrollTo=mDaYWjLFdOT4"
+                    target="_blank">Google Colab Notebook </a>
+        
+        <h3>
+            <div class="grid-container">
+                <div class="grid-item" id="chart-USA"></div>
+                <div class="grid-item" id="chart-Spain"></div>
+                <div class="grid-item" id="chart-Germany"></div>
+                <div class="grid-item" id="chart-UK"></div>
+                <div class="grid-item" id="chart-Italy"></div>
+                <div class="grid-item" id="chart-France"></div>
+            </div>
+        </h3>
+        <p>
+            These charts shows the UK unemployment in comparison to other developed economies in order to assess Government performance in this area. This shows a relavively strong performance by the UK. The data was sourced through the ONS API using loops in Colab to download it simultaneously. I then used loops again to turn the files into JSON format.
+                 </p>
+        </section>
+       <section>
+        <h3>
+            Conclusion
+        </h3>
+        <p>
+            I have been able to identify relatively poor performance by the British Government, particulary over the last 20 years. House prices have risen disproportionately to wages, GDP growth has slowed, social housing hasn't recieved enough investment and there are high disapproval rating with the Governent among the Populus. The lack of importance political party had was interesting to assess, with both parties achieving poor performance over the last 20 years. However the 2008 financial crisis and the 2020 COVID pandemic had disastrous economic reprocussions and cannot be blamed on the Government. Additionally, the Government has achived a low unemployment rate and stayed relatively consistent with other European countries in its economic performance. 
+        </p>
+       </section>
        <script>
+    
        
        let figure_10_spec = "https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/GDP%20per%20capita%201900%20mapping.json";
         vegaEmbed('#Location1', figure_10_spec)
@@ -140,7 +190,94 @@ Project- Has the British Government failed its citizens?
 
 
        </script>
-       
+       <script>
+        const charts = [
+            {
+                id: 'chart-USA',
+                url: 'https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/API/unemployment_rate_USA.json',
+                subtitle: 'USA'
+            },
+            {
+                id: 'chart-Spain',
+                url: 'https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/API/unemployment_rate_Spain.json',
+                subtitle: 'Spain'
+            },
+            {
+                id: 'chart-Germany',
+                url: 'https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/API/unemployment_rate_Germany.json',
+                subtitle: 'Germany'
+            },
+            {
+                id: 'chart-UK',
+                url: 'https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/API/unemployment_rate_UK.json',
+                subtitle: 'UK'
+            },
+            {
+                id: 'chart-Italy',
+                url: 'https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/API/unemployment_rate_Italy.json',
+                subtitle: 'Italy'
+            },
+            {
+                id: 'chart-France',
+                url: 'https://raw.githubusercontent.com/edloader/edloader.github.io/refs/heads/main/API/unemployment_rate_France.json',
+                subtitle: 'France'
+            }
+        ];
+    
+    
+        charts.forEach(chart => {
+                const spec = {
+                    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+                    "title": {
+                        "text": "Unemployment level",
+                        "subtitle": chart.subtitle
+                    },
+                    "width": 159,
+                    "height": 150,
+                    "data": {
+                        "url": chart.url
+                    },
+                    "transform": [
+                        {
+                            "filter": "datum.date <= '2019-12-31'"
+                        }
+                    ],
+                    "mark": {
+                        "type": "bar",
+                        "color": "teal"
+                    },
+                    "encoding": {
+                        "x": {
+                            "field": "date",
+                            "type": "nominal",
+                            "axis": {
+                                "title": "Date",  // Add custom title for x-axis
+                                "labelOverlap": "greedy",
+                                "labelAngle": -45
+                            }
+                        },
+                        "y": {
+                            "field": "value",
+                            "type": "quantitative",
+                            "axis": {
+                                "title": "Unemmployment Level"   // Add custom title for y-axis
+                            }
+                        },
+    "tooltip": [
+      {"field": "date", "type": "nominal", "title": "Date"},
+      {"field": "value", "type": "quantitative", "title": "Unemployment Rate (%)"}
+    ]
+                    }
+                };
+    
+                vegaEmbed(`#${chart.id}`, spec);
+            });
+    
+    
+    
+    
+    </script>
+    
     </body>
     
        </html>
